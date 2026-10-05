@@ -1,6 +1,15 @@
 # Karussell Engine (Mentalexikon)
 
-Stand 05.10.2026. Vorgaben von Andreas: Die erfolgreichsten Karussells der Instagram Seiten Mentalogie und erfolgsart für Mentalexikon nachbauen. Tagesablauf: 9:00 Karussell, 12:00 Mindset Reel, 19:00 Karussell. Also zwei Karussells pro Tag, 9:00 und 19:00 Uhr Zypern (Asia/Nicosia), zusätzlich zu einem Reel pro Tag um 12:00 (Umstellung von Andreas am 05.10.2026, vorher drei Karussells und drei Reels). Ohne Musik. Vollautomatisch, ohne Rückfragen.
+Stand 05.10.2026 (abends). Vorgaben von Andreas: Die erfolgreichsten Karussells der Instagram Seiten Mentalogie und erfolgsart für Mentalexikon nachbauen. Die Karussells sind der einzige Inhalt im Feed der Seite: VIER Karussells pro Tag um 9:00, 12:00, 16:00 und 19:00 Uhr Zypern (Asia/Nicosia). Mindset Videos erscheinen nicht mehr als normale Beiträge (Umstellung von Andreas am 05.10.2026 abends, vorher zwei Karussells und ein Reel um 12:00). Die fertigen Videos laufen nur noch als Test Reels und gehören nicht zu dieser Engine. Noch keine Beiträge mit Kommentar Aufruf (Engagement oder Pitch), nur normale Karussells. Ohne Musik. Vollautomatisch, ohne Rückfragen.
+
+## Abwechslung (Pflicht, von Andreas am 05.10.2026 verlangt)
+Die vier Beiträge eines Tages dürfen nicht gleich aussehen und nicht gleich klingen.
+* Farbe: reihum hell, schwarz, beige über alle Termine in zeitlicher Reihenfolge. Zwei aufeinanderfolgende Termine haben nie dieselbe Farbe, auch nicht über Nacht.
+* Art des Beitrags: an einem Tag höchstens ein Karussell derselben Art. Arten: Liste mit Zahl (9 Dinge, 10 Wahrheiten), Sätze zum Nachsprechen, Erklärstück (warum etwas so ist), Geschichte oder Szene (eine Person, ein Moment), Gegenüberstellung (so klingt es, so wäre es richtig).
+* Erster Satz: nicht zwei Hooks am selben Tag mit demselben Bau. Nicht immer "X ist nicht Y. Es ist Z." und nicht immer eine Zahl. Auch die fette Pointe am Ende soll nicht jedes Mal nach dem Muster "Es ist kein A. Es ist B." gebaut sein. Höchstens ein Karussell pro Tag mit dieser Verneinungsfigur.
+* Thema: an einem Tag vier verschiedene Themenfelder (zum Beispiel Partnerschaft, Familie und Kindheit, Umgang mit schwierigen Menschen, Ruhe und Nervensystem, Selbstwert, Freundschaft, Kommunikation). Ähnliche Themen mindestens zwei Tage auseinander.
+* Länge und Satzbild: kurze Listen und längere Erklärstücke mischen, nicht viermal 9 Slides mit demselben Rhythmus.
+* Der Lektor prüft das ausdrücklich: Er bekommt alle Texte der Woche in zeitlicher Reihenfolge und meldet Tage, an denen zwei Beiträge gleich klingen. Solche Texte werden umgeschrieben oder auf einen anderen Tag getauscht.
 
 ## Vorlagen (Stand 05.10.2026, von Andreas so festgelegt)
 Es gibt zwei Vorbildseiten: Mentalogie (instagram.com/mentalogie) und erfolgsart (instagram.com/erfolgsart). Andreas will, dass immer nur die wirklich erfolgreichsten Beiträge nachgebaut werden, egal von welcher Seite.
@@ -25,7 +34,7 @@ Es gibt zwei Vorbildseiten: Mentalogie (instagram.com/mentalogie) und erfolgsart
 * Caption wie bei Mentalogie: der Slide Text als Fließtext in Absätzen, Listen nummeriert, letzte Zeile "Mehr davon: folge @mentalexikon." Keine Hashtags, keine Emojis. Die Funktion caption() in woche_beispiel.py baut das automatisch.
 
 ## Design
-1080 x 1440 JPG, Schrift Sofia Sans Condensed (500, fett 800), 82 px, linksbündig, vertikal mittig. Fußzeile: Seitenzahl, @mentalexikon, Pfeil. Farben wechseln reihum: hell, schwarz, beige.
+1080 x 1440 JPG, Schrift Sofia Sans Condensed (500, fett 800), 82 px, linksbündig, vertikal mittig. Fußzeile: Seitenzahl, @mentalexikon, Pfeil. Farben wechseln reihum: hell, schwarz, beige (siehe Abwechslung).
 
 ## Bauen
 `npm install` in diesem Ordner, dann `node build.js <Ausgabeordner> <slides.json> <beige|hell|schwarz>`. Chromium liegt unter /opt/pw-browsers/chromium. Meldet "UEBERLAUF Slide N", wenn Text nicht passt (dann kürzen). `woche_beispiel.py` ist die komplette erste Woche als Vorlage: Liste K mit (Ordnername, Quelle, Slides), erzeugt pro Karussell slides.json, caption.txt und die Bilder.
