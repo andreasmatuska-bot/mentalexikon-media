@@ -1,6 +1,6 @@
 # Karussell Engine (Mentalexikon)
 
-Stand 05.10.2026. Vorgaben von Andreas: Die erfolgreichsten Karussells der Instagram Seite Mentalogie für Mentalexikon nachbauen. Zwei Karussells pro Tag, 12:30 und 19:00 Uhr Zypern (Asia/Nicosia), zusätzlich zu einem Reel pro Tag um 9:00 (Umstellung von Andreas am 05.10.2026, vorher drei Karussells und drei Reels). Ohne Musik. Vollautomatisch, ohne Rückfragen.
+Stand 05.10.2026. Vorgaben von Andreas: Die erfolgreichsten Karussells der Instagram Seite Mentalogie für Mentalexikon nachbauen. Tagesablauf: 9:00 Karussell, 12:00 Mindset Reel, 19:00 Karussell. Also zwei Karussells pro Tag, 9:00 und 19:00 Uhr Zypern (Asia/Nicosia), zusätzlich zu einem Reel pro Tag um 12:00 (Umstellung von Andreas am 05.10.2026, vorher drei Karussells und drei Reels). Ohne Musik. Vollautomatisch, ohne Rückfragen.
 
 ## Regeln für Text
 * Inhalt sinngemäß wie die Vorlage, aber neu formuliert in natürlichem Deutsch. Nichts wörtlich abschreiben.
