@@ -152,5 +152,131 @@
   "quelle": "DdOyf3eAMq9",
   "farbe": "beige",
   "termin": "2026-10-15 09:00"
+ },
+ {
+  "nr": "23",
+  "slug": "23_paare_gewohnheiten",
+  "quelle": "DVRLsxZgrDt",
+  "seite": "erfolgsart",
+  "farbe": "hell",
+  "termin": "2026-10-06 12:00",
+  "art": "Liste mit Zahl"
+ },
+ {
+  "nr": "24",
+  "slug": "24_witz_als_tarnung",
+  "quelle": "DcbdLvlgphB",
+  "seite": "erfolgsart",
+  "farbe": "schwarz",
+  "termin": "2026-10-06 16:00",
+  "art": "Sätze zum Nachsprechen"
+ },
+ {
+  "nr": "25",
+  "slug": "25_ich_brauche_nichts",
+  "quelle": "DdMUiwOAgk7",
+  "seite": "erfolgsart",
+  "farbe": "beige",
+  "termin": "2026-10-07 12:00",
+  "art": "Gegenüberstellung"
+ },
+ {
+  "nr": "26",
+  "slug": "26_stille_helfer",
+  "quelle": "DboHMZXgnaZ",
+  "seite": "erfolgsart",
+  "farbe": "hell",
+  "termin": "2026-10-10 16:00",
+  "art": "Geschichte"
+ },
+ {
+  "nr": "27",
+  "slug": "27_eifersucht",
+  "quelle": "DV6ZUv1Amhz",
+  "seite": "erfolgsart",
+  "farbe": "schwarz",
+  "termin": "2026-10-08 12:00",
+  "art": "Gegenüberstellung"
+ },
+ {
+  "nr": "28",
+  "slug": "28_kleine_gesten",
+  "quelle": "DcEPUCbgs-I",
+  "seite": "erfolgsart",
+  "farbe": "beige",
+  "termin": "2026-10-08 16:00",
+  "art": "Geschichte"
+ },
+ {
+  "nr": "29",
+  "slug": "29_eltern_sprechen",
+  "quelle": "DXZphH6AnOg",
+  "seite": "erfolgsart",
+  "farbe": "hell",
+  "termin": "2026-10-09 12:00",
+  "art": "Szene"
+ },
+ {
+  "nr": "30",
+  "slug": "30_neuanfang",
+  "quelle": "DcL9_cCAkBX",
+  "seite": "erfolgsart",
+  "farbe": "schwarz",
+  "termin": "2026-10-09 16:00",
+  "art": "Gegenüberstellung"
+ },
+ {
+  "nr": "31",
+  "slug": "31_millennials",
+  "quelle": "DWPAdMrAhJ3",
+  "seite": "erfolgsart",
+  "farbe": "beige",
+  "termin": "2026-10-10 12:00",
+  "art": "Liste"
+ },
+ {
+  "nr": "32",
+  "slug": "32_stolz",
+  "quelle": "DdJ0S4-gumi",
+  "seite": "erfolgsart",
+  "farbe": "hell",
+  "termin": "2026-10-07 16:00",
+  "art": "Geschichte"
+ },
+ {
+  "nr": "33",
+  "slug": "33_liebe_aussprechen",
+  "quelle": "DcymgsoAtCK",
+  "seite": "erfolgsart",
+  "farbe": "schwarz",
+  "termin": "2026-10-11 12:00",
+  "art": "Sätze zum Nachsprechen"
+ },
+ {
+  "nr": "34",
+  "slug": "34_mutter_spart",
+  "quelle": "DdorvwgggN3",
+  "seite": "erfolgsart",
+  "farbe": "beige",
+  "termin": "2026-10-11 16:00",
+  "art": "Geschichte"
+ },
+ {
+  "nr": "35",
+  "slug": "35_glimmers",
+  "quelle": "DVTu0urgouw",
+  "seite": "erfolgsart",
+  "farbe": "hell",
+  "termin": "2026-10-12 12:00",
+  "art": "Erklärstück"
+ },
+ {
+  "nr": "36",
+  "slug": "36_verbindung_schuetzen",
+  "quelle": "DZFvuw3gmSQ",
+  "seite": "erfolgsart",
+  "farbe": "schwarz",
+  "termin": "2026-10-12 16:00",
+  "art": "Geschichte"
  }
 ]
