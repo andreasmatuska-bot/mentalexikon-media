@@ -1,0 +1,178 @@
+{
+ "verwendet": [
+  {
+   "nr": "01",
+   "slug": "01_berufe",
+   "quelle": "DXhOjhoiHhd",
+   "termin": "2026-10-06 17:30",
+   "typ": "nummern"
+  },
+  {
+   "nr": "02",
+   "slug": "02_respekt",
+   "quelle": "DXjkXN3iIwK",
+   "termin": "2026-10-06 20:30",
+   "typ": "liste"
+  },
+  {
+   "nr": "03",
+   "slug": "03_tochter_vater",
+   "quelle": "DXUeZv7iNlw",
+   "termin": "2026-10-07 10:30",
+   "typ": "liste"
+  },
+  {
+   "nr": "04",
+   "slug": "04_hygiene",
+   "quelle": "DXjt4l7iPNu",
+   "termin": "2026-10-07 17:30",
+   "typ": "liste"
+  },
+  {
+   "nr": "05",
+   "slug": "05_drei_gespraeche",
+   "quelle": "DXeLb6GCBet",
+   "termin": "2026-10-07 20:30",
+   "typ": "nummern"
+  },
+  {
+   "nr": "06",
+   "slug": "06_zehn_dinge",
+   "quelle": "DXWkeQjCGfG",
+   "termin": "2026-10-08 10:30",
+   "typ": "liste"
+  },
+  {
+   "nr": "07",
+   "slug": "07_chef_sprache",
+   "quelle": "DX413KDoL1U",
+   "termin": "2026-10-08 17:30",
+   "typ": "liste"
+  },
+  {
+   "nr": "08",
+   "slug": "08_sternzeichen_extrem",
+   "quelle": "DXZVBkFCIbq",
+   "termin": "2026-10-08 20:30",
+   "typ": "tabelle"
+  },
+  {
+   "nr": "09",
+   "slug": "09_sieben_jahre",
+   "quelle": "DV4IlV4iIUx",
+   "termin": "2026-10-09 10:30",
+   "typ": "liste"
+  },
+  {
+   "nr": "10",
+   "slug": "10_tricks",
+   "quelle": "DX1_HI2oBbr",
+   "termin": "2026-10-09 17:30",
+   "typ": "nummern"
+  },
+  {
+   "nr": "11",
+   "slug": "11_kitzelmonster",
+   "quelle": "DXfAvgVCNtg",
+   "termin": "2026-10-09 20:30",
+   "typ": "story"
+  },
+  {
+   "nr": "12",
+   "slug": "12_bad_falsch",
+   "quelle": "DYFVRoiIMPF",
+   "termin": "2026-10-10 10:30",
+   "typ": "liste"
+  },
+  {
+   "nr": "13",
+   "slug": "13_saetze_job",
+   "quelle": "DV73OOdCIiP",
+   "termin": "2026-10-10 17:30",
+   "typ": "liste"
+  },
+  {
+   "nr": "14",
+   "slug": "14_sternzeichen_duos",
+   "quelle": "DXUdWptCLe_",
+   "termin": "2026-10-10 20:30",
+   "typ": "gruppen"
+  },
+  {
+   "nr": "15",
+   "slug": "15_regeln_schutz",
+   "quelle": "DXT1l9YiLth",
+   "termin": "2026-10-11 10:30",
+   "typ": "liste"
+  },
+  {
+   "nr": "16",
+   "slug": "16_bad_gewohnheiten",
+   "quelle": "DXbPL4DCF8l",
+   "termin": "2026-10-11 17:30",
+   "typ": "nummern"
+  }
+ ],
+ "uebersprungen": [
+  {
+   "quelle": "DZFjPXeoTMs",
+   "grund": "Rangliste mit unsicheren Fakten"
+  },
+  {
+   "quelle": "DXbNW6JCMeb",
+   "grund": "medizinische Angaben nicht prüfbar"
+  },
+  {
+   "quelle": "DXWE4gqiNQ2",
+   "grund": "Klischees über Frauen"
+  },
+  {
+   "quelle": "DWk62owiOLX",
+   "grund": "Score Spiel mit Sex und Drogen"
+  },
+  {
+   "quelle": "DWleTU3CH0G",
+   "grund": "Preisvergleich mit falschen Zahlen"
+  },
+  {
+   "quelle": "DXdtaBTCFu7",
+   "grund": "Witz über ein Baby mit Fehlbildung"
+  },
+  {
+   "quelle": "DXpeEQvCB_i",
+   "grund": "falsche Gesundheitsdiagnosen"
+  },
+  {
+   "quelle": "DX4VxqVoitE",
+   "grund": "erfundene Körpertricks"
+  },
+  {
+   "quelle": "DV-cqt8iOM8",
+   "grund": "falsche Gesundheitsversprechen"
+  },
+  {
+   "quelle": "DY3pCtmoxMN",
+   "grund": "erfundene Psychologie Fakten"
+  },
+  {
+   "quelle": "DWMjDopiLYS",
+   "grund": "falsche Aussagen über Schlaf"
+  },
+  {
+   "quelle": "DX-BxrYIr1Z",
+   "grund": "Doppelung von 06_zehn_dinge"
+  },
+  {
+   "quelle": "DWVll9ViIgN",
+   "grund": "Gehälter nicht prüfbar"
+  },
+  {
+   "quelle": "DV2rRlYiKlV",
+   "grund": "Doppelung von 01_berufe"
+  },
+  {
+   "quelle": "DV0pFPHCCGt",
+   "grund": "Rechtsaussagen nicht prüfbar"
+  }
+ ]
+}

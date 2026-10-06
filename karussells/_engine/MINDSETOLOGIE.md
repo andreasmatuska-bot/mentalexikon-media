@@ -30,3 +30,26 @@ Wie in ANLEITUNG.md: kein UEBERLAUF, keine Gedankenstriche, Kontaktbögen ansehe
 Bilder pushen (Branch main), Adresse `https://raw.githubusercontent.com/andreasmatuska-bot/mentalexikon-media/main/mindsetologie/<slug>/01.jpg ...`. Publer: platform instagram, post_type photo, media_urls in Reihenfolge, when schedule, account 6ac4a50abf25b54bdef0ea2d. Höchstens 3 Posts pro Aufruf, dazwischen 20 Sekunden warten. Nach Fehlern erst den Bestand auflisten, nie doppelt senden. Danach mindsetologie_verwendet.json ergänzen und pushen.
 
 Test Reels: post_type reel, media_url der Videodatei aus `videos/`, network_options {"details": {"type": "reel", "trial_reel": "MANUAL", "feed": false}}.
+
+# Listen Videos (eigene Reels von Mindsetologie)
+
+Stand 06.10.2026. Vorgabe von Andreas: zusätzlich zu Karussells und Test Reels drei kurze Listen Videos pro Tag, so wie die bisherigen Reels der Seite. Vorlage sind die erfolgreichsten eigenen Videos von Mindsetologie (letzte 200 Beiträge), in etwa umgeschrieben. Sie erscheinen immer eine Stunde nach einem Karussell: 10:30, 17:30 und 20:30 Uhr Zypern. Normale Reels, keine Test Reels.
+
+## Format
+6 Sekunden, 1080 x 1920: knapp eine Sekunde nur der Hook (Überschrift in Großbuchstaben), dann die ganze Liste auf grauem Papier, goldene Überschrift, Schrift Playfair Display, unten eine Frage in kursiv und "Folg uns für mehr davon.". Ohne Musik (Publer kann keine Instagram Musik setzen), mit stiller Tonspur.
+
+## Vorlagen
+`mindsetologie_videos/_vorlagen/scrape_JJJJ-MM-TT.json`: die letzten 200 Beiträge, sortiert nach Aufrufen, mit Caption. Der Text im Video steht NICHT in der Caption, die Caption beschreibt aber das Thema. Den Text im Bild kann man nur über den Browser auf dem Mac ansehen (Video Adresse öffnen, Standbild bei 2,5 Sekunden). Ist das nicht möglich, wird das Thema aus der Caption genommen und die Liste im gleichen Stil neu geschrieben.
+`mindsetologie_videos/verwendet.json`: schon gebaute Vorlagen (verwendet) und bewusst ausgelassene (uebersprungen, mit Grund). Immer die Vorlage mit den meisten Aufrufen zuerst, die in keiner der beiden Listen steht.
+
+## Was nicht gebaut wird
+Falsche oder nicht prüfbare Aussagen über Gesundheit, Medizin, Recht, Geld und Gehälter, Ranglisten mit unsicheren Fakten, Klischees über Frauen oder Männer, Inhalte mit Sex oder Drogen, erfundene Zitate echter Personen, Doppelungen. Solche Vorlagen kommen mit Grund in uebersprungen. Gesundheitstipps nur vorsichtig (kann, oft).
+
+## Text
+Wie die Vorlage, aber in etwa umgeschrieben: gleiche Idee, gleicher Aufbau, eigene Formulierungen. Nie Gedankenstriche, du, kurze Zeilen, nur die Anführungszeichen „ und “. Angekündigte Zahl stimmt mit der Anzahl der Punkte. Höchstens 14 kurze oder 10 längere Punkte. Kein Aufruf, ein Wort zu kommentieren. Caption: zwei bis vier Sätze zum Thema, Leerzeile, die Frage, dann "Folg @mindsetologie für mehr davon." Keine Hashtags, keine Emojis.
+
+## Bauen
+Plan Datei `mindsetologie_videos/plan_JJJJ-MM-TT.json` nach dem Muster plan_2026-10-06.json (Felder nr, slug, quelle, aufrufe_vorlage, termin, typ, kopf, punkte, schluss, frage, cta, caption; typ ist nummern, liste, story, tabelle oder gruppen). In karussells/_engine: `npm install`, dann `node listen_video.js ../../mindsetologie_videos/<plan>.json ../../mindsetologie_videos [slug ...]`. Meldet UEBERLAUF, wenn der Text nicht passt (dann kürzen). Standbilder `<slug>_liste.jpg` ansehen, unabhängigen Lektor lesen lassen.
+
+## Einplanen
+Pushen, dann Publer: platform instagram, post_type reel, media_url `https://raw.githubusercontent.com/andreasmatuska-bot/mentalexikon-media/main/mindsetologie_videos/<slug>.mp4`, when schedule, account 6ac4a50abf25b54bdef0ea2d. Ein Post pro Aufruf, 20 Sekunden Pause. Danach verwendet.json ergänzen und pushen.
