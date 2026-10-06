@@ -1,0 +1,290 @@
+[
+ {
+  "nr": "23",
+  "slug": "23_paare_gewohnheiten",
+  "farbe": "schwarz",
+  "termin": "2026-10-06 12:30",
+  "art": "Liste mit Zahl",
+  "mentalexikon_termin": "2026-10-06 12:00"
+ },
+ {
+  "nr": "24",
+  "slug": "24_witz_als_tarnung",
+  "farbe": "beige",
+  "termin": "2026-10-06 16:30",
+  "art": "Sätze zum Nachsprechen",
+  "mentalexikon_termin": "2026-10-06 16:00"
+ },
+ {
+  "nr": "05",
+  "slug": "05_gehen",
+  "farbe": "hell",
+  "termin": "2026-10-06 19:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-06 19:00"
+ },
+ {
+  "nr": "09",
+  "slug": "09_tochter_und_sohn",
+  "farbe": "schwarz",
+  "termin": "2026-10-07 09:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-07 09:00"
+ },
+ {
+  "nr": "25",
+  "slug": "25_ich_brauche_nichts",
+  "farbe": "beige",
+  "termin": "2026-10-07 12:30",
+  "art": "Gegenüberstellung",
+  "mentalexikon_termin": "2026-10-07 12:00"
+ },
+ {
+  "nr": "32",
+  "slug": "32_stolz",
+  "farbe": "hell",
+  "termin": "2026-10-07 16:30",
+  "art": "Geschichte",
+  "mentalexikon_termin": "2026-10-07 16:00"
+ },
+ {
+  "nr": "07",
+  "slug": "07_sympathie",
+  "farbe": "schwarz",
+  "termin": "2026-10-07 19:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-07 19:00"
+ },
+ {
+  "nr": "08",
+  "slug": "08_respektlos_stoppen",
+  "farbe": "beige",
+  "termin": "2026-10-08 09:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-08 09:00"
+ },
+ {
+  "nr": "27",
+  "slug": "27_eifersucht",
+  "farbe": "hell",
+  "termin": "2026-10-08 12:30",
+  "art": "Gegenüberstellung",
+  "mentalexikon_termin": "2026-10-08 12:00"
+ },
+ {
+  "nr": "28",
+  "slug": "28_kleine_gesten",
+  "farbe": "schwarz",
+  "termin": "2026-10-08 16:30",
+  "art": "Geschichte",
+  "mentalexikon_termin": "2026-10-08 16:00"
+ },
+ {
+  "nr": "06",
+  "slug": "06_alleinsein",
+  "farbe": "beige",
+  "termin": "2026-10-08 19:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-08 19:00"
+ },
+ {
+  "nr": "10",
+  "slug": "10_beziehungen_wandel",
+  "farbe": "hell",
+  "termin": "2026-10-09 09:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-09 09:00"
+ },
+ {
+  "nr": "29",
+  "slug": "29_eltern_sprechen",
+  "farbe": "schwarz",
+  "termin": "2026-10-09 12:30",
+  "art": "Szene",
+  "mentalexikon_termin": "2026-10-09 12:00"
+ },
+ {
+  "nr": "30",
+  "slug": "30_neuanfang",
+  "farbe": "beige",
+  "termin": "2026-10-09 16:30",
+  "art": "Gegenüberstellung",
+  "mentalexikon_termin": "2026-10-09 16:00"
+ },
+ {
+  "nr": "11",
+  "slug": "11_liebe_wahrheiten",
+  "farbe": "hell",
+  "termin": "2026-10-09 19:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-09 19:00"
+ },
+ {
+  "nr": "12",
+  "slug": "12_mental_load",
+  "farbe": "schwarz",
+  "termin": "2026-10-10 09:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-10 09:00"
+ },
+ {
+  "nr": "31",
+  "slug": "31_millennials",
+  "farbe": "beige",
+  "termin": "2026-10-10 12:30",
+  "art": "Liste",
+  "mentalexikon_termin": "2026-10-10 12:00"
+ },
+ {
+  "nr": "26",
+  "slug": "26_stille_helfer",
+  "farbe": "hell",
+  "termin": "2026-10-10 16:30",
+  "art": "Geschichte",
+  "mentalexikon_termin": "2026-10-10 16:00"
+ },
+ {
+  "nr": "13",
+  "slug": "13_konter",
+  "farbe": "schwarz",
+  "termin": "2026-10-10 19:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-10 19:00"
+ },
+ {
+  "nr": "14",
+  "slug": "14_kinder_in_erwachsenen",
+  "farbe": "beige",
+  "termin": "2026-10-11 09:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-11 09:00"
+ },
+ {
+  "nr": "33",
+  "slug": "33_liebe_aussprechen",
+  "farbe": "hell",
+  "termin": "2026-10-11 12:30",
+  "art": "Sätze zum Nachsprechen",
+  "mentalexikon_termin": "2026-10-11 12:00"
+ },
+ {
+  "nr": "34",
+  "slug": "34_mutter_spart",
+  "farbe": "schwarz",
+  "termin": "2026-10-11 16:30",
+  "art": "Geschichte",
+  "mentalexikon_termin": "2026-10-11 16:00"
+ },
+ {
+  "nr": "15",
+  "slug": "15_fragen_fuer_naehe",
+  "farbe": "beige",
+  "termin": "2026-10-11 19:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-11 19:00"
+ },
+ {
+  "nr": "16",
+  "slug": "16_schwarzes_schaf",
+  "farbe": "hell",
+  "termin": "2026-10-12 09:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-12 09:00"
+ },
+ {
+  "nr": "35",
+  "slug": "35_glimmers",
+  "farbe": "schwarz",
+  "termin": "2026-10-12 12:30",
+  "art": "Erklärstück",
+  "mentalexikon_termin": "2026-10-12 12:00"
+ },
+ {
+  "nr": "36",
+  "slug": "36_verbindung_schuetzen",
+  "farbe": "beige",
+  "termin": "2026-10-12 16:30",
+  "art": "Geschichte",
+  "mentalexikon_termin": "2026-10-12 16:00"
+ },
+ {
+  "nr": "17",
+  "slug": "17_reife_saetze",
+  "farbe": "hell",
+  "termin": "2026-10-12 19:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-12 19:00"
+ },
+ {
+  "nr": "18",
+  "slug": "18_trauer_saetze",
+  "farbe": "schwarz",
+  "termin": "2026-10-13 09:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-13 09:00"
+ },
+ {
+  "nr": "01",
+  "slug": "01_narzisst",
+  "farbe": "hell",
+  "termin": "2026-10-13 12:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-04 sofort"
+ },
+ {
+  "nr": "03",
+  "slug": "03_hochsensibel",
+  "farbe": "beige",
+  "termin": "2026-10-13 16:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-05 19:00"
+ },
+ {
+  "nr": "19",
+  "slug": "19_unreife_mutter",
+  "farbe": "schwarz",
+  "termin": "2026-10-13 19:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-13 19:00"
+ },
+ {
+  "nr": "20",
+  "slug": "20_dein_mensch",
+  "farbe": "beige",
+  "termin": "2026-10-14 09:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-14 09:00"
+ },
+ {
+  "nr": "02",
+  "slug": "02_streit_abkuehlen",
+  "farbe": "hell",
+  "termin": "2026-10-14 12:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-05 09:00"
+ },
+ {
+  "nr": "04",
+  "slug": "04_allein_leben",
+  "farbe": "schwarz",
+  "termin": "2026-10-14 16:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-06 09:00"
+ },
+ {
+  "nr": "21",
+  "slug": "21_nichtstun",
+  "farbe": "beige",
+  "termin": "2026-10-14 19:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-14 19:00"
+ },
+ {
+  "nr": "22",
+  "slug": "22_abwehr",
+  "farbe": "hell",
+  "termin": "2026-10-15 09:30",
+  "art": "",
+  "mentalexikon_termin": "2026-10-15 09:00"
+ }
+]
