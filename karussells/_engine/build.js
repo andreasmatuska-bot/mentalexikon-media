@@ -2,7 +2,7 @@ const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
 
-const HANDLE = '@mentalexikon';
+const HANDLE = process.env.HANDLE || '@mentalexikon';
 const THEMES = { beige: ['#E3DCCB', '#16140F', '#8E8776'], hell: ['#F1EEE7', '#16140F', '#9A958A'], schwarz: ['#101010', '#F4F1EA', '#77736B'] };
 const [BG, FG, MUTED] = THEMES[process.argv[4] || 'beige'];
 const OUT = process.argv[2] || 'out';
