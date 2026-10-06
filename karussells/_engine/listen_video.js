@@ -1,90 +1,82 @@
-// Baut die kurzen Listen Videos für Mindsetologie (grauer Papier Hintergrund, goldene Überschrift, Liste).
+// Baut die kurzen Listen Videos für Mindsetologie im Stil der bisherigen Reels der Seite:
+// cremefarbener Hintergrund, goldener Kasten mit der Überschrift, Liste in Liberation Sans, Wasserzeichen MINDSETOLOGIE.
+// Das Video ist ein Standbild (wie die Originale, rund 4 Sekunden) mit eigener kurzer Musik.
 // Aufruf in karussells/_engine:  node listen_video.js <plan.json> <Ausgabeordner> [slug ...]
-// Je Eintrag entstehen <slug>.mp4 (6 Sekunden: kurz der Hook, dann die ganze Liste), <slug>_hook.jpg und <slug>_liste.jpg.
+// Je Eintrag entstehen <slug>.mp4 und <slug>.jpg (Titelbild = dasselbe Bild).
 const { chromium } = require('playwright');
 const { execFileSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
-const f = (fam, w, st) => 'data:font/woff2;base64,' + fs.readFileSync(
-  path.join(__dirname, `node_modules/@fontsource/${fam}/files/${fam}-latin-${w}-${st}.woff2`)).toString('base64');
-const GOLD = '#D2B45A';
+const GOLD = '#C8B163', BG = '#F4F1EA', INK = '#1E2021';
 const css = `
-@font-face{font-family:P;font-weight:400;src:url(${f('playfair-display', 400, 'normal')})}
-@font-face{font-family:P;font-weight:400;font-style:italic;src:url(${f('playfair-display', 400, 'italic')})}
-@font-face{font-family:P;font-weight:900;src:url(${f('playfair-display', 900, 'normal')})}
-@font-face{font-family:M;font-weight:800;src:url(${f('montserrat', 800, 'normal')})}
 *{margin:0;box-sizing:border-box}
-body{width:1080px;height:1920px;position:relative;overflow:hidden;font-family:P;color:#151515;
- background:radial-gradient(ellipse 75% 55% at 55% 30%,#f4f4f4 0%,#dcdcdc 45%,#b4b4b4 100%)}
-svg.n{position:absolute;inset:0;width:100%;height:100%;opacity:.38;mix-blend-mode:multiply}
-.w{position:absolute;left:112px;right:112px;top:200px;bottom:310px;display:flex;flex-direction:column;justify-content:center}
-h1{font-weight:900;font-size:calc(var(--s)*1.16);line-height:1.5;text-transform:uppercase;letter-spacing:.2px;margin-bottom:calc(var(--s)*1.15)}
-h1 span{background:${GOLD};padding:.12em .28em;box-decoration-break:clone;-webkit-box-decoration-break:clone;box-shadow:6px 6px 0 rgba(0,0,0,.14)}
-.i{display:flex;gap:calc(var(--s)*.7);font-size:var(--s);line-height:1.34;margin-bottom:calc(var(--s)*var(--g))}
-.i .m{flex:none;width:calc(var(--s)*1.05);color:${GOLD};font-weight:900;text-shadow:1px 1px 0 rgba(0,0,0,.18)}
-.i b,.p b,.z b{font-weight:900}
-.p{font-size:var(--s);line-height:1.4;margin-bottom:calc(var(--s)*1.05)}
-.t{display:flex;justify-content:space-between;gap:20px;font-size:var(--s);line-height:1.3;margin-bottom:calc(var(--s)*var(--g))}
-.t .l{display:flex;gap:calc(var(--s)*.6)} .t .l i{font-style:normal;color:${GOLD};font-weight:900} .t .r{font-weight:900;text-align:right;white-space:nowrap}
-.gr{display:grid;grid-template-columns:1fr 1fr;gap:calc(var(--s)*1.1) 40px}
-.gr h2{font-size:calc(var(--s)*.92);font-weight:900;letter-spacing:.5px;text-transform:uppercase;border-bottom:2px solid rgba(0,0,0,.35);display:inline-block;margin-bottom:8px}
-.gr div div{font-size:var(--s);line-height:1.32}
-.z{font-weight:900;font-size:var(--s);line-height:1.35;margin-top:calc(var(--s)*.3);border-left:6px solid ${GOLD};padding-left:18px}
-.q{font-style:italic;font-size:calc(var(--s)*.95);text-align:center;margin-top:calc(var(--s)*1.2);color:#2a2a2a}
-.c{font-weight:900;font-size:calc(var(--s)*1.12);text-align:center;margin-top:calc(var(--s)*.5)}
-.hook{position:absolute;left:90px;right:90px;top:0;bottom:120px;display:flex;align-items:center;justify-content:center;text-align:center}
-.hook p{font-family:M;font-weight:800;font-size:62px;line-height:1.62;text-transform:uppercase;letter-spacing:1px}
-.hook span{background:rgba(120,120,120,.38);border-radius:14px;padding:.12em .34em;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+body{width:720px;height:1280px;position:relative;overflow:hidden;background:${BG};color:${INK};font-family:'Liberation Sans',Arial,sans-serif}
+.w{position:absolute;left:74px;right:74px;top:0;bottom:0;display:flex;flex-direction:column;justify-content:center}
+h1{background:${GOLD};padding:16px 23px 17px;font-weight:700;font-size:var(--h);line-height:1.1;letter-spacing:-.7px;text-transform:uppercase}
+.r{border-top:1px solid #D9D6CE;margin-top:27px}
+.r2{border-top:1px solid #D9D6CE;margin-top:19px}
+.l{padding-top:19px}
+.i{display:flex;font-size:var(--s);line-height:1.5;letter-spacing:.17px;margin-bottom:var(--g)}
+.i:last-child{margin-bottom:0}
+.i .d{flex:none;width:21px;color:${GOLD};font-weight:700;font-size:1.25em;line-height:1.2}
+.i .n{flex:none;width:47px;color:${GOLD};font-weight:700;font-size:calc(var(--s)*.8);padding-top:.1em}
+.i b,.p b{font-weight:700}
+.sh{font-size:calc(var(--s)*1.1);font-weight:700;line-height:1.5;margin:4px 0 8px}
+.p{font-size:var(--s);line-height:1.5;letter-spacing:.17px;margin-bottom:var(--g)}
+.t{display:flex;justify-content:space-between;gap:16px;font-size:var(--s);line-height:1.5;margin-bottom:var(--g)}
+.t .a{display:flex}.t .a i{font-style:normal;flex:none;width:21px;color:${GOLD};font-weight:700}.t .b{font-weight:700;text-align:right;white-space:nowrap}
+.z{font-size:var(--s);line-height:1.5;font-weight:700;margin-top:var(--g)}
+.q{font-weight:700;font-size:18px;line-height:1.4;text-align:center;margin-top:16px}
+.q img{height:19px;vertical-align:-3px;margin-left:4px}
+.wm{position:absolute;right:42px;bottom:21px;font-size:14px;font-weight:700;letter-spacing:3.4px;color:#DEDBD4}
 `;
-const noise = `<svg class="n" xmlns="http://www.w3.org/2000/svg"><filter id="g"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="3" seed="7"/><feColorMatrix values="0 0 0 0 .5  0 0 0 0 .5  0 0 0 0 .5  0 0 0 .9 0"/></filter><rect width="100%" height="100%" filter="url(#g)"/></svg>`;
-
 function body(e) {
-  let h = `<h1><span>${e.kopf}</span></h1>`;
-  if (e.typ === 'nummern') h += e.punkte.map((p, i) => `<div class="i"><span class="m">${i + 1}.</span><span>${p}</span></div>`).join('');
-  else if (e.typ === 'liste') h += e.punkte.map(p => `<div class="i"><span class="m">●</span><span>${p}</span></div>`).join('');
+  let h = `<h1>${e.kopf}</h1><div class="r"></div><div class="l">`;
+  const it = (m, p) => `<div class="i">${m}<span>${p}</span></div>`;
+  if (e.typ === 'nummern') h += e.punkte.map((p, i) => it(`<span class="n">${i + 1}.</span>`, p)).join('');
+  else if (e.typ === 'liste') h += e.punkte.map(p => it(`<span class="d">•</span>`, p)).join('');
   else if (e.typ === 'story') h += e.punkte.map(p => `<div class="p">${p}</div>`).join('');
-  else if (e.typ === 'tabelle') h += e.punkte.map(p => `<div class="t"><span class="l"><i>●</i>${p[0]}</span><span class="r">${p[1]}</span></div>`).join('');
-  else if (e.typ === 'gruppen') h += `<div class="gr">` + e.punkte.map(g => `<div><h2>${g.titel}</h2>${g.zeilen.map(z => `<div>${z}</div>`).join('')}</div>`).join('') + `</div>`;
+  else if (e.typ === 'tabelle') h += e.punkte.map(p => `<div class="t"><span class="a"><i>•</i>${p[0]}</span><span class="b">${p[1]}</span></div>`).join('');
+  else if (e.typ === 'gruppen') h += e.punkte.map(g => `<div class="sh">${g.titel}:</div>` + g.zeilen.map(z => it(`<span class="d">•</span>`, z)).join('')).join('');
   else throw new Error('typ ' + e.typ);
   if (e.schluss) h += `<div class="z">${e.schluss}</div>`;
-  if (e.frage) h += `<div class="q">${e.frage}</div>`;
-  h += `<div class="c">${e.cta || 'Folg uns für mehr davon.'}</div>`;
+  h += `</div><div class="r2"></div><div class="q">${e.frage} 👇</div>`;
   return h;
 }
-const page = inner => `<!doctype html><html><head><meta charset="utf-8"><style>${css}</style></head><body>${noise}${inner}</body></html>`;
+const page = e => `<!doctype html><html><head><meta charset="utf-8"><style>${css}</style></head><body><div class="w" style="--s:21px;--g:15.8px;--h:32px">${body(e)}</div><div class="wm">MINDSETOLOGIE</div></body></html>`;
 
 (async () => {
   const plan = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'));
   const OUT = process.argv[3]; const nur = process.argv.slice(4);
+  const musik = fs.readdirSync(path.join(__dirname, 'musik')).filter(f => f.endsWith('.wav')).sort();
   fs.mkdirSync(OUT, { recursive: true });
   const b = await chromium.launch({ executablePath: '/opt/pw-browsers/chromium' }).catch(() => chromium.launch());
-  const pg = await b.newPage({ viewport: { width: 1080, height: 1920 } });
+  const pg = await b.newPage({ viewport: { width: 720, height: 1280 }, deviceScaleFactor: 1.5 });
+  let k = 0;
   for (const e of plan) {
+    k++;
     if (nur.length && !nur.includes(e.slug)) continue;
     const base = path.join(OUT, e.slug);
-    await pg.setContent(page(`<div class="hook"><p><span>${e.kopf}</span></p></div>`));
+    await pg.setContent(page(e));
     await pg.evaluate(() => document.fonts.ready);
-    await pg.screenshot({ path: base + '_hook.jpg', type: 'jpeg', quality: 93 });
-    await pg.setContent(page(`<div class="w" style="--s:44px;--g:.78">${body(e)}</div>`));
-    await pg.evaluate(() => document.fonts.ready);
-    // Schrift so groß wie möglich, bis alles in den sicheren Bereich passt
+    // Standard ist die Größe der Originale (21 px). Nur wenn der Text nicht passt, wird verkleinert.
     const s = await pg.evaluate(() => {
       const w = document.querySelector('.w');
-      for (let s = 48; s >= 24; s -= 1) for (const g of [.85, .7, .55]) {
-        w.style.setProperty('--s', s + 'px'); w.style.setProperty('--g', g);
-        if (w.scrollHeight <= w.clientHeight + 1 && w.scrollWidth <= w.clientWidth + 1) return s;
+      for (const [s, g, h] of [[21, 15.8, 32], [20, 14, 32], [19, 13, 31], [18, 11, 30], [17, 10, 29], [16, 9, 28], [15, 8, 27], [14, 7, 26]]) {
+        w.style.setProperty('--s', s + 'px'); w.style.setProperty('--g', g + 'px'); w.style.setProperty('--h', h + 'px');
+        const hgt = [...w.children].reduce((a, c) => a + c.getBoundingClientRect().height + parseFloat(getComputedStyle(c).marginTop), 0);
+        if (hgt <= 1280 - 2 * 150) return s;
       }
       return 0;
     });
     if (!s) console.log('UEBERLAUF', e.slug);
-    await pg.screenshot({ path: base + '_liste.jpg', type: 'jpeg', quality: 93 });
-    // 6 Sekunden: 0,7 s Hook, kurze Blende, dann die Liste. Stille Tonspur, damit Instagram die Datei sicher annimmt.
-    execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-loop', '1', '-t', '0.9', '-i', base + '_hook.jpg', '-loop', '1', '-t', '5.4', '-i', base + '_liste.jpg',
-      '-f', 'lavfi', '-t', '6', '-i', 'anullsrc=r=44100:cl=stereo',
-      '-filter_complex', '[0:v]fps=30,format=yuv420p[a];[1:v]fps=30,format=yuv420p[b];[a][b]xfade=transition=fade:duration=0.3:offset=0.6[v]',
-      '-map', '[v]', '-map', '2:a', '-c:v', 'libx264', '-preset', 'medium', '-crf', '20', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '96k', '-t', '6', '-movflags', '+faststart', base + '.mp4']);
-    console.log('ok', e.slug, 'schrift', s);
+    await pg.screenshot({ path: base + '.jpg', type: 'jpeg', quality: 95 });
+    const m = path.join(__dirname, 'musik', musik[(parseInt(e.nr, 10) || k) % musik.length]);
+    execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-loop', '1', '-framerate', '30', '-i', base + '.jpg', '-i', m,
+      '-t', '4.13', '-vf', 'scale=1080:1920,format=yuv420p', '-c:v', 'libx264', '-preset', 'medium', '-crf', '18', '-r', '30',
+      '-c:a', 'aac', '-b:a', '160k', '-af', 'volume=6dB,alimiter=limit=0.89,afade=t=in:d=0.03,afade=t=out:st=3.75:d=0.38', '-movflags', '+faststart', base + '.mp4']);
+    console.log('ok', e.slug, 'schrift', s, path.basename(m));
   }
   await b.close();
 })();
