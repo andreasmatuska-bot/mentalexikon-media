@@ -50,3 +50,6 @@ Bilder nach `karussells/NN_thema/01.jpg ...` in dieses Repository (Branch main) 
 ## Buchführung
 `verwendet.json`: jede genutzte Vorlage (Instagram Kurzcode) mit Nummer, Ordner, Farbe, Termin. Keine Vorlage und kein Thema zweimal.
 `AUSWERTUNG.md`: was bisher gut und schlecht lief, wird bei jedem Lauf fortgeschrieben und bestimmt die Themenwahl.
+
+## Bildunterschrift (Pflicht, von Andreas am 07.10.2026 ausdrücklich verlangt)
+Jedes Posting bekommt immer eine passende Bildunterschrift (Caption), egal welche Art von Posting und auf welcher Seite. Nie einen Post ohne Caption einplanen. Vor dem Einplanen prüfen, dass die Caption nicht leer ist und zum Inhalt passt. Nach dem Einplanen in Publer kontrollieren, dass die Caption wirklich übernommen wurde (Liste der eingeplanten Posts, Feld caption). Fehlt sie, den Post sofort korrigieren.

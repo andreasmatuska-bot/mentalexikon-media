@@ -31,6 +31,9 @@ Bilder pushen (Branch main), Adresse `https://raw.githubusercontent.com/andreasm
 
 Test Reels: post_type reel, media_url der Videodatei aus `videos/`, network_options {"details": {"type": "reel", "trial_reel": "MANUAL", "feed": false}}.
 
+## Bildunterschrift (Pflicht, von Andreas am 07.10.2026 ausdrücklich verlangt)
+Jedes Posting bekommt immer eine passende Bildunterschrift (Caption), egal welche Art von Posting und auf welcher Seite. Nie einen Post ohne Caption einplanen. Vor dem Einplanen prüfen, dass die Caption nicht leer ist und zum Inhalt passt. Nach dem Einplanen in Publer kontrollieren, dass die Caption wirklich übernommen wurde (Liste der eingeplanten Posts, Feld caption). Fehlt sie, den Post sofort korrigieren.
+
 # Listen Videos (eigene Reels von Mindsetologie)
 
 Stand 06.10.2026. Vorgabe von Andreas: zusätzlich zu Karussells und Test Reels drei kurze Listen Videos pro Tag, so wie die bisherigen Reels der Seite. Vorlage sind die erfolgreichsten eigenen Videos von Mindsetologie (letzte 200 Beiträge), in etwa umgeschrieben. Sie erscheinen immer eine Stunde nach einem Karussell: 10:30, 17:30 und 20:30 Uhr Zypern. Normale Reels, keine Test Reels.
@@ -63,4 +66,5 @@ Wie die Vorlage, aber in etwa umgeschrieben: gleiche Idee, gleicher Aufbau, eige
 Plan Datei `mindsetologie_videos/plan_JJJJ-MM-TT.json` nach dem Muster plan_2026-10-06.json (Felder nr, slug, quelle, aufrufe_vorlage, termin, typ, kopf, punkte, schluss, frage, cta, caption; typ ist nummern, liste, story, tabelle oder gruppen). In karussells/_engine: `npm install`, dann `node listen_video.js ../../mindsetologie_videos/<plan>.json ../../mindsetologie_videos/v3 [slug ...]`. Meldet UEBERLAUF, wenn der Text nicht passt (dann kürzen). Standbilder `v3/<slug>.jpg` ansehen, unabhängigen Lektor lesen lassen.
 
 ## Einplanen
+Jedes Video braucht seine Caption aus der Plan Datei (Pflicht, siehe Abschnitt Bildunterschrift). Nach dem Einplanen kontrollieren, dass sie in Publer steht.
 Pushen, dann Publer: platform instagram, post_type reel, media_url `https://raw.githubusercontent.com/andreasmatuska-bot/mentalexikon-media/main/mindsetologie_videos/v3/<slug>.mp4`, when schedule, account 6ac4a50abf25b54bdef0ea2d. Ein Post pro Aufruf, 20 Sekunden Pause. Danach verwendet.json ergänzen und pushen.
