@@ -1,28 +1,33 @@
 # Auswertung Karussells (Mentalexikon)
 
-Stand 05.10.2026 (zweiter Lauf). Zahlen aus Publer, letzte 14 Tage. Erst zwei Karussells sind veröffentlicht, deshalb gibt es noch keine Liste der fünf besten und fünf schwächsten. Ab dem nächsten Lauf liegen genug Zahlen vor.
+Stand 07.10.2026 (dritter Lauf). Zahlen aus Publer, letzte 14 Tage. Neun Karussells sind veröffentlicht, acht haben Zahlen. Nr. 09 war beim Abruf erst sechs Stunden alt und zählt noch nicht, Nr. 25 (heute 12:00) hatte noch keine Zahlen. Eine saubere Liste der fünf besten und fünf schwächsten gibt es deshalb erst ab dem nächsten Lauf, unten stehen alle acht nach Reichweite.
 
-## Eigene Zahlen
-| Nr | Thema | Art | Farbe | Zeit | Vorbild | Reichweite | Likes | Kommentare | Gespeichert | Geteilt |
+## Eigene Zahlen (nach Reichweite)
+| Nr | Thema | Art | Farbe | Zeit | Vorbild | Reichweite | Likes | Komm. | Gespeichert | Geteilt |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 01 | Narzisst lebt in eigener Realität | Erklärstück | beige | 04.10. 21:11 | Mentalogie | 17.989 | 226 | 6 | 252 | 66 |
-| 02 | 12 Sätze, die einen Streit abkühlen | Sätze zum Nachsprechen | hell | 05.10. 09:02 | Mentalogie | 9.720 | 135 | 1 | 391 | 23 |
+| 23 | 8 Gewohnheiten glücklicher Paare | Liste mit Zahl | hell | 06.10. 12:00 | erfolgsart | 35.673 | 470 | 3 | 369 | 314 |
+| 02 | 12 Sätze, die einen Streit abkühlen | Sätze zum Nachsprechen | hell | 05.10. 09:00 | Mentalogie | 35.636 | 480 | 5 | 1.309 | 173 |
+| 01 | Narzisst lebt in eigener Realität | Erklärstück | beige | 04.10. 21:11 | Mentalogie | 26.553 | 370 | 10 | 384 | 129 |
+| 04 | Bewusst allein leben | Erklärstück | beige | 06.10. 09:00 | Mentalogie | 20.642 | 264 | 10 | 130 | 38 |
+| 24 | War doch nur Spaß (Antworten) | Sätze zum Nachsprechen | schwarz | 06.10. 16:00 | erfolgsart | 19.602 | 127 | 1 | 95 | 12 |
+| 03 | Hochsensibel, 9 Dinge | Liste mit Zahl | schwarz | 05.10. 19:00 | Mentalogie | 13.996 | 101 | 0 | 57 | 18 |
+| 05 | Gehen als Werkzeug für den Kopf | Erklärstück | hell | 06.10. 19:00 | Mentalogie | 9.373 | 92 | 0 | 48 | 37 |
+| 09 | Tochter und Sohn finden sich | Erklärstück | schwarz | 07.10. 09:00 | Mentalogie | 5.148 | 6 | 0 | 20 | 1 |
 
-Zum Vergleich die Mindset Videos im selben Zeitraum (15 Stück): Reichweite 4.500 bis 9.200, Likes 5 bis 48, gespeichert 1 bis 42, geteilt 0 bis 23.
+Zum Vergleich die Mindset Videos im selben Zeitraum: Reichweite 6.000 bis 11.000, Likes 14 bis 56.
 
 ## Was die Zahlen zeigen
-* Beide Karussells liegen bei Likes, Gespeichert und Geteilt um ein Vielfaches über jedem Video. Die Umstellung auf reine Karussells ist durch die Zahlen gedeckt.
-* Erklärstück über einen schwierigen Menschen (Narzisst): höchste Reichweite und am häufigsten geteilt. Solche Texte werden weitergeschickt.
-* Sätze zum Nachsprechen (Streit): weniger Reichweite, aber am häufigsten gespeichert (391 bei 9.720 Reichweite). Solche Listen werden aufgehoben.
-* Kommentare sind bei beiden sehr niedrig. Das ist ohne Kommentar Aufruf zu erwarten.
-* Zu Farbe und Uhrzeit ist bei zwei Beiträgen noch keine Aussage möglich.
+* Die drei besten handeln alle von Partnerschaft, Streit und schwierigen Menschen. Paare (Nr. 23) wurde am häufigsten geteilt, die Streit Sätze (Nr. 02) mit Abstand am häufigsten gespeichert.
+* Die zwei schwächsten mit vollen Zahlen (Nr. 03, 05) drehen sich um Körper, Reize und Nervensystem. Beide liefen um 19:00.
+* 19:00 lag zweimal unten, 9:00 und 12:00 zweimal oben. Schwarz lag dreimal in der unteren Hälfte. Bei acht Beiträgen ist das noch nicht von Thema und Tag zu trennen, also nur beobachten.
+* Sätze zum Nachsprechen laufen nur, wenn das Thema viele betrifft (Streit ja, Witze am Tisch deutlich schwächer).
+* Kommentare bleiben ohne Aufruf sehr niedrig.
 
 ## Bekannt von den Vorbildseiten
-* erfolgsart, größte Ausreißer: Gewohnheiten langer Paare (118.727 Likes), Glimmers (68.447), wie Eltern über ihr Kind sprechen (67.285), Eifersucht und Kontrolle (62.590), Verbindung schützen (52.295), Millennials (51.269). Alle sechs sind in diesem Lauf nachgebaut (Nr. 23, 35, 29, 27, 36, 31).
-* erfolgsart, seit Sommer 2026 stabil bei 15.000 bis 30.000 Likes: kurze, warme Alltagsgeschichten über stille Liebe und Fürsorge.
-* Mentalogie: Narzissmus erklärt (8.200), 12 Sätze für den Streit (7.149), Hochsensibel (5.305), bewusst allein leben (5.176).
+* erfolgsart: stille Liebe im Alltag, lange Paare, Eltern und Kinder sind die größten Ausreißer (15.000 bis 118.000 Likes).
+* Mentalogie: Narzissmus erklärt, Sätze für den Streit, Hochsensibel, bewusst allein leben. Dort sind nur noch zwei Vorlagen der Stufe A frei.
 
 ## Schlüsse für die Auswahl
-1. Jede Woche mindestens zwei Erklärstücke über schwierige Menschen (Narzissmus, Abwertung, Kontrolle) und mindestens zwei Listen mit Sätzen zum Nachsprechen einplanen: das eine bringt Reichweite, das andere Gespeichert.
-2. Themenfelder Partnerschaft, Familie und Elternschaft, Umgang mit schwierigen Menschen bevorzugen. Reine Motivation und Erfolg weglassen (lief als Video schwach).
-3. Beim nächsten Lauf prüfen, wie die neuen Geschichten (Nr. 26, 28, 32, 34, 36) gegen Listen und Erklärstücke abschneiden, und wie 12:00 und 16:00 gegen 9:00 und 19:00 laufen.
+1. Partnerschaft, Streit und schwierige Menschen bevorzugen, am besten als Liste mit Zahl oder als Sätze zum Nachsprechen.
+2. Themen rund um Ruhe, Körper und Nervensystem sparsam einsetzen (in diesem Lauf bewusst ausgelassen: Vorlage DYcgZE7Akiy, Ruhe statt Aufregung).
+3. Beim nächsten Lauf prüfen: die Geschichten (Nr. 26, 28, 32, 34, 36, 37), Uhrzeit 19:00 gegen 12:00 und Farbe schwarz, sobald mehr als 20 Beiträge Zahlen haben.

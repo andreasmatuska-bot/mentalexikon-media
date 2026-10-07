@@ -278,5 +278,41 @@
   "farbe": "schwarz",
   "termin": "2026-10-12 16:00",
   "art": "Geschichte"
+ },
+ {
+  "nr": "37",
+  "slug": "37_freundschaft_lagerfeuer",
+  "quelle": "DbQwF_Egnbx",
+  "seite": "erfolgsart",
+  "farbe": "beige",
+  "termin": "2026-10-13 12:00",
+  "art": "Geschichte oder Szene"
+ },
+ {
+  "nr": "38",
+  "slug": "38_liebe_im_kleinen",
+  "quelle": "DdwVTn0AhOn",
+  "seite": "erfolgsart",
+  "farbe": "hell",
+  "termin": "2026-10-13 16:00",
+  "art": "Liste mit Zahl"
+ },
+ {
+  "nr": "39",
+  "slug": "39_was_wir_bereuen",
+  "quelle": "DWHN04BAj9M",
+  "seite": "erfolgsart",
+  "farbe": "schwarz",
+  "termin": "2026-10-14 12:00",
+  "art": "Liste mit Zahl"
+ },
+ {
+  "nr": "40",
+  "slug": "40_nicht_alles_tragen",
+  "quelle": "DdCDN3SgmYa",
+  "seite": "erfolgsart",
+  "farbe": "beige",
+  "termin": "2026-10-14 16:00",
+  "art": "Sätze zum Nachsprechen"
  }
 ]
