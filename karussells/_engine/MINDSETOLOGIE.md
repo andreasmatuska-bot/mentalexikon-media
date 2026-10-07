@@ -37,7 +37,7 @@ Stand 06.10.2026. Vorgabe von Andreas: zusätzlich zu Karussells und Test Reels 
 
 ## Format (Stand 06.10.2026 abends, von Andreas so verlangt)
 Die Videos müssen exakt so aussehen wie die bisherigen Reels der Seite (Stand Mai und Juni 2026) und das Titelbild auch. Nachgemessen an den Originalen:
-* Standbild, 4,13 Sekunden, keine Bewegung, kein eigener Hook am Anfang. Das Titelbild ist dasselbe Bild.
+* Standbild, 6 Sekunden (Andreas am 07.10.2026: 6 statt gut 4 Sekunden), keine Bewegung, kein eigener Hook am Anfang. Das Titelbild ist dasselbe Bild.
 * Hintergrund creme #F4F1EA, Schrift Liberation Sans, Text fast schwarz #1E2021.
 * Oben ein goldener Kasten #C8B163 über die ganze Textbreite mit der Überschrift in fetten Großbuchstaben (32 px bei 720 px Breite, Zeilenabstand 1,1).
 * Darunter eine dünne Linie, dann die Liste: goldene Punkte oder goldene Nummern, der Anfang jedes Punkts fett, der Rest normal (21 px, Zeilenabstand 1,5). Darunter wieder eine dünne Linie.
@@ -60,7 +60,7 @@ Falsche oder nicht prüfbare Aussagen über Gesundheit, Medizin, Recht, Geld und
 Wie die Vorlage, aber in etwa umgeschrieben: gleiche Idee, gleicher Aufbau, eigene Formulierungen. Nie Gedankenstriche, du, kurze Zeilen, nur die Anführungszeichen „ und “. Angekündigte Zahl stimmt mit der Anzahl der Punkte. Höchstens 13 kurze oder 10 längere Punkte. Jeder Punkt beginnt mit einem fetten Teil (<b>). Kein Aufruf, ein Wort zu kommentieren. Caption: zwei bis vier Sätze zum Thema, Leerzeile, die Frage, dann "Folg @mindsetologie für mehr davon." Keine Hashtags, keine Emojis.
 
 ## Bauen
-Plan Datei `mindsetologie_videos/plan_JJJJ-MM-TT.json` nach dem Muster plan_2026-10-06.json (Felder nr, slug, quelle, aufrufe_vorlage, termin, typ, kopf, punkte, schluss, frage, cta, caption; typ ist nummern, liste, story, tabelle oder gruppen). In karussells/_engine: `npm install`, dann `node listen_video.js ../../mindsetologie_videos/<plan>.json ../../mindsetologie_videos/v2 [slug ...]`. Meldet UEBERLAUF, wenn der Text nicht passt (dann kürzen). Standbilder `v2/<slug>.jpg` ansehen, unabhängigen Lektor lesen lassen.
+Plan Datei `mindsetologie_videos/plan_JJJJ-MM-TT.json` nach dem Muster plan_2026-10-06.json (Felder nr, slug, quelle, aufrufe_vorlage, termin, typ, kopf, punkte, schluss, frage, cta, caption; typ ist nummern, liste, story, tabelle oder gruppen). In karussells/_engine: `npm install`, dann `node listen_video.js ../../mindsetologie_videos/<plan>.json ../../mindsetologie_videos/v3 [slug ...]`. Meldet UEBERLAUF, wenn der Text nicht passt (dann kürzen). Standbilder `v3/<slug>.jpg` ansehen, unabhängigen Lektor lesen lassen.
 
 ## Einplanen
-Pushen, dann Publer: platform instagram, post_type reel, media_url `https://raw.githubusercontent.com/andreasmatuska-bot/mentalexikon-media/main/mindsetologie_videos/v2/<slug>.mp4`, when schedule, account 6ac4a50abf25b54bdef0ea2d. Ein Post pro Aufruf, 20 Sekunden Pause. Danach verwendet.json ergänzen und pushen.
+Pushen, dann Publer: platform instagram, post_type reel, media_url `https://raw.githubusercontent.com/andreasmatuska-bot/mentalexikon-media/main/mindsetologie_videos/v3/<slug>.mp4`, when schedule, account 6ac4a50abf25b54bdef0ea2d. Ein Post pro Aufruf, 20 Sekunden Pause. Danach verwendet.json ergänzen und pushen.
