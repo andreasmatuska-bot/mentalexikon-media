@@ -111,6 +111,20 @@
    "quelle": "DXbPL4DCF8l",
    "termin": "2026-10-11 17:30",
    "typ": "nummern"
+  },
+  {
+   "nr": "17",
+   "slug": "17_notfall",
+   "quelle": "DWqqDWaCJQf",
+   "termin": "2026-10-12 17:30",
+   "typ": "nummern"
+  },
+  {
+   "nr": "18",
+   "slug": "18_wahrheiten",
+   "quelle": "DWPGEoGiDfu",
+   "termin": "2026-10-12 20:30",
+   "typ": "liste"
   }
  ],
  "uebersprungen": [
