@@ -1,6 +1,6 @@
 // Baut die kurzen Listen Videos für Mindsetologie im Stil der bisherigen Reels der Seite:
 // cremefarbener Hintergrund, goldener Kasten mit der Überschrift, Liste in Liberation Sans, Wasserzeichen MINDSETOLOGIE.
-// Das Video ist ein Standbild (wie die Originale, rund 4 Sekunden) mit eigener kurzer Musik.
+// Das Video ist ein Standbild (wie die Originale, 6 Sekunden) mit eigener kurzer Musik.
 // Aufruf in karussells/_engine:  node listen_video.js <plan.json> <Ausgabeordner> [slug ...]
 // Je Eintrag entstehen <slug>.mp4 und <slug>.jpg (Titelbild = dasselbe Bild).
 const { chromium } = require('playwright');
@@ -74,8 +74,8 @@ const page = e => `<!doctype html><html><head><meta charset="utf-8"><style>${css
     await pg.screenshot({ path: base + '.jpg', type: 'jpeg', quality: 95 });
     const m = path.join(__dirname, 'musik', musik[(parseInt(e.nr, 10) || k) % musik.length]);
     execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-loop', '1', '-framerate', '30', '-i', base + '.jpg', '-i', m,
-      '-t', '4.13', '-vf', 'scale=1080:1920,format=yuv420p', '-c:v', 'libx264', '-preset', 'medium', '-crf', '18', '-r', '30',
-      '-c:a', 'aac', '-b:a', '160k', '-af', 'volume=6dB,alimiter=limit=0.89,afade=t=in:d=0.03,afade=t=out:st=3.75:d=0.38', '-movflags', '+faststart', base + '.mp4']);
+      '-t', '6', '-vf', 'scale=1080:1920,format=yuv420p', '-c:v', 'libx264', '-preset', 'medium', '-crf', '18', '-r', '30',
+      '-c:a', 'aac', '-b:a', '160k', '-af', 'volume=6dB,alimiter=limit=0.89,afade=t=in:d=0.03,afade=t=out:st=5.5:d=0.5', '-movflags', '+faststart', base + '.mp4']);
     console.log('ok', e.slug, 'schrift', s, path.basename(m));
   }
   await b.close();

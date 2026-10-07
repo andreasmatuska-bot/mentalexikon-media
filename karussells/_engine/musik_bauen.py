@@ -1,4 +1,4 @@
-"""Erzeugt kurze, fröhliche eigene Musikstücke (4,2 Sekunden) für die Listen Videos von Mindsetologie.
+"""Erzeugt kurze, fröhliche eigene Musikstücke (gut 6 Sekunden) für die Listen Videos von Mindsetologie.
 Alles wird hier berechnet (Ukulele Zupfen, Glockenspiel, Klatschen, Shaker), es wird keine fremde Musik verwendet.
 Aufruf: python3 musik_bauen.py   -> musik/froehlich_1.wav ...
 """
@@ -34,8 +34,8 @@ N = {'C':261.63,'D':293.66,'E':329.63,'F':349.23,'G':392.0,'A':440.0,'B':493.88}
 def fr(semi, base): return base * 2 ** (semi / 12)
 MAJ = [0, 4, 7, 12]; MIN = [0, 3, 7, 12]
 def stueck(nr, base, bpm, prog, melodie):
-    beat = 60 / bpm; total = 4.2; mix = np.zeros((int(SR*total), 2))
-    for b in range(8):
+    beat = 60 / bpm; total = 6.1; mix = np.zeros((int(SR*total), 2))
+    for b in range(12):
         root, typ = prog[(b // 2) % len(prog)]; t0 = b * beat
         for half in (0, 0.5):
             if half and b % 2 == 0 and nr % 2: continue
@@ -44,6 +44,7 @@ def stueck(nr, base, bpm, prog, melodie):
         if b % 2 == 0: add(mix, kick(), t0, 0.55)
         else: add(mix, clap(nr*7 + b), t0, 0.5, pan=0.15)
         for h in (0, 0.5): add(mix, shaker(nr*13 + b*2 + int(h*2)), t0 + h*beat, 0.5 if h else 0.3, pan=0.35)
+    melodie = melodie + [(b + 8, s) for (b, s) in melodie if b < 3.6] + [(11.5, melodie[-1][1])]
     for (b, semi) in melodie: add(mix, bell(fr(semi + 12, base), 0.8), b * beat, 0.2, pan=0.2)
     mix /= max(1e-9, np.abs(mix).max()) / 0.82
     f = np.ones(len(mix)); k = int(0.45*SR); f[-k:] = np.linspace(1, 0, k) ** 1.5; mix *= f[:, None]
