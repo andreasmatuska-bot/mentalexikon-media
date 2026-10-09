@@ -1,0 +1,109 @@
+{
+ "nr": 5,
+ "slug": "Zuckerberg_145_Milliarden",
+ "photo": "img/zuck.jpg",
+ "photoPos": {
+  "cover": "width:100%",
+  "ava": "width:100%"
+ },
+ "credit": "Foto: Jeff Sainlar, CC BY-SA 4.0",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Bis zu 145 Milliarden Dollar steckt er 2026 in KI.",
+    "Gleichzeitig müssen 8.000 Mitarbeiter gehen.",
+    "<y>Was der Chef von Instagram vorhat...</y>"
+   ]
+  },
+  {
+   "ava": true,
+   "p": [
+    "Das ist <b>Mark Zuckerberg.</b>",
+    "Ihm gehören Facebook, Instagram und WhatsApp.",
+    "Im Juli 2025 veröffentlicht er einen Brief. Der wichtigste Satz darin:",
+    "<b>„Superintelligenz ist jetzt in Sichtweite.“</b>"
+   ]
+  },
+  {
+   "big": "145 MRD",
+   "sub": "Dollar will sein Konzern 2026 höchstens investieren",
+   "p": [
+    "Fast alles davon fließt in Rechenzentren und KI.",
+    "2025 waren es noch 72 Milliarden.",
+    "<b>Das ist das Doppelte in nur einem Jahr.</b>"
+   ]
+  },
+  {
+   "big": "8.000",
+   "sub": "Stellen strich Meta im Frühjahr 2026",
+   "p": [
+    "Das ist rund jeder zehnte Mitarbeiter.",
+    "Dazu wurden 6.000 offene Stellen gar nicht mehr besetzt.",
+    "<b>Das Geld geht jetzt an die Maschinen.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Schon Anfang 2025 hatte er es angekündigt:",
+    "KI werde bald so programmieren wie ein Entwickler mit einigen Jahren Erfahrung.",
+    "Damals haben viele darüber gelächelt.",
+    "<b>Heute macht er genau das wahr.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Bei jedem großen Wandel gab es zwei Gruppen von Menschen.",
+    "<b>1.</b> Die einen schauen zu, bis es sie selbst trifft.",
+    "<b>2.</b> Die anderen machen etwas daraus.",
+    "Ob es kommt, ist nicht mehr die Frage.",
+    "<b>Die Frage ist, zu welcher Gruppe du gehörst.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Und jetzt der Teil, den dir kaum jemand erzählt.",
+    "Eine KI schreibt Programme. Aber sie pflegt keine Patienten und repariert keine Heizung.",
+    "Genau dort sind in Deutschland <y>über eine Million Stellen</y> unbesetzt.",
+    "Manche Menschen bringen Firmen und passende Bewerber zusammen. Bezahlt werden sie von der Firma.",
+    "<b>Das sind die <y>Middleman.</y></b>"
+   ]
+  },
+  {
+   "avaSrc": "proof/arina_face.jpg",
+   "p": [
+    "Das ist <b>Arina.</b>",
+    "Ein Steuerberater sucht seit Monaten einen neuen Mitarbeiter. Er findet einfach keinen.",
+    "Arina findet für ihn im Internet genau den Richtigen.",
+    "Der Neue fängt dort an. Dafür bezahlt der Steuerberater Arina.",
+    "<b>So einfach ist das.</b>"
+   ]
+  },
+  {
+   "type": "proof",
+   "head": "Ein Blick auf Arinas Konto:",
+   "imgs": [
+    {
+     "src": "proof/arina_17640.png",
+     "w": 888
+    }
+   ],
+   "line": "Eine einzige Gutschrift: <y>17,6K</y>",
+   "note": "Echter Kontoauszug von Arina, August 2026. Ergebnisse hängen von deiner Umsetzung ab und sind nicht garantiert."
+  },
+  {
+   "type": "cta",
+   "head": "Du willst genau wissen, wie Arina das macht?",
+   "lead": "Die komplette Anleitung, Schritt für Schritt",
+   "list": [
+    "wie du Firmen findest, die dringend suchen",
+    "wie du passende Bewerber findest",
+    "wie du dein Geld dafür bekommst",
+    "was du noch heute tun kannst"
+   ],
+   "close": "Darin steht, wie sie als Middleman Geld verdient. Kostenlos.",
+   "cta": "Schreib „MM“ in die Kommentare und ich schicke sie dir."
+  }
+ ],
+ "caption": "Mark Zuckerberg steckt 2026 bis zu 145 Milliarden Dollar in KI. Im selben Jahr streicht sein Konzern 8.000 Stellen.\n\nDas Geld, das früher an Menschen ging, geht jetzt an Rechenzentren. Und er ist nicht der Einzige, der so rechnet.\n\nWas keine KI kann: pflegen, bauen, reparieren. Genau dort fehlen in Deutschland über eine Million Mitarbeiter. Arina bringt Firmen und passende Bewerber zusammen und wird von den Firmen dafür bezahlt.\n\nWir haben eine komplette Anleitung geschrieben, wie Arina als Middleman Geld verdient. Schritt für Schritt, damit du direkt danach starten kannst.\n\nSchreib \"MM\" in die Kommentare und du bekommst sie kostenlos.\n\nFoto: Jeff Sainlar, CC BY-SA 4.0. Quellen: Meta Quartalsberichte 2026, Yahoo Finance, ITPro, IAB Stellenerhebung. Der gezeigte Kontoauszug stammt von unserer Partnerin Arina. Ergebnisse sind nicht garantiert und hängen von der eigenen Umsetzung ab."
+}

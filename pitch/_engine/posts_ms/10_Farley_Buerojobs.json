@@ -1,0 +1,109 @@
+{
+ "nr": 10,
+ "slug": "Farley_Buerojobs",
+ "photo": "img/farley.jpg",
+ "photoPos": {
+  "cover": "width:100%",
+  "ava": "width:100%"
+ },
+ "credit": "Foto: Ford, CC BY-SA 4.0",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Der Chef von Ford warnt:",
+    "Jeder zweite Bürojob geht an die KI.",
+    "<y>Doch eine Sorte Arbeiter sucht er vergeblich...</y>"
+   ]
+  },
+  {
+   "ava": true,
+   "p": [
+    "Das ist <b>Jim Farley.</b>",
+    "Er leitet Ford, einen der größten Autobauer der Welt.",
+    "Im Sommer 2025 sagt er auf einer Bühne in den USA:",
+    "<b>„KI wird buchstäblich die Hälfte aller Büroangestellten ersetzen.“</b>"
+   ]
+  },
+  {
+   "big": "5.000",
+   "sub": "Stellen für Mechaniker bleiben bei Ford unbesetzt",
+   "p": [
+    "Bezahlt werden bis zu 120.000 Dollar im Jahr.",
+    "Trotzdem findet er niemanden.",
+    "<b>Am Geld liegt es also nicht.</b>"
+   ]
+  },
+  {
+   "big": "1,1 MIO",
+   "sub": "Arbeiter fehlen den USA in Fabriken und auf dem Bau",
+   "p": [
+    "600.000 in den Fabriken. 500.000 auf dem Bau.",
+    "Diese Zahlen nennt Farley selbst.",
+    "<b>Die Büros leeren sich. Die Werkstätten bleiben unbesetzt.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Das Bittere daran:",
+    "Jahrzehntelang hieß es: Geh studieren, dann hast du einen sicheren Job.",
+    "Jetzt dreht sich das um.",
+    "<b>Gesucht werden die, die mit den Händen arbeiten.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Bei jedem großen Wandel gab es zwei Gruppen von Menschen.",
+    "<b>1.</b> Die einen schauen zu, bis es sie selbst trifft.",
+    "<b>2.</b> Die anderen machen etwas daraus.",
+    "Ob es kommt, ist nicht mehr die Frage.",
+    "<b>Die Frage ist, zu welcher Gruppe du gehörst.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Und jetzt der Teil, den dir kaum jemand erzählt.",
+    "In Deutschland ist es genauso. Es fehlen Elektriker, Monteure und Pflegekräfte.",
+    "<y>Über eine Million Stellen</y> sind unbesetzt.",
+    "Manche Menschen bringen Firmen und passende Bewerber zusammen. Bezahlt werden sie von der Firma.",
+    "<b>Das sind die <y>Middleman.</y></b>"
+   ]
+  },
+  {
+   "avaSrc": "proof/niclas_face.jpg",
+   "p": [
+    "Das ist <b>Niclas.</b>",
+    "Ein Betrieb sucht seit Monaten einen Fachmann. Es bewirbt sich einfach niemand.",
+    "Niclas findet im Internet genau den Richtigen.",
+    "Der Neue fängt dort an. Dafür bezahlt der Betrieb Niclas.",
+    "<b>So einfach ist das.</b>"
+   ]
+  },
+  {
+   "type": "proof",
+   "head": "Ein Blick auf das Konto von Niclas:",
+   "imgs": [
+    {
+     "src": "proof/niclas_single.png",
+     "w": 888
+    }
+   ],
+   "line": "Eine einzige Gutschrift: <y>9,8K</y>",
+   "note": "Echter Kontoauszug von Niclas, August 2026. Ergebnisse hängen von deiner Umsetzung ab und sind nicht garantiert."
+  },
+  {
+   "type": "cta",
+   "head": "Du willst genau wissen, wie Niclas das macht?",
+   "lead": "Die komplette Anleitung, Schritt für Schritt",
+   "list": [
+    "wie du Firmen findest, die dringend suchen",
+    "wie du passende Bewerber findest",
+    "wie du dein Geld dafür bekommst",
+    "was du noch heute tun kannst"
+   ],
+   "close": "Darin steht, wie er als Middleman Geld verdient. Kostenlos.",
+   "cta": "Schreib „MM“ in die Kommentare und ich schicke sie dir."
+  }
+ ],
+ "caption": "Der Chef von Ford sagt, dass KI die Hälfte aller Bürojobs ersetzen wird. Gleichzeitig kann er 5.000 Stellen für Mechaniker nicht besetzen, obwohl sie bis zu 120.000 Dollar im Jahr bringen.\n\nJahrzehntelang hieß es: Geh studieren. Jetzt werden die gesucht, die mit den Händen arbeiten.\n\nIn Deutschland ist es genauso. Über eine Million Stellen sind unbesetzt, und Betriebe bezahlen dafür, dass ihnen jemand die passenden Leute bringt.\n\nWir haben eine komplette Anleitung geschrieben, wie Niclas als Middleman Geld verdient. Schritt für Schritt, damit du direkt danach starten kannst.\n\nSchreib \"MM\" in die Kommentare und du bekommst sie kostenlos.\n\nFoto: Ford, CC BY-SA 4.0. Quellen: Aspen Ideas Festival 2025, Fortune, Ford Authority, IAB Stellenerhebung. Der gezeigte Kontoauszug stammt von unserem Partner Niclas. Ergebnisse sind nicht garantiert und hängen von der eigenen Umsetzung ab."
+}

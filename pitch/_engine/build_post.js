@@ -42,7 +42,7 @@ function html(s, i) {
   if (s.type === 'cover') {
     const pic = T.cover === 'round'
       ? `<div style="position:absolute;left:210px;top:110px;width:660px;height:660px;border-radius:50%;border:8px solid ${T.ac};overflow:hidden;box-shadow:0 0 140px rgba(${T.glow},.28)"><img src="${photo}" style="${P.photoPos.cover}"></div>`
-      : `<div style="position:absolute;left:96px;top:96px;width:888px;height:660px;border-radius:44px;border:6px solid ${T.ac};overflow:hidden;box-shadow:0 0 140px rgba(${T.glow},.25)"><img src="${photo}" style="width:888px;margin-top:-150px"></div>`;
+      : `<div style="position:absolute;left:96px;top:96px;width:888px;height:660px;border-radius:44px;border:6px solid ${T.ac};overflow:hidden;box-shadow:0 0 140px rgba(${T.glow},.25)"><img src="${photo}" style="width:888px;margin-top:-90px"></div>`;
     return `<style>${css}</style><div style="position:absolute;inset:0 0 540px 0;background:radial-gradient(800px 640px at 50% 50%,rgba(${T.glow},.20) 0%,rgba(${T.glow},.05) 55%,transparent 80%)"></div>
 ${pic}<div class="cov fit" data-max="100" data-min="60">${s.lines.map(l => `<div>${fmt(l)}</div>`).join('')}</div>
 <div class="credit">${P.credit}</div>${foot}`;

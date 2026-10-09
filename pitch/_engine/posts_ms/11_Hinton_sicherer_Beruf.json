@@ -1,0 +1,106 @@
+{
+ "nr": 11,
+ "slug": "Hinton_sicherer_Beruf",
+ "photo": "img/hinton.jpg",
+ "photoPos": {
+  "cover": "width:100%",
+  "ava": "width:100%"
+ },
+ "credit": "Foto: Arthur Petron, CC BY-SA 4.0",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Für seine Arbeit an der KI bekam er den Nobelpreis.",
+    "Dann wird er gefragt, welcher Beruf noch sicher ist.",
+    "<y>Mit dieser Antwort hat niemand gerechnet...</y>"
+   ]
+  },
+  {
+   "ava": true,
+   "p": [
+    "Das ist <b>Geoffrey Hinton.</b>",
+    "Man nennt ihn den Paten der KI.",
+    "2023 verlässt er Google, um frei über die Gefahren sprechen zu können.",
+    "<b>2024 bekommt er den Nobelpreis für Physik.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Im Juni 2025 wird er gefragt, welcher Job noch sicher ist.",
+    "Seine Antwort:",
+    "<b><y>„Eine gute Wahl wäre, Klempner zu werden.“</y></b>"
+   ]
+  },
+  {
+   "p": [
+    "Er erklärt auch, warum:",
+    "<b>„Bei einfacher geistiger Arbeit wird KI einfach jeden ersetzen.“</b>",
+    "Gemeint sind Büro, Verwaltung, Assistenz und Callcenter.",
+    "Arbeit am Bildschirm lernt eine KI schnell."
+   ]
+  },
+  {
+   "p": [
+    "Das Bittere daran:",
+    "Hände kann eine KI noch lange nicht ersetzen.",
+    "Ein Rohr abdichten. Eine Heizung reparieren. Einen Menschen pflegen.",
+    "<b>Genau diese Arbeit will aber kaum noch jemand lernen.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Bei jedem großen Wandel gab es zwei Gruppen von Menschen.",
+    "<b>1.</b> Die einen schauen zu, bis es sie selbst trifft.",
+    "<b>2.</b> Die anderen machen etwas daraus.",
+    "Ob es kommt, ist nicht mehr die Frage.",
+    "<b>Die Frage ist, zu welcher Gruppe du gehörst.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Und jetzt der Teil, den dir kaum jemand erzählt.",
+    "Betriebe in Deutschland suchen genau diese Leute. Und finden sie nicht.",
+    "<y>Über eine Million Stellen</y> sind unbesetzt.",
+    "Manche Menschen bringen Firmen und passende Bewerber zusammen. Bezahlt werden sie von der Firma.",
+    "<b>Das sind die <y>Middleman.</y></b>"
+   ]
+  },
+  {
+   "avaSrc": "proof/niclas_face.jpg",
+   "p": [
+    "Das ist <b>Niclas.</b>",
+    "Ein Betrieb sucht seit Monaten einen Fachmann. Es bewirbt sich einfach niemand.",
+    "Niclas findet im Internet genau den Richtigen.",
+    "Der Neue fängt dort an. Dafür bezahlt der Betrieb Niclas.",
+    "<b>So einfach ist das.</b>"
+   ]
+  },
+  {
+   "type": "proof",
+   "head": "Ein Blick auf das Konto von Niclas:",
+   "imgs": [
+    {
+     "src": "proof/niclas_single.png",
+     "w": 888
+    }
+   ],
+   "line": "Eine einzige Gutschrift: <y>9,8K</y>",
+   "note": "Echter Kontoauszug von Niclas, August 2026. Ergebnisse hängen von deiner Umsetzung ab und sind nicht garantiert."
+  },
+  {
+   "type": "cta",
+   "head": "Du willst genau wissen, wie Niclas das macht?",
+   "lead": "Die komplette Anleitung, Schritt für Schritt",
+   "list": [
+    "wie du Firmen findest, die dringend suchen",
+    "wie du passende Bewerber findest",
+    "wie du dein Geld dafür bekommst",
+    "was du noch heute tun kannst"
+   ],
+   "close": "Darin steht, wie er als Middleman Geld verdient. Kostenlos.",
+   "cta": "Schreib „MM“ in die Kommentare und ich schicke sie dir."
+  }
+ ],
+ "caption": "Geoffrey Hinton hat die KI miterfunden und dafür den Nobelpreis bekommen. Auf die Frage nach einem sicheren Beruf sagte er: Eine gute Wahl wäre, Klempner zu werden.\n\nArbeit am Bildschirm lernt eine KI schnell. Hände kann sie noch lange nicht ersetzen.\n\nGenau diese Leute suchen Betriebe in Deutschland und finden sie nicht. Über eine Million Stellen sind unbesetzt, und Betriebe bezahlen dafür, dass ihnen jemand die passenden Leute bringt.\n\nWir haben eine komplette Anleitung geschrieben, wie Niclas als Middleman Geld verdient. Schritt für Schritt, damit du direkt danach starten kannst.\n\nSchreib \"MM\" in die Kommentare und du bekommst sie kostenlos.\n\nFoto: Arthur Petron, CC BY-SA 4.0. Quellen: The Diary of a CEO vom 16.06.2025, IAB Stellenerhebung. Der gezeigte Kontoauszug stammt von unserem Partner Niclas. Ergebnisse sind nicht garantiert und hängen von der eigenen Umsetzung ab."
+}

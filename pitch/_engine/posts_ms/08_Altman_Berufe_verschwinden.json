@@ -1,0 +1,108 @@
+{
+ "nr": 8,
+ "slug": "Altman_Berufe_verschwinden",
+ "photo": "img/altman.jpg",
+ "photoPos": {
+  "cover": "width:100%",
+  "ava": "width:100%"
+ },
+ "credit": "Foto: TechCrunch, CC BY 2.0",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Der Mann hinter ChatGPT sagt:",
+    "Einige Berufe gibt es bald gar nicht mehr.",
+    "<y>Welche das sind...</y>"
+   ]
+  },
+  {
+   "ava": true,
+   "p": [
+    "Das ist <b>Sam Altman.</b>",
+    "Er leitet OpenAI, die Firma hinter ChatGPT.",
+    "Im Juli 2025 spricht er in Washington vor den wichtigsten Bankern der USA.",
+    "<b>Was er dort sagt, überrascht selbst sie.</b>"
+   ]
+  },
+  {
+   "big": "1 MRD",
+   "sub": "aktive Nutzer meldet seine Firma im Sommer 2026",
+   "p": [
+    "Im Herbst 2025 waren es noch 800 Millionen in der Woche.",
+    "Das ist jeder achte Mensch auf der Welt.",
+    "<b>Und die KI lernt jeden Monat dazu.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Sein Satz über den Kundenservice:",
+    "<b><y>„Manche Bereiche sind einfach komplett, komplett weg.“</y></b>",
+    "Wer dort anruft, spricht bald mit einer KI.",
+    "Und merkt den Unterschied kaum."
+   ]
+  },
+  {
+   "p": [
+    "Er geht noch weiter:",
+    "<b>„Ganze Klassen von Jobs werden verschwinden.“</b>",
+    "Callcenter. Sachbearbeitung. Dateneingabe.",
+    "Arbeit, von der heute Millionen Menschen leben."
+   ]
+  },
+  {
+   "p": [
+    "Bei jedem großen Wandel gab es zwei Gruppen von Menschen.",
+    "<b>1.</b> Die einen schauen zu, bis es sie selbst trifft.",
+    "<b>2.</b> Die anderen machen etwas daraus.",
+    "Ob es kommt, ist nicht mehr die Frage.",
+    "<b>Die Frage ist, zu welcher Gruppe du gehörst.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Und jetzt der Teil, den dir kaum jemand erzählt.",
+    "Am Telefon ersetzt die KI Menschen. Auf der Baustelle und in der Werkstatt nicht.",
+    "Genau dort sind in Deutschland <y>über eine Million Stellen</y> unbesetzt.",
+    "Manche Menschen bringen Firmen und passende Bewerber zusammen. Bezahlt werden sie von der Firma.",
+    "<b>Das sind die <y>Middleman.</y></b>"
+   ]
+  },
+  {
+   "avaSrc": "proof/niclas_face.jpg",
+   "p": [
+    "Das ist <b>Niclas.</b>",
+    "Ein Betrieb sucht seit Monaten einen Fachmann. Es bewirbt sich einfach niemand.",
+    "Niclas findet im Internet genau den Richtigen.",
+    "Der Neue fängt dort an. Dafür bezahlt der Betrieb Niclas.",
+    "<b>So einfach ist das.</b>"
+   ]
+  },
+  {
+   "type": "proof",
+   "head": "Ein Blick auf das Konto von Niclas:",
+   "imgs": [
+    {
+     "src": "proof/niclas_single.png",
+     "w": 888
+    }
+   ],
+   "line": "Eine einzige Gutschrift: <y>9,8K</y>",
+   "note": "Echter Kontoauszug von Niclas, August 2026. Ergebnisse hängen von deiner Umsetzung ab und sind nicht garantiert."
+  },
+  {
+   "type": "cta",
+   "head": "Du willst genau wissen, wie Niclas das macht?",
+   "lead": "Die komplette Anleitung, Schritt für Schritt",
+   "list": [
+    "wie du Firmen findest, die dringend suchen",
+    "wie du passende Bewerber findest",
+    "wie du dein Geld dafür bekommst",
+    "was du noch heute tun kannst"
+   ],
+   "close": "Darin steht, wie er als Middleman Geld verdient. Kostenlos.",
+   "cta": "Schreib „MM“ in die Kommentare und ich schicke sie dir."
+  }
+ ],
+ "caption": "Sam Altman leitet die Firma hinter ChatGPT. Im Juli 2025 sagte er, manche Berufe seien bald komplett verschwunden. Gemeint war zuerst der Kundenservice.\n\nSeine KI hat inzwischen über eine Milliarde Nutzer und lernt jeden Monat dazu.\n\nWas sie nicht kann: auf der Baustelle und in der Werkstatt arbeiten. Genau dort fehlen in Deutschland über eine Million Mitarbeiter, und Betriebe bezahlen dafür, dass ihnen jemand die passenden Leute bringt.\n\nWir haben eine komplette Anleitung geschrieben, wie Niclas als Middleman Geld verdient. Schritt für Schritt, damit du direkt danach starten kannst.\n\nSchreib \"MM\" in die Kommentare und du bekommst sie kostenlos.\n\nFoto: TechCrunch, CC BY 2.0. Quellen: Federal Reserve Konferenz vom 22.07.2025, TechCrunch, OpenAI, IAB Stellenerhebung. Der gezeigte Kontoauszug stammt von unserem Partner Niclas. Ergebnisse sind nicht garantiert und hängen von der eigenen Umsetzung ab."
+}

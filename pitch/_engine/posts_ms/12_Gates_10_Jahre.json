@@ -1,0 +1,108 @@
+{
+ "nr": 12,
+ "slug": "Gates_10_Jahre",
+ "photo": "img/gates.jpg",
+ "photoPos": {
+  "cover": "width:100%",
+  "ava": "width:100%"
+ },
+ "credit": "Foto: Presidencia de Colombia, gemeinfrei",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Die Frage an ihn: Braucht man Menschen in 10 Jahren überhaupt noch?",
+    "Er antwortet in zwei Sekunden.",
+    "<y>Und seine Antwort tut weh...</y>"
+   ]
+  },
+  {
+   "ava": true,
+   "p": [
+    "Das ist <b>Bill Gates.</b>",
+    "Er hat Microsoft gegründet und den Computer in jedes Büro gebracht.",
+    "Im Februar 2025 sitzt er in einer der größten Talkshows der USA.",
+    "<b>Der Moderator fragt: Brauchen wir dann überhaupt noch Menschen?</b>"
+   ]
+  },
+  {
+   "p": [
+    "Gates antwortet:",
+    "<b><y>„Für die meisten Dinge nicht.“</y></b>",
+    "Im Publikum wird gelacht.",
+    "Er meint es ernst."
+   ]
+  },
+  {
+   "big": "10 JAHRE",
+   "sub": "dann sind guter Rat vom Arzt und Nachhilfe kostenlos, sagt er",
+   "p": [
+    "Was heute teuer und selten ist, kann dann jeder haben.",
+    "Weil eine KI es übernimmt.",
+    "<b>Gut für alle, die Hilfe brauchen. Hart für alle, die davon leben.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Das Bittere daran:",
+    "Gates malt nicht schwarz. Er freut sich auf diese Zukunft.",
+    "Er sagt nur offen, was sie bedeutet:",
+    "<b>Wissen wird billig. Und mit ihm viele Berufe.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Bei jedem großen Wandel gab es zwei Gruppen von Menschen.",
+    "<b>1.</b> Die einen schauen zu, bis es sie selbst trifft.",
+    "<b>2.</b> Die anderen machen etwas daraus.",
+    "Ob es kommt, ist nicht mehr die Frage.",
+    "<b>Die Frage ist, zu welcher Gruppe du gehörst.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Und jetzt der Teil, den dir kaum jemand erzählt.",
+    "Wissen wird billig. Menschen, die anpacken, werden knapp.",
+    "In Deutschland sind <y>über eine Million Stellen</y> unbesetzt.",
+    "Manche Menschen bringen Firmen und passende Bewerber zusammen. Bezahlt werden sie von der Firma.",
+    "<b>Das sind die <y>Middleman.</y></b>"
+   ]
+  },
+  {
+   "avaSrc": "proof/arina_face.jpg",
+   "p": [
+    "Das ist <b>Arina.</b>",
+    "Ein Steuerberater sucht seit Monaten einen neuen Mitarbeiter. Er findet einfach keinen.",
+    "Arina findet für ihn im Internet genau den Richtigen.",
+    "Der Neue fängt dort an. Dafür bezahlt der Steuerberater Arina.",
+    "<b>So einfach ist das.</b>"
+   ]
+  },
+  {
+   "type": "proof",
+   "head": "Ein Blick auf Arinas Konto:",
+   "imgs": [
+    {
+     "src": "proof/arina_17640.png",
+     "w": 888
+    }
+   ],
+   "line": "Eine einzige Gutschrift: <y>17,6K</y>",
+   "note": "Echter Kontoauszug von Arina, August 2026. Ergebnisse hängen von deiner Umsetzung ab und sind nicht garantiert."
+  },
+  {
+   "type": "cta",
+   "head": "Du willst genau wissen, wie Arina das macht?",
+   "lead": "Die komplette Anleitung, Schritt für Schritt",
+   "list": [
+    "wie du Firmen findest, die dringend suchen",
+    "wie du passende Bewerber findest",
+    "wie du dein Geld dafür bekommst",
+    "was du noch heute tun kannst"
+   ],
+   "close": "Darin steht, wie sie als Middleman Geld verdient. Kostenlos.",
+   "cta": "Schreib „MM“ in die Kommentare und ich schicke sie dir."
+  }
+ ],
+ "caption": "Bill Gates wurde gefragt, ob man in zehn Jahren noch Menschen braucht. Seine Antwort: Für die meisten Dinge nicht.\n\nWas heute teuer ist, guter Rat vom Arzt oder Nachhilfe, soll dann kostenlos sein, weil eine KI es übernimmt.\n\nWissen wird billig. Menschen, die anpacken, werden knapp. In Deutschland sind über eine Million Stellen unbesetzt. Arina bringt Firmen und passende Bewerber zusammen und wird von den Firmen dafür bezahlt.\n\nWir haben eine komplette Anleitung geschrieben, wie Arina als Middleman Geld verdient. Schritt für Schritt, damit du direkt danach starten kannst.\n\nSchreib \"MM\" in die Kommentare und du bekommst sie kostenlos.\n\nFoto: Presidencia de Colombia, gemeinfrei. Quellen: The Tonight Show vom 04.02.2025, CNBC, IAB Stellenerhebung. Der gezeigte Kontoauszug stammt von unserer Partnerin Arina. Ergebnisse sind nicht garantiert und hängen von der eigenen Umsetzung ab."
+}

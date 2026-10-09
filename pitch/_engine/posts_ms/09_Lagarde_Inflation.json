@@ -1,0 +1,108 @@
+{
+ "nr": 9,
+ "slug": "Lagarde_Inflation",
+ "photo": "img/lagarde.jpg",
+ "photoPos": {
+  "cover": "width:100%",
+  "ava": "width:100%"
+ },
+ "credit": "Foto: Daniel Novakovič, gemeinfrei",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "2021 hieß es von ihr: Die Inflation ist nur vorübergehend.",
+    "Heute ist dein Erspartes ein Fünftel weniger wert.",
+    "<y>Und kaum jemand spricht darüber...</y>"
+   ]
+  },
+  {
+   "ava": true,
+   "p": [
+    "Das ist <b>Christine Lagarde.</b>",
+    "Sie leitet die Europäische Zentralbank und wacht über unser Geld.",
+    "Im September 2021 sagt sie:",
+    "<b>„Der Anstieg der Inflation dürfte größtenteils vorübergehend sein.“</b>"
+   ]
+  },
+  {
+   "big": "10,6 %",
+   "sub": "Inflation in der Währungsunion, Oktober 2022",
+   "p": [
+    "Nur ein gutes Jahr nach ihrem Satz.",
+    "Es ist der höchste Wert seit Bestehen der gemeinsamen Währung.",
+    "<b>Später räumt die Zentralbank ein, die Inflation unterschätzt zu haben.</b>"
+   ]
+  },
+  {
+   "big": "25 %",
+   "sub": "teurer ist das Leben in Deutschland seit 2020",
+   "p": [
+    "Das zeigt der offizielle Preisindex.",
+    "Wer 2020 Geld zurückgelegt hat, kann sich heute ein Fünftel weniger davon kaufen.",
+    "<b>Ohne dass auf dem Konto eine einzige Zahl kleiner wurde.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Das Bittere daran:",
+    "Die meisten haben alles richtig gemacht. Gearbeitet, gespart, zurückgelegt.",
+    "Und trotzdem jedes Jahr verloren.",
+    "<b>Sparen allein schützt dein Geld nicht mehr.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Auch hier gibt es zwei Gruppen von Menschen.",
+    "<b>1.</b> Die einen hoffen, dass ihr Gehalt irgendwann mitwächst.",
+    "<b>2.</b> Die anderen bauen sich ein zweites Einkommen auf.",
+    "Die Frage ist nicht, ob alles teurer wird.",
+    "<b>Die Frage ist, zu welcher Gruppe du gehörst.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Genau deshalb würde ich mich heute nicht mehr auf ein einziges Einkommen verlassen.",
+    "In Deutschland sind <y>über eine Million Stellen</y> unbesetzt. Firmen suchen verzweifelt und finden niemanden.",
+    "Manche Menschen bringen Firmen und passende Bewerber zusammen. Bezahlt werden sie von der Firma.",
+    "<b>Das sind die <y>Middleman.</y></b>"
+   ]
+  },
+  {
+   "avaSrc": "proof/arina_face.jpg",
+   "p": [
+    "Das ist <b>Arina.</b>",
+    "Ein Steuerberater sucht seit Monaten einen neuen Mitarbeiter. Er findet einfach keinen.",
+    "Arina findet für ihn im Internet genau den Richtigen.",
+    "Der Neue fängt dort an. Dafür bezahlt der Steuerberater Arina.",
+    "<b>So einfach ist das.</b>"
+   ]
+  },
+  {
+   "type": "proof",
+   "head": "Ein Blick auf Arinas Konto:",
+   "imgs": [
+    {
+     "src": "proof/arina_17640.png",
+     "w": 888
+    }
+   ],
+   "line": "Eine einzige Gutschrift: <y>17,6K</y>",
+   "note": "Echter Kontoauszug von Arina, August 2026. Ergebnisse hängen von deiner Umsetzung ab und sind nicht garantiert."
+  },
+  {
+   "type": "cta",
+   "head": "Du willst genau wissen, wie Arina das macht?",
+   "lead": "Die komplette Anleitung, Schritt für Schritt",
+   "list": [
+    "wie du Firmen findest, die dringend suchen",
+    "wie du passende Bewerber findest",
+    "wie du dein Geld dafür bekommst",
+    "was du noch heute tun kannst"
+   ],
+   "close": "Darin steht, wie sie als Middleman Geld verdient. Kostenlos.",
+   "cta": "Schreib „MM“ in die Kommentare und ich schicke sie dir."
+  }
+ ],
+ "caption": "2021 hieß es, die Inflation sei nur vorübergehend. Seit 2020 ist das Leben in Deutschland rund 25 Prozent teurer geworden.\n\nWer damals Geld zurückgelegt hat, kann sich heute ein Fünftel weniger davon kaufen. Sparen allein schützt nicht mehr.\n\nDeshalb bauen sich immer mehr Menschen ein zweites Einkommen auf. In Deutschland sind über eine Million Stellen unbesetzt. Arina bringt Firmen und passende Bewerber zusammen und wird von den Firmen dafür bezahlt.\n\nWir haben eine komplette Anleitung geschrieben, wie Arina als Middleman Geld verdient. Schritt für Schritt, damit du direkt danach starten kannst.\n\nSchreib \"MM\" in die Kommentare und du bekommst sie kostenlos.\n\nFoto: Daniel Novakovič, gemeinfrei. Quellen: EZB Pressekonferenz vom 09.09.2021, Eurostat, Statistisches Bundesamt, IAB Stellenerhebung. Der gezeigte Kontoauszug stammt von unserer Partnerin Arina. Ergebnisse sind nicht garantiert und hängen von der eigenen Umsetzung ab."
+}
