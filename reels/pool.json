@@ -1,0 +1,1027 @@
+[
+ {
+  "id": "01",
+  "slug": "berufe",
+  "feld": "beruf",
+  "herkunft": "mindsetologie",
+  "quelle": "DXhOjhoiHhd",
+  "aufrufe_vorlage": 1846373,
+  "typ": "nummern",
+  "fest": false,
+  "kopf": [
+   "Diese Berufe gibt es wirklich. Und sie werden bezahlt.",
+   "Kein Scherz: Diese Berufe gibt es wirklich.",
+   "Von diesen Berufen hat dir in der Schule keiner erzählt."
+  ],
+  "punkte": [
+   "<b>Trauergast auf Bestellung:</b> wird fürs Mitweinen bezahlt. Den Beruf gibt es seit der Antike.",
+   "<b>Profi im Anstehen:</b> steht stundenlang Schlange, damit andere nicht warten müssen.",
+   "<b>Hochzeitsgast zum Mieten:</b> feiert mit, damit der Saal voller wirkt.",
+   "<b>Wasserrutschentester:</b> wird wirklich fürs Rutschen im Freizeitpark bezahlt.",
+   "<b>Matratzentester:</b> Geld verdienen im Liegen. Das gibt es wirklich.",
+   "<b>Tierfutterverkoster:</b> ein Job für Menschen mit starkem Magen.",
+   "<b>Serientester:</b> wird fürs Schauen und Einordnen neuer Folgen bezahlt.",
+   "<b>Puppendoktor:</b> rettet kaputte Puppen und damit Kindheitserinnerungen."
+  ],
+  "frage": [
+   "Welchen Job würdest du nehmen?",
+   "Welcher Beruf wäre deiner?"
+  ],
+  "caption": [
+   "Wir wachsen mit dem Gedanken auf, dass es nur eine Handvoll richtiger Berufe gibt. Und dann erfährst du, dass jemand sein Geld damit verdient, Wasserrutschen zu testen. Den Trauergast auf Bestellung gibt es übrigens seit der Antike. Die Welt belohnt Nischen.",
+   "In der Schule klingt es, als gäbe es nur eine Handvoll Berufe. Die Wirklichkeit ist bunter. Irgendwo wird jemand genau für das bezahlt, was andere für einen Witz halten."
+  ],
+  "schluss": "Die Welt ist verrückter, als du denkst."
+ },
+ {
+  "id": "02",
+  "slug": "respekt",
+  "feld": "umgang",
+  "herkunft": "mindsetologie",
+  "quelle": "DXjkXN3iIwK",
+  "aufrufe_vorlage": 596656,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "Wer das nicht weiß, wirkt respektlos. Und merkt es nicht.",
+   "Das bringt dir keiner bei. Erwartet wird es trotzdem.",
+   "7 Dinge, die dich respektlos wirken lassen. Ohne dass du es merkst."
+  ],
+  "punkte": [
+   "Bring ein <b>geliehenes Ladekabel</b> von selbst zurück. Niemand will danach fragen müssen.",
+   "Zeigt dir jemand <b>ein Foto</b>, wisch nicht einfach weiter.",
+   "<b>Überspring nie</b> den Lieblingssong von jemandem, wenn du seine Playlist hörst.",
+   "Gib <b>geliehenes Geld</b> zurück, bevor man dich daran erinnern muss.",
+   "<b>Ruf nicht fünfmal</b> hintereinander an, wenn jemand nicht abhebt.",
+   "<b>Klopf an</b>, bevor du eine geschlossene Tür öffnest.",
+   "Hinterlässt du bei jemandem <b>Unordnung</b>, räum sie weg. Ungefragt."
+  ],
+  "frage": [
+   "Welcher Punkt ist dir am wichtigsten?",
+   "Worauf achtest du bei anderen zuerst?"
+  ],
+  "caption": [
+   "Diese Dinge bringt dir keiner bei, aber jeder erwartet sie von dir. Kleine Gesten entscheiden darüber, ob Menschen dir vertrauen und dich respektieren. Manieren sind nicht altmodisch. Sie zeigen, dass du andere nicht für selbstverständlich hältst.",
+   "Manieren lernt man selten in der Schule. Trotzdem merkt jeder sofort, wenn sie fehlen. Es sind kleine Gesten, die zeigen, ob du dein Gegenüber ernst nimmst."
+  ]
+ },
+ {
+  "id": "03",
+  "slug": "tochter_vater",
+  "feld": "familie",
+  "herkunft": "mindsetologie",
+  "quelle": "DXUeZv7iNlw",
+  "aufrufe_vorlage": 343056,
+  "typ": "liste",
+  "fest": true,
+  "kopf": [
+   "Eine Tochter und ihr Vater. Ein Leben lang.",
+   "Tochter und Vater. Eine Geschichte in Lebensjahren.",
+   "So verändert sich der Blick einer Tochter auf ihren Vater."
+  ],
+  "punkte": [
+   "<b>Mit 5:</b> Papa kann alles.",
+   "<b>Mit 7:</b> Papa ist der mutigste Mensch der Welt.",
+   "<b>Mit 10:</b> Papa liegt manchmal falsch.",
+   "<b>Mit 12:</b> Papa versteht nicht, wie es mir geht.",
+   "<b>Mit 14:</b> Papa ist viel zu streng.",
+   "<b>Mit 16:</b> Papa lebt in einer anderen Welt.",
+   "<b>Mit 18:</b> Papa macht sich zu viele Sorgen.",
+   "<b>Mit 22:</b> Papa denkt noch wie früher.",
+   "<b>Mit 25:</b> In manchem hatte Papa wohl recht.",
+   "<b>Mit 30:</b> Was würde Papa mir jetzt raten?",
+   "<b>Mit 35:</b> Jetzt verstehe ich, was Papa meinte.",
+   "<b>Mit 40:</b> Wie hat Papa das alles ausgehalten?",
+   "<b>Mit 50:</b> Nur noch einmal neben ihm sitzen."
+  ],
+  "frage": [
+   "Schick das deinem Papa. Ohne ein Wort dazu.",
+   "Schick das deinem Vater. Er versteht es sofort."
+  ],
+  "caption": [
+   "Es gibt eine Beziehung, die sich leiser verändert als jede andere. Ohne großen Bruch, ohne Drama. Du merkst es erst, wenn du zurückschaust.",
+   "Kaum eine Beziehung verändert sich so leise wie die zwischen Tochter und Vater. Erst ist er ein Held, dann versteht er nichts, dann ist er zu streng. Und irgendwann verstehst du, warum er so war."
+  ],
+  "schluss": "Er war nicht zu streng. Er wollte dich auf eine Welt vorbereiten, der er selbst nie ganz getraut hat."
+ },
+ {
+  "id": "04",
+  "slug": "hygiene",
+  "feld": "hygiene",
+  "herkunft": "mindsetologie",
+  "quelle": "DXjt4l7iPNu",
+  "aufrufe_vorlage": 736478,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "Keiner sagt es dir. Ich schon.",
+   "Das merkt jeder. Aber keiner sagt es dir.",
+   "7 Dinge, die andere sofort an dir bemerken."
+  ],
+  "punkte": [
+   "<b>Das Shirt vom Vortag:</b> Sieht sauber aus, riecht aber nach gestern. Andere merken das.",
+   "<b>Zunge vergessen:</b> Mundgeruch sitzt oft auf der Zunge und nicht an den Zähnen.",
+   "<b>Zu viel Parfüm:</b> Riecht man dich, bevor man dich sieht, war es zu viel.",
+   "<b>Ungepflegte Nägel:</b> Menschen schauen auf Hände. Schmutzige Nägel fallen sofort auf.",
+   "<b>Die Schuhe:</b> Frisches Outfit, müffelnde Schuhe. Die ganze Wirkung ist dahin.",
+   "<b>Haare in Nase und Ohren:</b> Kleinigkeiten, die den ganzen Auftritt kippen.",
+   "<b>Deo statt Dusche:</b> Spray überdeckt den Geruch nur kurz. Erst duschen, dann sprühen."
+  ],
+  "frage": [
+   "Was davon findest du am unangenehmsten?",
+   "Worauf achtest du am meisten?"
+  ],
+  "caption": [
+   "Die meisten bemerken solche Dinge sofort und sagen trotzdem nichts. Sie ziehen nur still ihre Schlüsse. Dabei machen gerade die einfachen Sachen den größten Unterschied. Wer auf sich achtet, strahlt das aus, ohne ein Wort zu sagen.",
+   "Über solche Dinge redet niemand offen. Bemerkt werden sie trotzdem, und zwar in Sekunden. Das Gute daran: Jeder Punkt lässt sich noch heute ändern."
+  ]
+ },
+ {
+  "id": "05",
+  "slug": "drei_gespraeche",
+  "feld": "story",
+  "herkunft": "mindsetologie",
+  "quelle": "DXeLb6GCBet",
+  "aufrufe_vorlage": 491413,
+  "typ": "nummern",
+  "fest": true,
+  "kopf": [
+   "Drei Gespräche. Dreimal Nein. Und am Ende bekam er alles.",
+   "Drei Gespräche, dreimal Nein. Am Ende hatte er alles.",
+   "Er hatte nichts. Drei Gespräche später hatte er alles."
+  ],
+  "punkte": [
+   "Der Vater zum Sohn: <b>„Du heiratest die Frau, die ich aussuche.“</b><br>Sohn: <b>„Nein.“</b><br>Vater: <b>„Sie ist die Tochter des reichsten Mannes der Stadt.“</b><br>Sohn: <b>„Okay.“</b>",
+   "Der Vater zum reichsten Mann der Stadt: <b>„Ihre Tochter soll meinen Sohn heiraten.“</b><br>Der Mann: <b>„Nein.“</b><br>Vater: <b>„Mein Sohn leitet die größte Bank im Land.“</b><br>Der Mann: <b>„Okay.“</b>",
+   "Der Vater zum Aufsichtsrat der Bank: <b>„Machen Sie meinen Sohn zum Chef.“</b><br>Aufsichtsrat: <b>„Nein.“</b><br>Vater: <b>„Er ist der Schwiegersohn des reichsten Mannes der Stadt.“</b><br>Aufsichtsrat: <b>„Okay.“</b>"
+  ],
+  "frage": [
+   "Hast du das Prinzip verstanden?",
+   "Hast du den Trick dahinter erkannt?"
+  ],
+  "caption": [
+   "Diese kleine Geschichte geht seit Jahren durchs Internet und wird in Businesskursen genauso erzählt wie am Küchentisch. Sie zeigt, dass oft nicht zählt, was du hast, sondern in welcher Reihenfolge du es erzählst.",
+   "Diese kleine Geschichte wird seit Jahren weitererzählt, in Businesskursen genauso wie am Küchentisch. Ob sie genau so passiert ist, weiß niemand. Das Prinzip dahinter funktioniert trotzdem."
+  ],
+  "schluss": "So funktioniert Business. Kein Kapital. Kein Netzwerk. Nur die richtige Reihenfolge."
+ },
+ {
+  "id": "06",
+  "slug": "zehn_dinge",
+  "feld": "alltag",
+  "herkunft": "mindsetologie",
+  "quelle": "DXWkeQjCGfG",
+  "aufrufe_vorlage": 230717,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "10 Dinge, die dir keiner sagt. Aber jeder wissen sollte.",
+   "10 Dinge, die man gern früher gewusst hätte.",
+   "10 Dinge, die du erst durch Erfahrung lernst. Oder hier."
+  ],
+  "punkte": [
+   "<b>Setz dich nicht in Straßenkleidung aufs Bett.</b> Du bringst mehr Keime mit, als du denkst.",
+   "<b>Schließ nachts deine Tür ab.</b> Und lass den Schlüssel griffbereit.",
+   "<b>Wechsle die Bettwäsche alle ein bis zwei Wochen.</b> Dein Bett wird es dir danken.",
+   "<b>Lass dein Handy nicht jede Nacht am Kabel.</b> Das kann den Akku auf Dauer schwächen.",
+   "<b>Hab Zitronenbonbons dabei.</b> Sie können bei plötzlicher Übelkeit helfen.",
+   "<b>Lies jede Nachricht zweimal, bevor du antwortest.</b> Viel Streit entsteht aus Missverständnissen.",
+   "<b>Iss nicht, wenn du wütend bist.</b> Beruhig dich erst.",
+   "<b>Sag nichts, solange du aufgewühlt bist.</b> Schweigen schützt dich oft besser als Worte.",
+   "<b>Hab immer etwas Bargeld dabei.</b> Karten und Handys können ausfallen.",
+   "<b>Hör auf dein Bauchgefühl.</b> Es merkt vieles früher als dein Kopf."
+  ],
+  "frage": [
+   "Welchen Punkt merkst du dir?",
+   "Was davon hättest du gern früher gewusst?"
+  ],
+  "caption": [
+   "Manches lernt man erst durch Erfahrung. Diese Dinge hätte man gern früher gewusst. Zweimal lesen, bevor du antwortest, ist zum Beispiel eine der einfachsten Arten, Streit zu vermeiden.",
+   "Manches lernt man erst, wenn es schon passiert ist. Diese zehn Dinge kannst du dir vorher merken. Die meisten kosten nichts und sparen dir trotzdem Ärger."
+  ]
+ },
+ {
+  "id": "07",
+  "slug": "chef_sprache",
+  "feld": "sprache",
+  "herkunft": "mindsetologie",
+  "quelle": "DX413KDoL1U",
+  "aufrufe_vorlage": 316970,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "So sprichst du wie ein Chef. Ab heute.",
+   "So klingst du souverän. Ab dem nächsten Satz.",
+   "8 Formulierungen, mit denen man dich ernst nimmt."
+  ],
+  "punkte": [
+   "<b>Statt „Okay“</b> sag „Verstanden“ oder „Ist notiert“.",
+   "<b>Statt „Gut“</b> sag „Ausgezeichnet“.",
+   "<b>Statt „Ja“</b> sag „Sicher“ oder „Auf jeden Fall“.",
+   "<b>Statt „Danke“</b> sag „Das weiß ich zu schätzen“.",
+   "<b>Statt „Alles klar“</b> sag „Das ist angekommen“.",
+   "<b>Statt „Klar“</b> sag „Einverstanden“.",
+   "<b>Statt „Vielleicht“</b> sag „Das prüfe ich“.",
+   "<b>Statt „Ich glaube“</b> sag „Ich bin überzeugt“."
+  ],
+  "frage": [
+   "Speicher das für dein nächstes Gespräch.",
+   "Welche Formulierung nutzt du ab heute?"
+  ],
+  "caption": [
+   "Deine Worte entscheiden mit, wie andere dich wahrnehmen. Oft schon, bevor du deinen eigentlichen Punkt gemacht hast.",
+   "Wie du etwas sagst, entscheidet oft mehr als das, was du sagst. Kleine Änderungen in der Wortwahl lassen dich klarer und sicherer wirken. Probier es im nächsten Gespräch aus."
+  ]
+ },
+ {
+  "id": "08",
+  "slug": "sternzeichen_extrem",
+  "feld": "stern",
+  "herkunft": "mindsetologie",
+  "quelle": "DXZVBkFCIbq",
+  "aufrufe_vorlage": 293926,
+  "typ": "tabelle",
+  "fest": false,
+  "kopf": [
+   "Die extreme Seite der Sternzeichen. Kaum jemand redet darüber.",
+   "Die Seite der Sternzeichen, über die keiner spricht.",
+   "Sternzeichen ungefiltert. Erkennst du dich wieder?"
+  ],
+  "punkte": [
+   [
+    "Am eifersüchtigsten",
+    "Skorpion • Krebs"
+   ],
+   [
+    "Am romantischsten",
+    "Fische • Waage"
+   ],
+   [
+    "Am anstrengendsten (auf liebe Art)",
+    "Zwillinge • Löwe"
+   ],
+   [
+    "Verlieren schnell das Interesse",
+    "Wassermann • Jungfrau"
+   ],
+   [
+    "Am dramatischsten",
+    "Fische • Krebs"
+   ],
+   [
+    "Wirken am klügsten",
+    "Wassermann • Schütze"
+   ],
+   [
+    "Arbeiten am meisten",
+    "Steinbock • Jungfrau"
+   ],
+   [
+    "Lieben Genuss und Komfort",
+    "Stier • Waage"
+   ],
+   [
+    "Streiten am liebsten",
+    "Widder • Skorpion"
+   ],
+   [
+    "Stimmung wechselt am schnellsten",
+    "Fische • Zwillinge"
+   ],
+   [
+    "Wirken am gleichgültigsten",
+    "Schütze • Wassermann"
+   ],
+   [
+    "Sind am schnellsten verletzt",
+    "Krebs • Jungfrau"
+   ],
+   [
+    "Sagen es am direktesten",
+    "Skorpion • Steinbock"
+   ],
+   [
+    "Spielen am ehesten eine Rolle",
+    "Waage • Löwe"
+   ]
+  ],
+  "frage": [
+   "Was trifft auf dich zu?",
+   "Wo erkennst du dich wieder?"
+  ],
+  "caption": [
+   "Jedes Sternzeichen hat eine Seite, über die selten gesprochen wird. Das ist keine Wissenschaft, aber erstaunlich viele erkennen sich wieder.",
+   "Über die netten Seiten der Sternzeichen liest man überall. Hier kommen die Extreme. Nimm es mit Humor. Bewiesen ist davon nichts, aber viele nicken trotzdem."
+  ]
+ },
+ {
+  "id": "09",
+  "slug": "sieben_jahre",
+  "feld": "leben",
+  "herkunft": "mindsetologie",
+  "quelle": "DV4IlV4iIUx",
+  "aufrufe_vorlage": 241848,
+  "typ": "liste",
+  "fest": true,
+  "kopf": [
+   "Alle 7 Jahre wird dein Leben ein anderes.",
+   "Dein Leben verändert sich alle 7 Jahre.",
+   "Alle 7 Jahre beginnt ein neues Kapitel."
+  ],
+  "punkte": [
+   "<b>0 bis 7:</b> Staunen. Spielen. Wachsen.",
+   "<b>7 bis 14:</b> Fühlen. Lernen. Verstehen.",
+   "<b>14 bis 21:</b> Rebellieren. Suchen. Finden.",
+   "<b>21 bis 28:</b> Lieben. Fallen. Aufstehen.",
+   "<b>28 bis 35:</b> Arbeiten. Zweifeln. Aufwachen.",
+   "<b>35 bis 42:</b> Aufräumen. Neu anfangen. Reifen.",
+   "<b>42 bis 49:</b> Ruhe. Klarheit. Stärke.",
+   "<b>49 bis 56:</b> Geben. Lehren. Vorleben.",
+   "<b>56 bis 63:</b> Genießen. Danken. Sein.",
+   "<b>63 bis 70:</b> Frieden. Weisheit. Liebe.",
+   "<b>70 bis 77:</b> Zurückblicken. Verstehen. Lächeln.",
+   "<b>77 bis 84:</b> Versöhnen. Loslassen. Ruhen.",
+   "<b>Ab 84:</b> Hingabe. Abschied. Vollendung."
+  ],
+  "frage": [
+   "In welcher Phase bist du gerade?",
+   "Welche Phase war bei dir die wichtigste?"
+  ],
+  "caption": [
+   "Das Leben bleibt nicht stehen. Jede Phase bringt neue Gedanken, neue Lektionen und oft einen neuen Blick auf alles davor.",
+   "Viele teilen ihr Leben im Rückblick in Abschnitte ein. Die Idee mit den sieben Jahren ist alt und kein Naturgesetz. Trotzdem erkennen sich erstaunlich viele darin wieder."
+  ]
+ },
+ {
+  "id": "10",
+  "slug": "tricks",
+  "feld": "wirkung",
+  "herkunft": "mindsetologie",
+  "quelle": "DX1_HI2oBbr",
+  "aufrufe_vorlage": 296776,
+  "typ": "nummern",
+  "fest": false,
+  "kopf": [
+   "10 Tricks, mit denen du stärker wirkst. Einen vergisst du nicht.",
+   "10 Tricks für mehr Wirkung. Ohne ein Wort mehr zu sagen.",
+   "So wirkst du stärker. 10 Tricks, die du sofort nutzen kannst."
+  ],
+  "punkte": [
+   "<b>Setz dich im Meeting neben den Chef.</b> Nicht gegenüber.",
+   "<b>Kau vor wichtigen Terminen Kaugummi.</b> Das kann die Nervosität senken.",
+   "<b>Bleib ruhig, wenn andere reden.</b> Wer zuhört, behält die Kontrolle.",
+   "<b>Sag „wir“ statt „ich“.</b> Du klingst sofort wie jemand, der führt.",
+   "<b>Behalte dein Gesicht im Griff.</b> Wer wenig zeigt, ist schwer zu lesen.",
+   "<b>Sprich langsamer als die anderen.</b> Ruhe wirkt souverän.",
+   "<b>Halte den Blick einen Moment länger.</b> Meist schaut der andere zuerst weg.",
+   "<b>Halte Stille aus.</b> Fülle sie nie als Erster.",
+   "<b>Frag mehr, als du antwortest.</b> Wissen ist ein Vorteil.",
+   "<b>Beende das Gespräch selbst.</b> Wer zuerst geht, gibt den Takt vor."
+  ],
+  "frage": [
+   "Welchen Trick nutzt du schon?",
+   "Welchen Trick probierst du zuerst?"
+  ],
+  "caption": [
+   "Die meisten reden viel und wirken wenig. Wirkung entsteht oft durch das, was du nicht tust: nicht hetzen, nicht jede Pause füllen, nicht jede Regung zeigen.",
+   "Wirkung hat wenig mit Lautstärke zu tun. Wer ruhig bleibt, Pausen aushält und sich Zeit lässt, wird anders wahrgenommen. Das lässt sich üben."
+  ]
+ },
+ {
+  "id": "11",
+  "slug": "kitzelmonster",
+  "feld": "story",
+  "herkunft": "mindsetologie",
+  "quelle": "DXfAvgVCNtg",
+  "aufrufe_vorlage": 208190,
+  "typ": "story",
+  "fest": true,
+  "kopf": [
+   "Ich habe meinem Freund eine Frage gestellt. Er bereut seine Antwort bis heute.",
+   "Ich stellte meinem Freund nur eine Frage. Er lachte. Noch.",
+   "Eine harmlose Frage im Bett. Und dann kam die Nacht."
+  ],
+  "punkte": [
+   "Wir lagen im Bett. Ich fragte: <b>„Hast du keine Angst vor dem Kitzelmonster?“</b> Er lachte mich aus. Kindisch, meinte er.",
+   "Mitten in der Nacht weckte er mich. <b>„Lass das. Ich weiß, dass du das bist.“</b> Ich lag die ganze Zeit ruhig neben ihm.",
+   "Er machte das Licht an. Unter dem Bett kam <b>sein Vater</b> hervor. Der hatte durch die Wand zugehört und gewartet.",
+   "Sein Vater gab mir ein <b>High Five</b> und ging. Ich habe noch nie einen Achtzehnjährigen <b>so laut schreien</b> gehört."
+  ],
+  "frage": [
+   "Wie hättest du reagiert?",
+   "Was hättest du gemacht?"
+  ],
+  "caption": [
+   "Es gibt eine bestimmte Art von Vätern. Die, die nicht einfach lachen, wenn sie eine Gelegenheit sehen. Die, die stundenlang unter einem Bett warten.",
+   "Manche Väter lassen keine Gelegenheit aus. Dieser hat durch die Wand zugehört und dann sehr viel Geduld bewiesen. Die Geschichte geht seit Jahren durchs Netz."
+  ]
+ },
+ {
+  "id": "12",
+  "slug": "bad_falsch",
+  "feld": "bad",
+  "herkunft": "mindsetologie",
+  "quelle": "DYFVRoiIMPF",
+  "aufrufe_vorlage": 244906,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "Das machst du im Bad falsch. Jeden Tag.",
+   "Diese Fehler im Bad macht fast jeder.",
+   "7 Dinge, die du im Bad falsch machst."
+  ],
+  "punkte": [
+   "<b>Mundwasser</b> nicht direkt nach dem Putzen. Es kann das Fluorid wieder wegspülen.",
+   "<b>Nasse Haare</b> nicht grob bürsten. Sie reißen dann leichter.",
+   "<b>Den Luffaschwamm</b> alle 3 bis 4 Wochen tauschen. Er schimmelt schneller, als man denkt.",
+   "<b>Das Handtuch</b> nach dem Benutzen trocknen lassen. Im Feuchten vermehren sich Bakterien.",
+   "<b>Shampoo</b> gehört auf die Kopfhaut, nicht in die Längen.",
+   "<b>Zahnpasta:</b> Eine erbsengroße Menge reicht meist. Mehr bringt vor allem Schaum.",
+   "<b>Die Toilettenbürste</b> regelmäßig reinigen. Nicht erst nach Wochen."
+  ],
+  "frage": [
+   "Was davon änderst du ab heute?",
+   "Welchen Fehler machst du auch?"
+  ],
+  "caption": [
+   "Du stehst jeden Tag im Bad. Und fast niemand macht dort alles richtig. Die meisten dieser Dinge kosten keine Minute mehr.",
+   "Im Bad läuft fast alles automatisch. Genau deshalb fällt kaum jemandem auf, was er dort seit Jahren falsch macht. Das meiste lässt sich in wenigen Sekunden ändern."
+  ]
+ },
+ {
+  "id": "13",
+  "slug": "saetze_job",
+  "feld": "job",
+  "herkunft": "mindsetologie",
+  "quelle": "DV73OOdCIiP",
+  "aufrufe_vorlage": 288617,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "Diese Sätze retten dich im Job.",
+   "Diese Sätze schützen dich im Job.",
+   "4 Sätze, die dich im Job absichern."
+  ],
+  "punkte": [
+   "<b>Statt:</b> „Für den Unsinn bleibe ich nicht länger.“<br><b>Besser:</b> „Ich bin heute bis 17 Uhr da und nehme es mir morgen früh als Erstes vor.“",
+   "<b>Statt:</b> „Mach es doch selbst.“<br><b>Besser:</b> „Übernimm das gern. Bei Fragen helfe ich dir.“",
+   "<b>Statt:</b> „Dafür bin ich nicht zuständig.“<br><b>Besser:</b> „Das liegt nicht bei mir. Ich sage dir gern, wer zuständig ist.“",
+   "<b>Statt:</b> „Immer muss ich alles machen!“<br><b>Besser:</b> „Damit es fair bleibt, übernimmst du das bitte dieses Mal.“"
+  ],
+  "frage": [
+   "Welchen Satz brauchst du am häufigsten?",
+   "Welchen Satz merkst du dir?"
+  ],
+  "caption": [
+   "Die richtige Formulierung macht im Job oft den größten Unterschied. Vor allem, wenn es gerade stressig ist. Du sagst dasselbe, nur so, dass es niemand gegen dich verwenden kann.",
+   "Im Job zählt nicht nur, was du sagst, sondern auch, wie. Mit der richtigen Formulierung bleibst du freundlich und trotzdem klar. So kann dir später niemand etwas anhängen."
+  ]
+ },
+ {
+  "id": "14",
+  "slug": "sternzeichen_duos",
+  "feld": "stern",
+  "herkunft": "mindsetologie",
+  "quelle": "DXUdWptCLe_",
+  "aufrufe_vorlage": 268164,
+  "typ": "gruppen",
+  "fest": false,
+  "kopf": [
+   "Diese Sternzeichen finden immer wieder zueinander.",
+   "Diese Sternzeichen ziehen sich an. Immer wieder.",
+   "Welche Sternzeichen zusammenpassen. Und bei welchen es knallt."
+  ],
+  "punkte": [
+   {
+    "titel": "Tiefe Verbindung",
+    "zeilen": [
+     "Krebs und Skorpion",
+     "Fische und Skorpion",
+     "Krebs und Fische"
+    ]
+   },
+   {
+    "titel": "Sofort vertraut",
+    "zeilen": [
+     "Stier und Krebs",
+     "Waage und Zwillinge",
+     "Fische und Stier"
+    ]
+   },
+   {
+    "titel": "Starke Anziehung",
+    "zeilen": [
+     "Widder und Löwe",
+     "Waage und Skorpion",
+     "Zwillinge und Schütze"
+    ]
+   },
+   {
+    "titel": "Chaos und Wachstum",
+    "zeilen": [
+     "Widder und Zwillinge",
+     "Löwe und Fische",
+     "Schütze und Wassermann"
+    ]
+   }
+  ],
+  "frage": [
+   "Welches Duo passt zu dir?",
+   "Welches Duo kennst du aus deinem Leben?"
+  ],
+  "caption": [
+   "Astrologie erklärt nicht alles. Aber sie beschreibt die Dynamik zwischen zwei Menschen auf eine Art, in der sich viele wiederfinden.",
+   "Manche Menschen verstehen sich sofort, bei anderen kracht es zuverlässig. Die Astrologie hat dafür ihre eigene Erklärung. Beweisen lässt sich das nicht, Spaß macht es trotzdem."
+  ]
+ },
+ {
+  "id": "15",
+  "slug": "regeln_schutz",
+  "feld": "sicherheit",
+  "herkunft": "mindsetologie",
+  "quelle": "DXT1l9YiLth",
+  "aufrufe_vorlage": 220635,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "10 Regeln, die jede Frau schützen können. Speicher sie dir.",
+   "10 Regeln für mehr Sicherheit. Jede Frau sollte sie kennen.",
+   "Diese 10 Regeln können eine Frau schützen."
+  ],
+  "punkte": [
+   "<b>Tür sofort abschließen.</b> Das Handy kann warten.",
+   "Nie mit <b>voller Lautstärke</b> auf den Ohren unterwegs sein.",
+   "In der Nähe von <b>Ausgängen</b> bleiben, nicht in Ecken.",
+   "Vor dem Einsteigen kurz <b>ums und ins Auto</b> schauen.",
+   "Merken, wer <b>auffällig oft</b> in deiner Nähe auftaucht.",
+   "Fühlt sich etwas <b>falsch an</b>, geh. Du musst es niemandem erklären.",
+   "Fremden nie sagen, wo du bist oder <b>wohin du gehst</b>.",
+   "Wege und Zeiten ab und zu <b>ändern</b>.",
+   "Die <b>starke Hand</b> möglichst frei halten.",
+   "Dein <b>Bauchgefühl</b> ernst nehmen. Immer."
+  ],
+  "frage": [
+   "Schick das einer Frau, die dir wichtig ist.",
+   "Schick das deiner Schwester oder Freundin."
+  ],
+  "caption": [
+   "Sicherheit beginnt nicht mit Angst. Sie beginnt mit Aufmerksamkeit. Die meisten dieser Regeln dauern Sekunden.",
+   "Die meisten dieser Regeln kosten nur ein paar Sekunden. Es geht nicht um Angst, sondern um Aufmerksamkeit. Wer sie kennt, bewegt sich sicherer durch den Alltag."
+  ]
+ },
+ {
+  "id": "16",
+  "slug": "bad_gewohnheiten",
+  "feld": "bad",
+  "herkunft": "mindsetologie",
+  "quelle": "DXbPL4DCF8l",
+  "aufrufe_vorlage": 545080,
+  "typ": "nummern",
+  "fest": false,
+  "kopf": [
+   "Diese Gewohnheiten im Bad können schaden. Kaum jemand weiß es.",
+   "8 Gewohnheiten im Bad, die schaden können.",
+   "Das machst du im Bad seit Jahren. Es kann schaden."
+  ],
+  "punkte": [
+   "<b>Lange auf der Toilette sitzen</b> kann Hämorrhoiden begünstigen.",
+   "<b>Stückseife, die im Nassen liegt,</b> sammelt Keime. Lass sie trocknen.",
+   "<b>Ein Luffaschwamm</b>, der im Bad hängt, kann schnell schimmeln.",
+   "<b>Zu kurz Hände waschen</b> bringt wenig. Nimm dir etwa 20 Sekunden.",
+   "<b>Täglich sehr heiß duschen</b> kann die Schutzschicht der Haut angreifen.",
+   "<b>Dasselbe Handtuch wochenlang</b> ist ein guter Nährboden für Bakterien.",
+   "<b>Die Zahnbürste neben der Toilette</b> bekommt mehr ab, als dir lieb ist.",
+   "<b>Spülen mit offenem Deckel</b> kann Keime im Raum verteilen."
+  ],
+  "frage": [
+   "Welche Gewohnheit hat dich überrascht?",
+   "Welche Gewohnheit änderst du?"
+  ],
+  "caption": [
+   "Manche Gewohnheiten im Bad hat man so lange, dass man sie nie hinterfragt. Dabei lässt sich das meiste in Sekunden ändern.",
+   "Was man jeden Tag macht, hinterfragt man selten. Dabei können ein paar Gewohnheiten im Bad auf Dauer der Haut und der Gesundheit schaden. Meist reicht eine kleine Umstellung."
+  ]
+ },
+ {
+  "id": "17",
+  "slug": "notfall",
+  "feld": "sicherheit",
+  "herkunft": "mindsetologie",
+  "quelle": "DWqqDWaCJQf",
+  "aufrufe_vorlage": 205219,
+  "typ": "nummern",
+  "fest": false,
+  "kopf": [
+   "8 Dinge, die im Notfall zählen. Kaum jemand kennt alle.",
+   "Im Notfall zählt jede Sekunde. 8 Dinge, die du wissen musst.",
+   "8 Dinge, die du für den Notfall kennen solltest."
+  ],
+  "punkte": [
+   "<b>Die 112 gilt in der ganzen EU.</b> Kostenlos und auch ohne Guthaben.",
+   "<b>Brennt Fett in der Pfanne,</b> nimm nie Wasser. Deckel drauf, Herd aus.",
+   "<b>Ist Rauch im Raum,</b> bleib tief am Boden. Unten ist die Luft besser. Flieh nie durch dichten Rauch.",
+   "<b>Zieht dich eine Strömung aufs Meer,</b> schwimm parallel zum Strand.",
+   "<b>Droht jemand zu ersticken,</b> beug ihn vor und schlag bis zu fünfmal kräftig zwischen die Schulterblätter.",
+   "<b>Ist jemand bewusstlos, atmet aber,</b> bring ihn in die stabile Seitenlage und ruf die 112.",
+   "<b>Blutet eine Wunde stark,</b> drück fest darauf, bis Hilfe da ist.",
+   "<b>Bist du bei Gewitter im Freien,</b> halt Abstand zu Bäumen und Wasser."
+  ],
+  "frage": [
+   "Welchen Punkt kanntest du noch nicht?",
+   "Was davon wusstest du schon?"
+  ],
+  "caption": [
+   "Im Notfall bleibt keine Zeit zum Nachschlagen. Dann zählt, was du schon im Kopf hast. Die meisten dieser Dinge sind einfach, man muss sie nur einmal gelesen haben. Einen Kurs in Erster Hilfe ersetzt das nicht, aber es ist ein guter Anfang.",
+   "Niemand rechnet mit einem Notfall. Umso wichtiger ist, was du dann schon weißt. Diese acht Dinge sind schnell gelesen. Ein Kurs in Erster Hilfe bleibt trotzdem die beste Vorbereitung."
+  ]
+ },
+ {
+  "id": "18",
+  "slug": "wahrheiten",
+  "feld": "menschen",
+  "herkunft": "mindsetologie",
+  "quelle": "DWPGEoGiDfu",
+  "aufrufe_vorlage": 198471,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "8 unbequeme Wahrheiten über Menschen. Sie fühlen sich vertraut an.",
+   "8 Wahrheiten über Menschen, die keiner gern hört.",
+   "Unbequem, aber wahr: 8 Dinge über Menschen."
+  ],
+  "punkte": [
+   "<b>Was dich an anderen stört,</b> sagt oft auch etwas über dich.",
+   "<b>Wer ständig über andere lästert,</b> lästert meist auch über dich.",
+   "<b>Schweigen ist auch eine Antwort.</b> Oft die ehrlichste.",
+   "<b>Menschen vergessen oft, was du sagst.</b> Wie sie sich bei dir gefühlt haben, bleibt.",
+   "<b>Wer dir nur im Erfolg nahe ist,</b> mag oft den Erfolg mehr als dich.",
+   "<b>Kritik trifft oft am härtesten,</b> wenn ein Teil von dir ihr zustimmt.",
+   "<b>Wer dauernd unterbricht,</b> will oft nicht verstehen, sondern recht behalten.",
+   "<b>Menschen ändern sich selten,</b> weil du es willst. Meist erst, wenn sie es selbst wollen."
+  ],
+  "frage": [
+   "Welche Wahrheit trifft dich am meisten?",
+   "Bei welchem Punkt musstest du nicken?"
+  ],
+  "caption": [
+   "Nicht jede Wahrheit klingt angenehm. Manche treffen gerade deshalb, weil du sie längst kennst und nur nie ausgesprochen hast. Das sind keine Gesetze, sondern Beobachtungen, die sich im Alltag immer wieder zeigen.",
+   "Manche Sätze tun kurz weh, weil sie stimmen. Es sind keine Gesetze, nur Beobachtungen aus dem Alltag. Vielleicht erkennst du jemanden wieder. Vielleicht auch dich."
+  ]
+ },
+ {
+  "id": "19",
+  "slug": "aussprache",
+  "feld": "sprache",
+  "quelle": "DWe0IrUjlCQ",
+  "aufrufe_vorlage": 2732473,
+  "typ": "tabelle",
+  "fest": false,
+  "kopf": [
+   "Diese Wörter spricht fast jeder falsch aus.",
+   "10 Wörter, die fast jeder falsch ausspricht.",
+   "Diese Wörter sagst du vielleicht seit Jahren falsch."
+  ],
+  "punkte": [
+   [
+    "Gnocchi",
+    "Njokki"
+   ],
+   [
+    "Bruschetta",
+    "Brusketta"
+   ],
+   [
+    "Espresso",
+    "mit s, nie mit x"
+   ],
+   [
+    "Quinoa",
+    "Kinoa oder Kinwa"
+   ],
+   [
+    "Worcestersoße",
+    "Wustersoße"
+   ],
+   [
+    "Tagliatelle",
+    "Taljatelle"
+   ],
+   [
+    "Ciabatta",
+    "Tschabatta"
+   ],
+   [
+    "Zucchini",
+    "Zukkini"
+   ],
+   [
+    "Chorizo",
+    "Tschoriso"
+   ],
+   [
+    "Stracciatella",
+    "Stratschatella"
+   ]
+  ],
+  "frage": [
+   "Welches Wort hast du bisher falsch gesagt?",
+   "Bei welchem Wort lagst du daneben?"
+  ],
+  "caption": [
+   "Im Restaurant bestellt man sie ständig, und fast jeder sagt sie anders. Die meisten dieser Wörter kommen aus dem Italienischen, und dort gelten eigene Regeln. Einmal gemerkt, sitzt es für immer.",
+   "Manche Wörter sagt man jahrelang falsch, ohne es zu merken. Schuld ist meist die Schreibweise aus einer anderen Sprache. Mit dieser Liste bestellst du beim nächsten Mal ganz entspannt."
+  ],
+  "herkunft": "mentalexikon"
+ },
+ {
+  "id": "20",
+  "slug": "alltag_falsch",
+  "feld": "alltag",
+  "quelle": "DWcGcNmjpYs",
+  "aufrufe_vorlage": 4893196,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "Das machst du im Alltag falsch. Ohne es zu merken.",
+   "8 Alltagsfehler, die fast jeder macht.",
+   "Diese kleinen Fehler machst du jeden Tag."
+  ],
+  "punkte": [
+   "<b>Handy am Bett laden:</b> So ist es abends das Letzte und morgens das Erste, was du siehst.",
+   "<b>Zähne direkt nach Saurem putzen:</b> Viele Zahnärzte raten, kurz zu warten.",
+   "<b>Den Spülschwamm wochenlang nutzen:</b> Er zählt zu den keimreichsten Dingen im Haushalt.",
+   "<b>Die Trinkflasche nur ausspülen:</b> Ohne Spülmittel bildet sich schnell ein Belag.",
+   "<b>Mit nassen Haaren schlafen:</b> Nasses Haar ist empfindlich und bricht leichter.",
+   "<b>Das nasse Handtuch zusammenlegen:</b> Aufgehängt trocknet es schneller und müffelt nicht so schnell.",
+   "<b>Den Wecker fünfmal wegdrücken:</b> Der Schlaf dazwischen erholt dich kaum.",
+   "<b>Tomaten in den Kühlschrank legen:</b> Dort verlieren sie ihr Aroma."
+  ],
+  "frage": [
+   "Was davon machst du auch?",
+   "Bei welchem Punkt fühlst du dich ertappt?"
+  ],
+  "caption": [
+   "Die meisten glauben, im Alltag alles richtig zu machen. Dabei sind es oft die kleinen Gewohnheiten, die den Unterschied machen. Nichts davon ist dramatisch, aber alles lässt sich leicht ändern.",
+   "Gewohnheiten laufen von allein, deshalb fallen ihre Fehler kaum auf. Hier sind acht davon, die fast jeder kennt. Such dir einen Punkt aus und fang damit an."
+  ],
+  "herkunft": "mentalexikon"
+ },
+ {
+  "id": "21",
+  "slug": "ringe",
+  "feld": "symbole",
+  "quelle": "DXdrD2wglOS",
+  "aufrufe_vorlage": 3605389,
+  "typ": "liste",
+  "fest": true,
+  "kopf": [
+   "Was ein Ring an welchem Finger bedeutet.",
+   "Dein Ring verrät mehr, als du denkst.",
+   "Jeder Finger hat seine Bedeutung. Erst recht mit Ring."
+  ],
+  "punkte": [
+   "<b>Daumen:</b> Steht traditionell für Willenskraft und Unabhängigkeit.",
+   "<b>Zeigefinger:</b> Galt früher als Zeichen für Macht und Führung.",
+   "<b>Mittelfinger:</b> Wird mit Balance und Verantwortung verbunden.",
+   "<b>Ringfinger:</b> Der Klassiker für Liebe, Bindung und Treue.",
+   "<b>Kleiner Finger:</b> Hier sitzt oft der Siegelring. Er steht für Stil und Status.",
+   "<b>Links oder rechts:</b> Der Ehering sitzt in Deutschland meist rechts, in vielen Ländern links."
+  ],
+  "schluss": "Keine Wissenschaft. Aber eine sehr alte Tradition.",
+  "frage": [
+   "An welchem Finger trägst du deinen Ring?",
+   "Wo sitzt dein Ring?"
+  ],
+  "caption": [
+   "Ein Ring ist selten nur Schmuck. Seit Jahrhunderten wird jedem Finger eine eigene Bedeutung zugeschrieben. Das ist Tradition und keine Wissenschaft, aber viele achten unbewusst darauf.",
+   "Schon in der Antike hatte der Ringfinger eine besondere Bedeutung. Manche dieser Deutungen haben sich bis heute gehalten. Ob du daran glaubst, bleibt dir überlassen."
+  ],
+  "herkunft": "mentalexikon"
+ },
+ {
+  "id": "22",
+  "slug": "gesten_liebe",
+  "feld": "liebe",
+  "quelle": "DXUdYw-gsEt",
+  "aufrufe_vorlage": 2188318,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "Kleine Gesten, die mehr sagen als „Ich liebe dich“.",
+   "8 Gesten, die echte Liebe zeigen. Ganz ohne große Worte.",
+   "Liebe zeigt sich leise. An diesen 8 Gesten."
+  ],
+  "punkte": [
+   "<b>„Schreib mir, wenn du da bist.“</b> Dahinter steckt echte Sorge.",
+   "<b>Das letzte Stück</b> bekommt der andere. Ohne zu fragen.",
+   "<b>Sich Kleinigkeiten merken,</b> die du nur einmal erwähnt hast.",
+   "<b>Dein Handy laden,</b> wenn der Akku fast leer ist.",
+   "<b>Die eigene Jacke hergeben,</b> sobald dir kalt wird.",
+   "<b>Auf der Straßenseite gehen,</b> ohne ein Wort darüber zu verlieren.",
+   "<b>Zuhören,</b> ohne dabei aufs Handy zu schauen.",
+   "<b>Dich schlafen lassen</b> und leise die Tür schließen."
+  ],
+  "frage": [
+   "Welche Geste bedeutet dir am meisten?",
+   "Welche Geste kennst du von deinem Menschen?"
+  ],
+  "caption": [
+   "Große Worte sind schnell gesagt. Echte Zuneigung zeigt sich meist in dem, was jemand ganz selbstverständlich tut. Wer solche Gesten kennt, weiß, was er an seinem Menschen hat.",
+   "Liebe ist selten laut. Sie steckt in kleinen Handgriffen, die im Alltag fast untergehen. Achte heute einmal darauf. Es lohnt sich."
+  ],
+  "herkunft": "mentalexikon"
+ },
+ {
+  "id": "23",
+  "slug": "mails",
+  "feld": "job",
+  "quelle": "DWuPeBmjs9s",
+  "aufrufe_vorlage": 637183,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "So klingen deine Mails sofort souveräner.",
+   "7 Sätze, die dich in Mails unsicher wirken lassen.",
+   "Streich diese Sätze aus deinen Mails."
+  ],
+  "punkte": [
+   "<b>Statt „Sorry für die späte Antwort“:</b> „Danke für Ihre Geduld.“",
+   "<b>Statt „Ich wollte nur kurz fragen“:</b> „Ich habe eine Frage.“",
+   "<b>Statt „Ich hoffe, das passt so“:</b> „Geben Sie mir gern Rückmeldung.“",
+   "<b>Statt „Kein Problem“:</b> „Gern geschehen.“",
+   "<b>Statt „Ich glaube, wir sollten“:</b> „Ich schlage vor, dass wir“",
+   "<b>Statt „Entschuldigen Sie die Störung“:</b> „Ich habe ein kurzes Anliegen.“",
+   "<b>Statt „Ich versuche es bis Freitag“:</b> „Sie bekommen es am Freitag.“"
+  ],
+  "frage": [
+   "Welchen Satz streichst du ab heute?",
+   "Welche Formulierung nutzt du am häufigsten?"
+  ],
+  "caption": [
+   "Die meisten Mails scheitern nicht am Inhalt, sondern am Ton. Wer sich ständig entschuldigt und abschwächt, wirkt unsicher, auch wenn er recht hat. Ein paar andere Wörter reichen, und du klingst klar und freundlich zugleich.",
+   "Unsichere Formulierungen schleichen sich in fast jede Mail. Sie sind nett gemeint und machen dich trotzdem kleiner, als du bist. Tausch sie aus und achte darauf, wie anders die Antworten ausfallen."
+  ],
+  "herkunft": "mentalexikon"
+ },
+ {
+  "id": "24",
+  "slug": "paare",
+  "feld": "liebe",
+  "quelle": "DXgO0EFguly",
+  "aufrufe_vorlage": 654065,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "8 Gewohnheiten von Paaren, die lange glücklich bleiben.",
+   "Was glückliche Paare anders machen. 8 Gewohnheiten.",
+   "Glückliche Paare haben kein Glück. Sie haben Gewohnheiten."
+  ],
+  "punkte": [
+   "<b>Sie sagen Danke,</b> auch für das Selbstverständliche.",
+   "<b>Sie streiten,</b> aber nie unter der Gürtellinie.",
+   "<b>Sie haben eigene Hobbys</b> und gönnen dem anderen seine.",
+   "<b>Sie lachen zusammen,</b> am liebsten über sich selbst.",
+   "<b>Sie reden über Geld,</b> bevor es zum Problem wird.",
+   "<b>Sie verabschieden sich</b> nie ohne ein gutes Wort.",
+   "<b>Sie hören zu,</b> statt sofort eine Lösung zu liefern.",
+   "<b>Sie sprechen gut übereinander,</b> gerade wenn der andere nicht da ist."
+  ],
+  "frage": [
+   "Welche Gewohnheit ist die wichtigste?",
+   "Was davon lebt ihr schon?"
+  ],
+  "caption": [
+   "Glück in einer Beziehung zeigt sich selten in großen Gesten. Es steckt im Alltag, in dem, was zwei Menschen jeden Tag wie nebenbei tun. Keine dieser Gewohnheiten ist schwer, man muss nur dranbleiben.",
+   "Wer nach vielen Jahren noch glücklich ist, hat meist nicht einfach Glück gehabt. Dahinter stecken kleine Dinge, die sich jeden Tag wiederholen. Vielleicht erkennt ihr euch in ein paar davon wieder."
+  ],
+  "herkunft": "mentalexikon"
+ },
+ {
+  "id": "25",
+  "slug": "buerodeutsch",
+  "feld": "job",
+  "quelle": "DXbm2shAnnD",
+  "aufrufe_vorlage": 719903,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "Was im Büro gesagt wird. Und was gemeint ist.",
+   "Bürodeutsch übersetzt. 8 Sätze und ihre wahre Bedeutung.",
+   "8 Sätze aus dem Büro. Und was sie wirklich heißen."
+  ],
+  "punkte": [
+   "<b>„Wie bereits besprochen“:</b> Ich habe es dir schon dreimal gesagt.",
+   "<b>„Kurze Frage“:</b> Das dauert jetzt eine halbe Stunde.",
+   "<b>„Ich nehme das mal mit“:</b> Davon hörst du nie wieder etwas.",
+   "<b>„Spannender Ansatz“:</b> Das machen wir auf keinen Fall.",
+   "<b>„Bei Gelegenheit“:</b> Also am besten gestern.",
+   "<b>„Das klären wir bilateral“:</b> Bitte nicht vor allen anderen.",
+   "<b>„Mit freundlichen Grüßen“:</b> Jetzt bin ich wirklich sauer.",
+   "<b>„Da bin ich ganz bei dir“:</b> Aber wir machen es anders."
+  ],
+  "frage": [
+   "Welchen Satz hörst du am häufigsten?",
+   "Welcher Satz fällt in deinem Büro täglich?"
+  ],
+  "caption": [
+   "Jedes Büro hat seine eigene Sprache. Offiziell klingt alles freundlich, gemeint ist oft etwas ganz anderes. Wer die Übersetzung kennt, liest Mails mit anderen Augen.",
+   "Im Büro sagt kaum jemand direkt, was er denkt. Dafür gibt es Formulierungen, die jeder versteht und keiner zugibt. Nimm es mit Humor. Du benutzt sie vermutlich selbst."
+  ],
+  "herkunft": "mentalexikon"
+ },
+ {
+  "id": "26",
+  "slug": "lagern",
+  "feld": "kueche",
+  "quelle": "DXTj1gmiINm",
+  "aufrufe_vorlage": 441148,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "Diese Lebensmittel lagerst du falsch.",
+   "8 Lebensmittel, die fast jeder falsch lagert.",
+   "So halten deine Lebensmittel länger. 8 einfache Regeln."
+  ],
+  "punkte": [
+   "<b>Tomaten:</b> Nicht in den Kühlschrank. Dort verlieren sie ihr Aroma.",
+   "<b>Brot:</b> Im Kühlschrank wird es schneller altbacken. Besser in den Brotkasten.",
+   "<b>Kartoffeln:</b> Dunkel und kühl lagern, aber nicht im Kühlschrank.",
+   "<b>Zwiebeln:</b> Trocken und luftig, und nicht neben Kartoffeln.",
+   "<b>Bananen:</b> Getrennt von anderem Obst. Sie lassen es schneller reifen.",
+   "<b>Honig:</b> Gehört nicht in den Kühlschrank. Dort wird er schneller fest.",
+   "<b>Basilikum:</b> Mag es hell und warm. Kälte verträgt es schlecht.",
+   "<b>Olivenöl:</b> Dunkel aufbewahren und nicht direkt neben dem Herd."
+  ],
+  "frage": [
+   "Was hast du bisher falsch gelagert?",
+   "Was liegt bei dir am falschen Platz?"
+  ],
+  "caption": [
+   "Lebensmittel richtig zu lagern klingt banal. Bis du merkst, wie viel Geschmack und Geld jeden Tag verloren geht, weil es einem nie jemand erklärt hat. Mit ein paar Handgriffen hält vieles deutlich länger.",
+   "Nicht alles gehört in den Kühlschrank, und manches verträgt sich nicht miteinander. Wer das weiß, wirft weniger weg und hat mehr Geschmack auf dem Teller. Die meisten Regeln merkst du dir sofort."
+  ],
+  "herkunft": "mentalexikon"
+ },
+ {
+  "id": "27",
+  "slug": "fakten_welt",
+  "feld": "wissen",
+  "quelle": "DXTmHixCHdF",
+  "aufrufe_vorlage": 429859,
+  "typ": "nummern",
+  "fest": false,
+  "kopf": [
+   "8 Fakten über die Welt, die nicht jeder kennt.",
+   "Die Welt ist anders, als du denkst. 8 Fakten.",
+   "8 Fakten, die dein Bild von der Welt verändern."
+  ],
+  "punkte": [
+   "<b>Der kuwaitische Dinar</b> gilt als wertvollste Währung der Welt.",
+   "<b>Russland</b> hat elf Zeitzonen. Frankreich mit seinen Überseegebieten sogar zwölf.",
+   "<b>Kanada</b> hat mehr Seen als jedes andere Land der Erde.",
+   "<b>Die Sahara</b> ist fast so groß wie die USA.",
+   "<b>Der Vatikan</b> ist der kleinste Staat der Welt.",
+   "<b>Der Pazifik</b> ist größer als alle Landflächen der Erde zusammen.",
+   "<b>Istanbul</b> liegt auf zwei Kontinenten zugleich.",
+   "<b>Australien</b> ist breiter als der Durchmesser des Mondes."
+  ],
+  "frage": [
+   "Welcher Fakt hat dich überrascht?",
+   "Welchen Fakt kanntest du schon?"
+  ],
+  "caption": [
+   "Die Welt steckt voller Tatsachen, die im Erdkundeunterricht zu kurz kamen. Manche klingen erfunden und stimmen trotzdem. Mit diesen acht bist du beim nächsten Quizabend vorn.",
+   "Je genauer man auf die Karte schaut, desto mehr staunt man. Vieles ist ganz anders, als man es im Kopf hat. Welchen Fakt hättest du richtig geraten?"
+  ],
+  "herkunft": "mentalexikon"
+ },
+ {
+  "id": "28",
+  "slug": "drei_lieben",
+  "feld": "liebe",
+  "quelle": "DWUHHxKAv3-",
+  "aufrufe_vorlage": 426930,
+  "typ": "nummern",
+  "fest": true,
+  "kopf": [
+   "Man sagt, du liebst im Leben dreimal.",
+   "Die drei Lieben deines Lebens.",
+   "Drei Lieben. Jede lehrt dich etwas anderes."
+  ],
+  "punkte": [
+   "<b>Die erste Liebe</b> zeigt dir, wie sich Liebe anfühlt. Sie ist jung, groß und ein bisschen wie im Film.",
+   "<b>Die zweite Liebe</b> zeigt dir, wer du bist. Sie tut weh, und du wächst daran.",
+   "<b>Die dritte Liebe</b> kommt, wenn du nicht mehr suchst. Sie fühlt sich einfach richtig an."
+  ],
+  "schluss": "Nicht jeder erlebt alle drei. Aber jede hat ihren Sinn.",
+  "frage": [
+   "In welcher bist du gerade?",
+   "Welche Liebe hat dich am meisten geprägt?"
+  ],
+  "caption": [
+   "Es heißt, jeder Mensch liebt im Leben dreimal, und jede Liebe hat ihre eigene Aufgabe. Das ist keine Regel, sondern eine schöne Art, auf das eigene Leben zu schauen. Vielleicht findest du dich darin wieder.",
+   "Liebe passiert nicht nur einmal, und sie bleibt nicht dieselbe. Mit jedem Menschen lernst du etwas anderes, über ihn und über dich. Die Idee der drei Lieben bringt das auf den Punkt."
+  ],
+  "herkunft": "mentalexikon"
+ }
+]
