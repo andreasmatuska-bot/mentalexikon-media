@@ -1,0 +1,63 @@
+{
+ "name": "Krankheitslexikon_13_Stimme",
+ "aufbau": "spalten",
+ "titel": "Was deine Stimme über dich verrät",
+ "punkte": [
+  [
+   "Leise Stimme",
+   "Du willst niemandem zur Last fallen."
+  ],
+  [
+   "Laute Stimme",
+   "Du hast Angst, sonst überhört zu werden."
+  ],
+  [
+   "Schnelles Sprechen",
+   "Du glaubst, dass dir niemand lange zuhört."
+  ],
+  [
+   "Häufiges Räuspern",
+   "Etwas will gesagt werden und bleibt stecken."
+  ],
+  [
+   "Kloß im Hals",
+   "Geschluckte Tränen und ungesagte Worte."
+  ],
+  [
+   "Zittrige Stimme",
+   "Angst, dich so zu zeigen, wie du bist."
+  ],
+  [
+   "Stimme bricht weg",
+   "Dir fehlt gerade der innere Halt."
+  ],
+  [
+   "Hohe Stimme",
+   "Anspannung. Du willst es allen recht machen."
+  ],
+  [
+   "Monotone Stimme",
+   "Du hältst deine Gefühle unter Verschluss."
+  ],
+  [
+   "Nuscheln",
+   "Du traust deinen eigenen Worten nicht."
+  ],
+  [
+   "Häufiges Seufzen",
+   "Du trägst eine Last, die du loslassen möchtest."
+  ],
+  [
+   "Nervöses Lachen",
+   "Du überspielst deine Unsicherheit."
+  ],
+  [
+   "Lange Pausen",
+   "Du wägst jedes Wort ab, aus Angst vor Fehlern."
+  ],
+  [
+   "Trockener Mund",
+   "Aufregung. Du fühlst dich geprüft."
+  ]
+ ]
+}
