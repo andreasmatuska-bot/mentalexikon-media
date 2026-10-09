@@ -1,0 +1,109 @@
+{
+ "nr": 4,
+ "slug": "Optimus_Roboter",
+ "photo": "img/optimus.jpg",
+ "photoPos": {
+  "cover": "width:100%",
+  "ava": "width:100%"
+ },
+ "credit": "Foto: Benjamin Ceci, gemeinfrei",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Dieser Roboter soll bald so viel kosten wie ein Kleinwagen.",
+    "Und arbeiten wie fünf Menschen.",
+    "<y>Was Tesla wirklich damit vorhat...</y>"
+   ]
+  },
+  {
+   "ava": true,
+   "p": [
+    "Das ist <b>Optimus.</b>",
+    "Ein Roboter von Tesla, gebaut wie ein Mensch. Er soll tragen, sortieren, putzen und in Fabriken arbeiten.",
+    "Elon Musk nennt als Zielpreis 20.000 bis 30.000 Dollar.",
+    "<b>Das ist weniger als ein Jahresgehalt.</b>"
+   ]
+  },
+  {
+   "big": "80 %",
+   "sub": "vom Wert von Tesla soll künftig dieser Roboter ausmachen",
+   "p": [
+    "Das schrieb Musk im September 2025.",
+    "Nicht die Autos. Der Roboter.",
+    "<b>So groß schätzt er dieses Geschäft ein.</b>"
+   ]
+  },
+  {
+   "big": "1 MIO",
+   "sub": "Roboter pro Jahr will Tesla in fünf Jahren bauen",
+   "p": [
+    "Noch läuft es langsam. 2025 waren 5.000 geplant, gebaut wurden nur wenige hundert.",
+    "Musk selbst nennt den Start quälend langsam.",
+    "<b>Aber die Richtung steht fest.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Das Erschreckende daran:",
+    "Ein Roboter braucht keinen Urlaub, keine Pause und kein Gehalt.",
+    "Sobald er billiger ist als ein Mensch, rechnet jede Firma neu.",
+    "<b>Zuerst bei der Arbeit, die sich jeden Tag wiederholt.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Jeder große Umbruch hat zwei Arten von Menschen hervorgebracht.",
+    "<b>1.</b> Die einen warten ab, bis es ihren eigenen Job trifft.",
+    "<b>2.</b> Die anderen nutzen den Wandel für sich.",
+    "Die Frage ist nicht, ob es passiert.",
+    "<b>Die Frage ist, auf welcher Seite du stehst.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Und jetzt kommt der Teil, über den niemand spricht.",
+    "Die Roboter kommen. Aber sie sind noch nicht da.",
+    "Heute fehlen Menschen. In Deutschland sind <y>über eine Million Stellen</y> unbesetzt.",
+    "Es gibt Menschen, die Firmen und passende Bewerber zusammenbringen. Die Firma bezahlt sie dafür.",
+    "<b>Man nennt sie <y>Middleman.</y></b>"
+   ]
+  },
+  {
+   "avaSrc": "proof/niclas_face.jpg",
+   "p": [
+    "Das ist <b>Niclas.</b>",
+    "Ein Betrieb braucht dringend einen Fachmann. Die Stelle ist seit Monaten offen und niemand bewirbt sich.",
+    "Niclas findet im Internet den passenden Menschen dafür.",
+    "Der fängt dort an. Und der Betrieb bezahlt Niclas dafür.",
+    "<b>Mehr ist es nicht.</b>"
+   ]
+  },
+  {
+   "type": "proof",
+   "head": "So sieht das auf dem Konto von Niclas aus:",
+   "imgs": [
+    {
+     "src": "proof/niclas_single.png",
+     "w": 888
+    }
+   ],
+   "line": "Ein einziger Zahlungseingang: <y>9,8K</y>",
+   "note": "Echter Kontoauszug von Niclas, August 2026. Ergebnisse hängen von deiner Umsetzung ab und sind nicht garantiert."
+  },
+  {
+   "type": "cta",
+   "head": "Willst du die genaue Anleitung, wie Niclas das gemacht hat?",
+   "lead": "Wir haben alles Schritt für Schritt aufgeschrieben",
+   "list": [
+    "wie du Firmen findest, die dringend suchen",
+    "wie du passende Bewerber findest",
+    "wie du dafür bezahlt wirst",
+    "womit du noch heute anfängst"
+   ],
+   "close": "Eine komplette Anleitung, wie er als Middleman Geld verdient. Kostenlos.",
+   "cta": "Kommentiere „MM“ und ich schicke sie dir."
+  }
+ ],
+ "caption": "Tesla baut einen Roboter, der so viel kosten soll wie ein Kleinwagen. Elon Musk sagt, er werde einmal 80 Prozent vom Wert der ganzen Firma ausmachen.\n\nNoch läuft die Produktion langsam. Aber sobald so ein Roboter billiger ist als ein Mensch, rechnet jede Firma neu.\n\nBis dahin fehlen Menschen. In Deutschland sind über eine Million Stellen unbesetzt, und Betriebe bezahlen dafür, dass ihnen jemand die passenden Leute bringt.\n\nWir haben eine komplette Anleitung geschrieben, wie Niclas als Middleman Geld verdient. Schritt für Schritt, damit du direkt danach starten kannst.\n\nKommentiere \"MM\" und ich schicke sie dir kostenlos zu.\n\nFoto: Benjamin Ceci, gemeinfrei. Quellen: Tesla, Fortune, Benzinga, IAB Stellenerhebung. Der gezeigte Kontoauszug stammt von unserem Partner Niclas. Ergebnisse sind nicht garantiert und hängen von der eigenen Umsetzung ab."
+}

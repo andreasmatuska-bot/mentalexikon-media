@@ -1,0 +1,110 @@
+{
+ "slug": "KI_Milliardaer_Faehigkeit",
+ "photo": "img/wang.jpg",
+ "photoPos": {
+  "cover": "width:760px;margin-left:-50px;margin-top:-70px",
+  "ava": "width:280px;margin-left:-22px;margin-top:-28px"
+ },
+ "credit": "Foto: Village Global, CC BY 2.0",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Ein 29 jähriger KI Milliardär sagt:",
+    "Heute zählt nur noch eine Fähigkeit.",
+    "<y>Und die meisten lernen die falsche...</y>"
+   ]
+  },
+  {
+   "ava": true,
+   "p": [
+    "Das ist <b>Alexandr Wang.</b>",
+    "Mit 19 bricht er sein Studium am MIT ab und gründet eine KI Firma.",
+    "Mit 24 führt Forbes ihn als jüngsten Selfmade Milliardär der Welt.",
+    "2025 zahlt Meta 14,3 Milliarden Dollar, um ihn zu holen.",
+    "<b>Heute warnt er alle, die am Bildschirm arbeiten.</b>"
+   ]
+  },
+  {
+   "big": "5 JAHRE",
+   "sub": "dann ist sein gesamtes Wissen ersetzt, sagt er selbst",
+   "p": [
+    "Wang hat sein Leben lang programmiert.",
+    "Er sagt: Jede Zeile, die ich je geschrieben habe, schreibt bald eine KI.",
+    "<b>Und er meint damit nicht nur Programmierer.</b>"
+   ]
+  },
+  {
+   "big": "30 %",
+   "sub": "des Codes bei Microsoft und Google schreibt schon eine KI",
+   "p": [
+    "Das sagen die Chefs der beiden Konzerne selbst.",
+    "Vor wenigen Jahren lag dieser Wert bei null.",
+    "<b>Allein Microsoft strich 2025 rund 15.000 Stellen.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Sein Rat an alle 13 Jährigen:",
+    "Verbringt jede freie Minute damit, mit KI zu arbeiten.",
+    "Wer das 10.000 Stunden lang macht, ist allen anderen voraus.",
+    "Das ist für ihn die eine Fähigkeit, die noch zählt.",
+    "<b>Die meisten Erwachsenen lernen weiter für Jobs, die gerade verschwinden.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Jeder große Umbruch hat zwei Arten von Menschen hervorgebracht.",
+    "<b>1.</b> Die einen warten ab, bis es ihren eigenen Job trifft.",
+    "<b>2.</b> Die anderen nutzen den Wandel für sich.",
+    "Die Frage ist nicht, ob es passiert.",
+    "<b>Die Frage ist, auf welcher Seite du stehst.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Und jetzt kommt der Teil, über den niemand spricht.",
+    "Eine KI pflegt keine Patienten und verlegt keine Leitungen.",
+    "Genau dort sind in Deutschland <y>über eine Million Stellen</y> unbesetzt.",
+    "Es gibt Menschen, die Firmen und passende Bewerber zusammenbringen. Die Firma bezahlt sie dafür.",
+    "<b>Man nennt sie <y>Middleman.</y></b>"
+   ]
+  },
+  {
+   "avaSrc": "proof/arina_face.jpg",
+   "p": [
+    "Das ist <b>Arina.</b>",
+    "Ein Steuerberater braucht dringend einen neuen Mitarbeiter. Er sucht seit Monaten und findet keinen.",
+    "Arina sucht für ihn im Internet den passenden Menschen.",
+    "Der fängt dort an. Und der Steuerberater bezahlt Arina dafür.",
+    "<b>Mehr ist es nicht.</b>"
+   ]
+  },
+  {
+   "type": "proof",
+   "head": "So sieht das auf Arinas Konto aus:",
+   "imgs": [
+    {
+     "src": "proof/arina_17640.png",
+     "w": 888
+    }
+   ],
+   "line": "Ein einziger Zahlungseingang: <y>17,6K</y>",
+   "note": "Echter Kontoauszug von Arina, August 2026. Ergebnisse hängen von deiner Umsetzung ab und sind nicht garantiert."
+  },
+  {
+   "type": "cta",
+   "head": "Willst du die genaue Anleitung, wie Arina das gemacht hat?",
+   "lead": "Wir haben alles Schritt für Schritt aufgeschrieben",
+   "list": [
+    "wie du Firmen findest, die dringend suchen",
+    "wie du passende Bewerber findest",
+    "wie du dafür bezahlt wirst",
+    "womit du noch heute anfängst"
+   ],
+   "close": "Eine komplette Anleitung, wie sie als Middleman Geld verdient. Kostenlos.",
+   "cta": "Kommentiere „MM“ und ich schicke sie dir."
+  }
+ ],
+ "caption": "Alexandr Wang hat sein Leben lang programmiert. Jetzt sagt er selbst, dass in fünf Jahren eine KI jede Zeile davon schreibt.\n\nBei Microsoft und Google stammt schon rund ein Drittel des Codes von einer KI. Es trifft zuerst die Jobs, die lange als sicher galten.\n\nWas keine KI kann: pflegen, bauen, reparieren. Genau dort fehlen in Deutschland über eine Million Mitarbeiter. Arina bringt Firmen und passende Bewerber zusammen und wird von den Firmen dafür bezahlt.\n\nWir haben eine komplette Anleitung geschrieben, wie sie als Middleman Geld verdient. Schritt für Schritt, damit du direkt danach starten kannst.\n\nKommentiere \"MM\" und ich schicke sie dir kostenlos zu.\n\nFoto: Village Global, CC BY 2.0. Quellen: Forbes, CNBC, Microsoft, Google, IAB Stellenerhebung. Der gezeigte Kontoauszug stammt von unserer Partnerin Arina. Ergebnisse sind nicht garantiert und hängen von der eigenen Umsetzung ab."
+}

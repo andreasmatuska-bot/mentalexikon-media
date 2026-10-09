@@ -1,0 +1,108 @@
+{
+ "nr": 8,
+ "slug": "Altman_Berufe_verschwinden",
+ "photo": "img/altman.jpg",
+ "photoPos": {
+  "cover": "width:100%",
+  "ava": "width:100%"
+ },
+ "credit": "Foto: TechCrunch, CC BY 2.0",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Der Chef von ChatGPT sagt:",
+    "Manche Berufe sind bald komplett verschwunden.",
+    "<y>Welche er damit meint...</y>"
+   ]
+  },
+  {
+   "ava": true,
+   "p": [
+    "Das ist <b>Sam Altman.</b>",
+    "Er leitet OpenAI, die Firma hinter ChatGPT.",
+    "Im Juli 2025 spricht er in Washington vor den wichtigsten Bankern der USA.",
+    "<b>Was er dort sagt, überrascht selbst sie.</b>"
+   ]
+  },
+  {
+   "big": "1 MRD",
+   "sub": "aktive Nutzer meldet seine Firma im Sommer 2026",
+   "p": [
+    "Im Herbst 2025 waren es noch 800 Millionen in der Woche.",
+    "Das ist jeder achte Mensch auf der Welt.",
+    "<b>Und die KI lernt jeden Monat dazu.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Sein Satz über den Kundenservice:",
+    "<b><y>„Manche Bereiche sind einfach komplett, komplett weg.“</y></b>",
+    "Wer dort anruft, spricht bald mit einer KI.",
+    "Und merkt den Unterschied kaum."
+   ]
+  },
+  {
+   "p": [
+    "Er geht noch weiter:",
+    "<b>„Ganze Klassen von Jobs werden verschwinden.“</b>",
+    "Callcenter. Sachbearbeitung. Dateneingabe.",
+    "Arbeit, von der heute Millionen Menschen leben."
+   ]
+  },
+  {
+   "p": [
+    "Jeder große Umbruch hat zwei Arten von Menschen hervorgebracht.",
+    "<b>1.</b> Die einen warten ab, bis es ihren eigenen Job trifft.",
+    "<b>2.</b> Die anderen nutzen den Wandel für sich.",
+    "Die Frage ist nicht, ob es passiert.",
+    "<b>Die Frage ist, auf welcher Seite du stehst.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Und jetzt kommt der Teil, über den niemand spricht.",
+    "Am Telefon ersetzt die KI Menschen. Auf der Baustelle und in der Werkstatt nicht.",
+    "Genau dort sind in Deutschland <y>über eine Million Stellen</y> unbesetzt.",
+    "Es gibt Menschen, die Firmen und passende Bewerber zusammenbringen. Die Firma bezahlt sie dafür.",
+    "<b>Man nennt sie <y>Middleman.</y></b>"
+   ]
+  },
+  {
+   "avaSrc": "proof/niclas_face.jpg",
+   "p": [
+    "Das ist <b>Niclas.</b>",
+    "Ein Betrieb braucht dringend einen Fachmann. Die Stelle ist seit Monaten offen und niemand bewirbt sich.",
+    "Niclas findet im Internet den passenden Menschen dafür.",
+    "Der fängt dort an. Und der Betrieb bezahlt Niclas dafür.",
+    "<b>Mehr ist es nicht.</b>"
+   ]
+  },
+  {
+   "type": "proof",
+   "head": "So sieht das auf dem Konto von Niclas aus:",
+   "imgs": [
+    {
+     "src": "proof/niclas_single.png",
+     "w": 888
+    }
+   ],
+   "line": "Ein einziger Zahlungseingang: <y>9,8K</y>",
+   "note": "Echter Kontoauszug von Niclas, August 2026. Ergebnisse hängen von deiner Umsetzung ab und sind nicht garantiert."
+  },
+  {
+   "type": "cta",
+   "head": "Willst du die genaue Anleitung, wie Niclas das gemacht hat?",
+   "lead": "Wir haben alles Schritt für Schritt aufgeschrieben",
+   "list": [
+    "wie du Firmen findest, die dringend suchen",
+    "wie du passende Bewerber findest",
+    "wie du dafür bezahlt wirst",
+    "womit du noch heute anfängst"
+   ],
+   "close": "Eine komplette Anleitung, wie er als Middleman Geld verdient. Kostenlos.",
+   "cta": "Kommentiere „MM“ und ich schicke sie dir."
+  }
+ ],
+ "caption": "Sam Altman leitet die Firma hinter ChatGPT. Im Juli 2025 sagte er, manche Berufe seien bald komplett verschwunden. Gemeint war zuerst der Kundenservice.\n\nSeine KI hat inzwischen über eine Milliarde Nutzer und lernt jeden Monat dazu.\n\nWas sie nicht kann: auf der Baustelle und in der Werkstatt arbeiten. Genau dort fehlen in Deutschland über eine Million Mitarbeiter, und Betriebe bezahlen dafür, dass ihnen jemand die passenden Leute bringt.\n\nWir haben eine komplette Anleitung geschrieben, wie Niclas als Middleman Geld verdient. Schritt für Schritt, damit du direkt danach starten kannst.\n\nKommentiere \"MM\" und ich schicke sie dir kostenlos zu.\n\nFoto: TechCrunch, CC BY 2.0. Quellen: Federal Reserve Konferenz vom 22.07.2025, TechCrunch, OpenAI, IAB Stellenerhebung. Der gezeigte Kontoauszug stammt von unserem Partner Niclas. Ergebnisse sind nicht garantiert und hängen von der eigenen Umsetzung ab."
+}

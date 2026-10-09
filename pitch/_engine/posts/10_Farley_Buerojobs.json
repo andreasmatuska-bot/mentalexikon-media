@@ -1,0 +1,109 @@
+{
+ "nr": 10,
+ "slug": "Farley_Buerojobs",
+ "photo": "img/farley.jpg",
+ "photoPos": {
+  "cover": "width:100%",
+  "ava": "width:100%"
+ },
+ "credit": "Foto: Ford, CC BY-SA 4.0",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Der Chef von Ford sagt:",
+    "KI ersetzt die Hälfte aller Bürojobs.",
+    "<y>Aber eine Sorte Arbeiter findet er nirgends...</y>"
+   ]
+  },
+  {
+   "ava": true,
+   "p": [
+    "Das ist <b>Jim Farley.</b>",
+    "Er leitet Ford, einen der größten Autobauer der Welt.",
+    "Im Sommer 2025 sagt er auf einer Bühne in den USA:",
+    "<b>„KI wird buchstäblich die Hälfte aller Büroangestellten ersetzen.“</b>"
+   ]
+  },
+  {
+   "big": "5.000",
+   "sub": "Stellen für Mechaniker bleiben bei Ford unbesetzt",
+   "p": [
+    "Bezahlt werden bis zu 120.000 Dollar im Jahr.",
+    "Trotzdem findet er niemanden.",
+    "<b>Am Geld liegt es also nicht.</b>"
+   ]
+  },
+  {
+   "big": "1,1 MIO",
+   "sub": "Arbeiter fehlen den USA in Fabriken und auf dem Bau",
+   "p": [
+    "600.000 in den Fabriken. 500.000 auf dem Bau.",
+    "Diese Zahlen nennt Farley selbst.",
+    "<b>Die Büros leeren sich. Die Werkstätten bleiben unbesetzt.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Das Erschreckende daran:",
+    "Jahrzehntelang hieß es: Geh studieren, dann hast du einen sicheren Job.",
+    "Jetzt dreht sich das um.",
+    "<b>Gesucht werden die, die mit den Händen arbeiten.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Jeder große Umbruch hat zwei Arten von Menschen hervorgebracht.",
+    "<b>1.</b> Die einen warten ab, bis es ihren eigenen Job trifft.",
+    "<b>2.</b> Die anderen nutzen den Wandel für sich.",
+    "Die Frage ist nicht, ob es passiert.",
+    "<b>Die Frage ist, auf welcher Seite du stehst.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Und jetzt kommt der Teil, über den niemand spricht.",
+    "In Deutschland ist es genauso. Es fehlen Elektriker, Monteure und Pflegekräfte.",
+    "<y>Über eine Million Stellen</y> sind unbesetzt.",
+    "Es gibt Menschen, die Firmen und passende Bewerber zusammenbringen. Die Firma bezahlt sie dafür.",
+    "<b>Man nennt sie <y>Middleman.</y></b>"
+   ]
+  },
+  {
+   "avaSrc": "proof/niclas_face.jpg",
+   "p": [
+    "Das ist <b>Niclas.</b>",
+    "Ein Betrieb braucht dringend einen Fachmann. Die Stelle ist seit Monaten offen und niemand bewirbt sich.",
+    "Niclas findet im Internet den passenden Menschen dafür.",
+    "Der fängt dort an. Und der Betrieb bezahlt Niclas dafür.",
+    "<b>Mehr ist es nicht.</b>"
+   ]
+  },
+  {
+   "type": "proof",
+   "head": "So sieht das auf dem Konto von Niclas aus:",
+   "imgs": [
+    {
+     "src": "proof/niclas_single.png",
+     "w": 888
+    }
+   ],
+   "line": "Ein einziger Zahlungseingang: <y>9,8K</y>",
+   "note": "Echter Kontoauszug von Niclas, August 2026. Ergebnisse hängen von deiner Umsetzung ab und sind nicht garantiert."
+  },
+  {
+   "type": "cta",
+   "head": "Willst du die genaue Anleitung, wie Niclas das gemacht hat?",
+   "lead": "Wir haben alles Schritt für Schritt aufgeschrieben",
+   "list": [
+    "wie du Firmen findest, die dringend suchen",
+    "wie du passende Bewerber findest",
+    "wie du dafür bezahlt wirst",
+    "womit du noch heute anfängst"
+   ],
+   "close": "Eine komplette Anleitung, wie er als Middleman Geld verdient. Kostenlos.",
+   "cta": "Kommentiere „MM“ und ich schicke sie dir."
+  }
+ ],
+ "caption": "Der Chef von Ford sagt, dass KI die Hälfte aller Bürojobs ersetzen wird. Gleichzeitig kann er 5.000 Stellen für Mechaniker nicht besetzen, obwohl sie bis zu 120.000 Dollar im Jahr bringen.\n\nJahrzehntelang hieß es: Geh studieren. Jetzt werden die gesucht, die mit den Händen arbeiten.\n\nIn Deutschland ist es genauso. Über eine Million Stellen sind unbesetzt, und Betriebe bezahlen dafür, dass ihnen jemand die passenden Leute bringt.\n\nWir haben eine komplette Anleitung geschrieben, wie Niclas als Middleman Geld verdient. Schritt für Schritt, damit du direkt danach starten kannst.\n\nKommentiere \"MM\" und ich schicke sie dir kostenlos zu.\n\nFoto: Ford, CC BY-SA 4.0. Quellen: Aspen Ideas Festival 2025, Fortune, Ford Authority, IAB Stellenerhebung. Der gezeigte Kontoauszug stammt von unserem Partner Niclas. Ergebnisse sind nicht garantiert und hängen von der eigenen Umsetzung ab."
+}

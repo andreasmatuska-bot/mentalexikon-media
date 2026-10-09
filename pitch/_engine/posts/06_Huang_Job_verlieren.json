@@ -1,0 +1,107 @@
+{
+ "nr": 6,
+ "slug": "Huang_Job_verlieren",
+ "photo": "img/huang.jpg",
+ "photoPos": {
+  "cover": "width:100%",
+  "ava": "width:100%"
+ },
+ "credit": "Foto: Peter Dasilva, EU, CC BY 4.0",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Der Chef der wertvollsten Firma der Welt sagt:",
+    "Nicht die KI nimmt dir deinen Job.",
+    "<y>Sondern jemand ganz anderes...</y>"
+   ]
+  },
+  {
+   "ava": true,
+   "p": [
+    "Das ist <b>Jensen Huang.</b>",
+    "Als junger Mann wäscht er Teller in einem Schnellrestaurant.",
+    "Heute leitet er Nvidia. Ohne seine Chips läuft fast keine KI der Welt.",
+    "<b>Wenn er über Jobs spricht, hören alle zu.</b>"
+   ]
+  },
+  {
+   "big": "5 BIO",
+   "sub": "Dollar Börsenwert, als erste Firma der Geschichte",
+   "p": [
+    "Erreicht im Oktober 2025.",
+    "Von 4 auf 5 Billionen brauchte Nvidia nur gut drei Monate.",
+    "<b>So schnell wächst gerade das Geschäft mit KI.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Schon 2023 sagt er auf einer Bühne in Taiwan:",
+    "<b>„Jeder ist jetzt ein Programmierer. Man muss dem Computer nur etwas sagen.“</b>",
+    "Wofür man früher Jahre lernen musste, reicht heute ein klarer Satz.",
+    "Wissen allein ist kein Vorsprung mehr."
+   ]
+  },
+  {
+   "p": [
+    "Im Mai 2025 folgt der Satz, den jeder Angestellte kennen sollte:",
+    "<b>„Du verlierst deinen Job nicht an eine KI.“</b>",
+    "<b><y>„Du verlierst ihn an jemanden, der KI nutzt.“</y></b>"
+   ]
+  },
+  {
+   "p": [
+    "Jeder große Umbruch hat zwei Arten von Menschen hervorgebracht.",
+    "<b>1.</b> Die einen machen weiter wie bisher und hoffen.",
+    "<b>2.</b> Die anderen nutzen den Wandel für sich.",
+    "Die Frage ist nicht, ob es passiert.",
+    "<b>Die Frage ist, auf welcher Seite du stehst.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Und jetzt kommt der Teil, über den niemand spricht.",
+    "Wenn Wissen überall zu haben ist, wird etwas anderes wertvoll: Menschen zusammenbringen.",
+    "In Deutschland sind <y>über eine Million Stellen</y> unbesetzt. Betriebe suchen und finden niemanden.",
+    "Es gibt Menschen, die Firmen und passende Bewerber zusammenbringen. Die Firma bezahlt sie dafür.",
+    "<b>Man nennt sie <y>Middleman.</y></b>"
+   ]
+  },
+  {
+   "avaSrc": "proof/niclas_face.jpg",
+   "p": [
+    "Das ist <b>Niclas.</b>",
+    "Ein Betrieb braucht dringend einen Fachmann. Die Stelle ist seit Monaten offen und niemand bewirbt sich.",
+    "Niclas findet im Internet den passenden Menschen dafür.",
+    "Der fängt dort an. Und der Betrieb bezahlt Niclas dafür.",
+    "<b>Mehr ist es nicht.</b>"
+   ]
+  },
+  {
+   "type": "proof",
+   "head": "So sieht das auf dem Konto von Niclas aus:",
+   "imgs": [
+    {
+     "src": "proof/niclas_single.png",
+     "w": 888
+    }
+   ],
+   "line": "Ein einziger Zahlungseingang: <y>9,8K</y>",
+   "note": "Echter Kontoauszug von Niclas, August 2026. Ergebnisse hängen von deiner Umsetzung ab und sind nicht garantiert."
+  },
+  {
+   "type": "cta",
+   "head": "Willst du die genaue Anleitung, wie Niclas das gemacht hat?",
+   "lead": "Wir haben alles Schritt für Schritt aufgeschrieben",
+   "list": [
+    "wie du Firmen findest, die dringend suchen",
+    "wie du passende Bewerber findest",
+    "wie du dafür bezahlt wirst",
+    "womit du noch heute anfängst"
+   ],
+   "close": "Eine komplette Anleitung, wie er als Middleman Geld verdient. Kostenlos.",
+   "cta": "Kommentiere „MM“ und ich schicke sie dir."
+  }
+ ],
+ "caption": "Jensen Huang leitet Nvidia, die wertvollste Firma der Welt. Sein Satz aus dem Mai 2025: Du verlierst deinen Job nicht an eine KI, sondern an jemanden, der KI nutzt.\n\nWas früher Jahre an Ausbildung brauchte, schafft heute ein Mensch mit den richtigen Werkzeugen. Wissen allein ist kein Vorsprung mehr.\n\nWertvoll bleibt, wer Menschen zusammenbringt. In Deutschland sind über eine Million Stellen unbesetzt, und Betriebe bezahlen dafür, dass ihnen jemand die passenden Leute bringt.\n\nWir haben eine komplette Anleitung geschrieben, wie Niclas als Middleman Geld verdient. Schritt für Schritt, damit du direkt danach starten kannst.\n\nKommentiere \"MM\" und ich schicke sie dir kostenlos zu.\n\nFoto: Peter Dasilva, EU, CC BY 4.0. Quellen: Fortune, NBC, Milken Institute 2025, IAB Stellenerhebung. Der gezeigte Kontoauszug stammt von unserem Partner Niclas. Ergebnisse sind nicht garantiert und hängen von der eigenen Umsetzung ab."
+}

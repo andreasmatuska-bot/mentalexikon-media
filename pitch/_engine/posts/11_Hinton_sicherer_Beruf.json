@@ -1,0 +1,106 @@
+{
+ "nr": 11,
+ "slug": "Hinton_sicherer_Beruf",
+ "photo": "img/hinton.jpg",
+ "photoPos": {
+  "cover": "width:100%",
+  "ava": "width:100%"
+ },
+ "credit": "Foto: Arthur Petron, CC BY-SA 4.0",
+ "slides": [
+  {
+   "type": "cover",
+   "lines": [
+    "Er hat die KI miterfunden und dafür den Nobelpreis bekommen.",
+    "Dann fragt man ihn, welcher Beruf noch sicher ist.",
+    "<y>Seine Antwort überrascht alle...</y>"
+   ]
+  },
+  {
+   "ava": true,
+   "p": [
+    "Das ist <b>Geoffrey Hinton.</b>",
+    "Man nennt ihn den Paten der KI.",
+    "2023 verlässt er Google, um frei über die Gefahren sprechen zu können.",
+    "<b>2024 bekommt er den Nobelpreis für Physik.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Im Juni 2025 wird er gefragt, welcher Job noch sicher ist.",
+    "Seine Antwort:",
+    "<b><y>„Eine gute Wahl wäre, Klempner zu werden.“</y></b>"
+   ]
+  },
+  {
+   "p": [
+    "Er erklärt auch, warum:",
+    "<b>„Bei einfacher geistiger Arbeit wird KI einfach jeden ersetzen.“</b>",
+    "Gemeint sind Büro, Verwaltung, Assistenz und Callcenter.",
+    "Arbeit am Bildschirm lernt eine KI schnell."
+   ]
+  },
+  {
+   "p": [
+    "Das Erschreckende daran:",
+    "Hände kann eine KI noch lange nicht ersetzen.",
+    "Ein Rohr abdichten. Eine Heizung reparieren. Einen Menschen pflegen.",
+    "<b>Genau diese Arbeit will aber kaum noch jemand lernen.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Jeder große Umbruch hat zwei Arten von Menschen hervorgebracht.",
+    "<b>1.</b> Die einen warten ab, bis es ihren eigenen Job trifft.",
+    "<b>2.</b> Die anderen nutzen den Wandel für sich.",
+    "Die Frage ist nicht, ob es passiert.",
+    "<b>Die Frage ist, auf welcher Seite du stehst.</b>"
+   ]
+  },
+  {
+   "p": [
+    "Und jetzt kommt der Teil, über den niemand spricht.",
+    "Betriebe in Deutschland suchen genau diese Leute. Und finden sie nicht.",
+    "<y>Über eine Million Stellen</y> sind unbesetzt.",
+    "Es gibt Menschen, die Firmen und passende Bewerber zusammenbringen. Die Firma bezahlt sie dafür.",
+    "<b>Man nennt sie <y>Middleman.</y></b>"
+   ]
+  },
+  {
+   "avaSrc": "proof/niclas_face.jpg",
+   "p": [
+    "Das ist <b>Niclas.</b>",
+    "Ein Betrieb braucht dringend einen Fachmann. Die Stelle ist seit Monaten offen und niemand bewirbt sich.",
+    "Niclas findet im Internet den passenden Menschen dafür.",
+    "Der fängt dort an. Und der Betrieb bezahlt Niclas dafür.",
+    "<b>Mehr ist es nicht.</b>"
+   ]
+  },
+  {
+   "type": "proof",
+   "head": "So sieht das auf dem Konto von Niclas aus:",
+   "imgs": [
+    {
+     "src": "proof/niclas_single.png",
+     "w": 888
+    }
+   ],
+   "line": "Ein einziger Zahlungseingang: <y>9,8K</y>",
+   "note": "Echter Kontoauszug von Niclas, August 2026. Ergebnisse hängen von deiner Umsetzung ab und sind nicht garantiert."
+  },
+  {
+   "type": "cta",
+   "head": "Willst du die genaue Anleitung, wie Niclas das gemacht hat?",
+   "lead": "Wir haben alles Schritt für Schritt aufgeschrieben",
+   "list": [
+    "wie du Firmen findest, die dringend suchen",
+    "wie du passende Bewerber findest",
+    "wie du dafür bezahlt wirst",
+    "womit du noch heute anfängst"
+   ],
+   "close": "Eine komplette Anleitung, wie er als Middleman Geld verdient. Kostenlos.",
+   "cta": "Kommentiere „MM“ und ich schicke sie dir."
+  }
+ ],
+ "caption": "Geoffrey Hinton hat die KI miterfunden und dafür den Nobelpreis bekommen. Auf die Frage nach einem sicheren Beruf sagte er: Eine gute Wahl wäre, Klempner zu werden.\n\nArbeit am Bildschirm lernt eine KI schnell. Hände kann sie noch lange nicht ersetzen.\n\nGenau diese Leute suchen Betriebe in Deutschland und finden sie nicht. Über eine Million Stellen sind unbesetzt, und Betriebe bezahlen dafür, dass ihnen jemand die passenden Leute bringt.\n\nWir haben eine komplette Anleitung geschrieben, wie Niclas als Middleman Geld verdient. Schritt für Schritt, damit du direkt danach starten kannst.\n\nKommentiere \"MM\" und ich schicke sie dir kostenlos zu.\n\nFoto: Arthur Petron, CC BY-SA 4.0. Quellen: The Diary of a CEO vom 16.06.2025, IAB Stellenerhebung. Der gezeigte Kontoauszug stammt von unserem Partner Niclas. Ergebnisse sind nicht garantiert und hängen von der eigenen Umsetzung ab."
+}
