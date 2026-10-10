@@ -15,3 +15,11 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Neu gebaut: nichts. Qualitätsmanager Prüfung 1 entfällt (Vorrat war schon freigegeben), Titelbilder und Beschreibungen kurz angesehen, ohne Befund. ffprobe: je 6,0 s, 1080x1920, 30 Bilder, Tonspur, unter 1 MB.
 * Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00) eingeplant, Beschreibung steht bei jedem Post, keine Story. Keine Abweichung.
 * Offen: nichts. Im Vorrat liegen noch 13 Stimme (B) und 14 Nägel (A). Der nächste Lauf muss ein Video neu bauen. Nächste Brücke um den 14.10.
+
+## Lauf 10.10.2026 abends (für 11.10.2026)
+* Bestand in Publer für morgen: alle drei Plätze frei. Der Workspace heißt in Publer inzwischen „AMATUSKA Pages“, Konto und Account ID sind unverändert.
+* Aus dem Vorrat: 13 Stimme (B Zwei Spalten) 12:00 Uhr, 14 Nägel (A Papier) 15:30 Uhr. Titelbilder und Beschreibungen kurz angesehen, ohne Befund.
+* Neu gebaut: 15 Heißhunger (B Zwei Spalten, 14 Begriffe) für 19:00 Uhr. Keine Lehre und kein Autor genannt. ffprobe: 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,3 LUFS, 270 KB.
+* Qualitätsmanager Prüfung 1 für 15: eine Runde, alle Punkte a bis i bestanden, keine Fehler, freigegeben. Zuordnungen per Websuche gegen gängige Ratgeber zum emotionalen Essen geprüft.
+* Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00) eingeplant, Beschreibung steht bei jedem Post und ist Wort für Wort gleich mit der Datei, keine Story. Keine Abweichung.
+* Offen: nichts. Der Vorrat ist leer, der nächste Lauf muss alle drei Videos neu bauen. Nächste Brücke um den 14.10. Am Montag steht die Wochenauswertung an.
