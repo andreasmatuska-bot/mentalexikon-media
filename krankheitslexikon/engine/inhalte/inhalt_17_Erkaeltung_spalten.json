@@ -1,0 +1,63 @@
+{
+ "name": "Krankheitslexikon_17_Erkaeltung",
+ "aufbau": "spalten",
+ "titel": "Was deine Erkältung über deine Seele verrät",
+ "punkte": [
+  [
+   "Schnupfen",
+   "Du hast von etwas die Nase voll."
+  ],
+  [
+   "Verstopfte Nase",
+   "Du kannst jemanden nicht mehr riechen."
+  ],
+  [
+   "Niesen",
+   "Du willst etwas schnell wieder loswerden."
+  ],
+  [
+   "Husten",
+   "Du möchtest jemandem etwas husten."
+  ],
+  [
+   "Reizhusten",
+   "Etwas reizt dich und du sagst es nicht."
+  ],
+  [
+   "Halsschmerzen",
+   "Du hast zu viel hinuntergeschluckt."
+  ],
+  [
+   "Schluckbeschwerden",
+   "Etwas willst du nicht länger schlucken."
+  ],
+  [
+   "Frösteln",
+   "Dir fehlt gerade menschliche Wärme."
+  ],
+  [
+   "Fieber",
+   "In dir kocht Ärger, den du nicht zeigst."
+  ],
+  [
+   "Gliederschmerzen",
+   "Du hast dir zu viel aufgeladen."
+  ],
+  [
+   "Kopfdruck",
+   "Du zerbrichst dir über alles den Kopf."
+  ],
+  [
+   "Ohrendruck",
+   "Du magst gerade nichts mehr hören."
+  ],
+  [
+   "Kein Geschmack",
+   "Dir schmeckt gerade etwas im Leben nicht."
+  ],
+  [
+   "Abgeschlagenheit",
+   "Dein Körper nimmt sich die Pause, die du brauchst."
+  ]
+ ]
+}
