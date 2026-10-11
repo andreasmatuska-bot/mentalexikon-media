@@ -11,13 +11,16 @@ Kein Thema doppelt. Nach jedem Lauf ergänzen. Zeiten in Zypernzeit (Asia/Nicosi
 | 05 | 05.10. 12:00 | Was dein Schlaf über deine Seele verrät | alt, zwei Spalten | veröffentlicht |
 | 06 | 06.10. 12:00 | Hinter jedem Verhalten steckt ein Gefühl | alt, Balken | veröffentlicht |
 | 07 | 07.10. 12:00 | Was dir deine Haut sagen will | alt, Papier | veröffentlicht |
-| 08 | 08.10. 12:00 | Deine Füße zeigen, wie du gehst | alt | veröffentlicht |
+| 08 | 08.10. 12:00 | Deine Füße zeigen, wie du gehst (kalte Füße, schmerzende Fersen, verkrampfte Zehen, schwere Beine, häufiges Umknicken) | alt | veröffentlicht |
 | 09 | 07.10. 15:30 | Was dir deine Krankheit sagen will: Heiserkeit, Sodbrennen, Schwindel, Ohrgeräusche, Blähungen, kalte Hände | A Papier | veröffentlicht |
 | 10 | 10.10. 15:30 | Was deine Körperhaltung über dich verrät (14 Begriffe: Schultern, Rücken, Kopf, Arme, Fäuste, Zähne, Stirn, Atmung, Bauch, Hände, Bein, Gang) | B Zwei Spalten | veröffentlicht (aus dem Vorrat) |
 | 11 | 10.10. 12:00 | Was dir dein Bauch sagen will: Magendruck, Übelkeit, Appetitlosigkeit, Heißhunger, Verstopfung, Durchfall | A Papier | veröffentlicht (aus dem Vorrat) |
 | 12 | 10.10. 19:00 | Was dir deine Augen sagen wollen: trockene Augen, zuckendes Augenlid, tränende Augen, müde Augen, Augenringe, Lichtempfindlichkeit | A Papier | veröffentlicht (aus dem Vorrat) |
-| 13 | 11.10. 12:00 | Was deine Stimme über dich verrät (14 Begriffe: leise, laut, schnelles Sprechen, Räuspern, Kloß im Hals, zittrig, Stimme bricht weg, hoch, monoton, Nuscheln, Seufzen, nervöses Lachen, lange Pausen, trockener Mund) | B Zwei Spalten | eingeplant (aus dem Vorrat) |
-| 14 | 11.10. 15:30 | Was dir deine Nägel sagen wollen: brüchige Nägel, weiche Nägel, Rillen in den Nägeln, weiße Flecken, eingerissene Nagelhaut, splitternde Nägel | A Papier | eingeplant (aus dem Vorrat) |
-| 15 | 11.10. 19:00 | Was dein Heißhunger über deine Seele verrät (14 Begriffe: Süßes, Schokolade, Salziges, Knuspriges, Fettiges, Brot und Nudeln, Scharfes, Saures, Cremiges, Kaffee, Essen am Abend, Essen ohne Hunger, hastiges Essen, ständiges Naschen) | B Zwei Spalten | eingeplant (neu gebaut) |
+| 13 | 11.10. 12:00 | Was deine Stimme über dich verrät (14 Begriffe: leise, laut, schnelles Sprechen, Räuspern, Kloß im Hals, zittrig, Stimme bricht weg, hoch, monoton, Nuscheln, Seufzen, nervöses Lachen, lange Pausen, trockener Mund) | B Zwei Spalten | veröffentlicht (aus dem Vorrat) |
+| 14 | 11.10. 15:30 | Was dir deine Nägel sagen wollen: brüchige Nägel, weiche Nägel, Rillen in den Nägeln, weiße Flecken, eingerissene Nagelhaut, splitternde Nägel | A Papier | veröffentlicht (aus dem Vorrat) |
+| 15 | 11.10. 19:00 | Was dein Heißhunger über deine Seele verrät (14 Begriffe: Süßes, Schokolade, Salziges, Knuspriges, Fettiges, Brot und Nudeln, Scharfes, Saures, Cremiges, Kaffee, Essen am Abend, Essen ohne Hunger, hastiges Essen, ständiges Naschen) | B Zwei Spalten | veröffentlicht (neu gebaut) |
+| 16 | 12.10. 12:00 | Was dir deine Haare sagen wollen: Haarausfall, fettige Haare, trockene Haare, Schuppen, juckende Kopfhaut, Spliss | A Papier | eingeplant (neu gebaut) |
+| 17 | 12.10. 15:30 | Was deine Erkältung über deine Seele verrät (14 Begriffe: Schnupfen, verstopfte Nase, Niesen, Husten, Reizhusten, Halsschmerzen, Schluckbeschwerden, Frösteln, Fieber, Gliederschmerzen, Kopfdruck, Ohrendruck, kein Geschmack, Abgeschlagenheit) | B Zwei Spalten | eingeplant (neu gebaut) |
+| 18 | 12.10. 19:00 | Was dir deine Beine sagen wollen: zitternde Beine, kribbelnde Beine, Wadenkrämpfe, weiche Knie, steife Knie, eingeschlafene Beine | A Papier | eingeplant (neu gebaut) |
 
 Letzte Brücke zum Coaching Thema: 04 am 07.10.2026. Nächste Brücke um den 14.10.2026.
