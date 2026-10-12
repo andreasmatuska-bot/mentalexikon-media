@@ -22,5 +22,18 @@ Kein Thema doppelt. Nach jedem Lauf ergänzen. Zeiten in Zypernzeit (Asia/Nicosi
 | 16 | 12.10. 12:00 | Was dir deine Haare sagen wollen: Haarausfall, fettige Haare, trockene Haare, Schuppen, juckende Kopfhaut, Spliss | A Papier | eingeplant (neu gebaut) |
 | 17 | 12.10. 15:30 | Was deine Erkältung über deine Seele verrät (14 Begriffe: Schnupfen, verstopfte Nase, Niesen, Husten, Reizhusten, Halsschmerzen, Schluckbeschwerden, Frösteln, Fieber, Gliederschmerzen, Kopfdruck, Ohrendruck, kein Geschmack, Abgeschlagenheit) | B Zwei Spalten | eingeplant (neu gebaut) |
 | 18 | 12.10. 19:00 | Was dir deine Beine sagen wollen: zitternde Beine, kribbelnde Beine, Wadenkrämpfe, weiche Knie, steife Knie, eingeschlafene Beine | A Papier | eingeplant (neu gebaut) |
+| 19 | 13.10. 12:00 | Was dir die kleinen Zeichen deines Körpers verraten (14 Begriffe: Schluckauf, Gänsehaut, häufiges Gähnen, ständiges Strecken, Zusammenzucken beim Einschlafen, trockene Lippen, Magenknurren, Kribbeln in der Nase, häufiges Blinzeln, knackende Gelenke, Lachanfall, Schmetterlinge im Bauch, Seitenstechen, auf die Zunge beißen) | B Zwei Spalten | eingeplant (neu gebaut) |
+| 20 | 13.10. 15:30 | Was dir deine Kopfschmerzen sagen wollen: Schmerz an der Stirn, an den Schläfen, am Hinterkopf, wie ein enges Band, Druck hinter den Augen, benommener Kopf | A Papier | eingeplant (neu gebaut) |
+| 21 | 13.10. 19:00 | Woran du erkennst, dass du ein Empath bist (Brücke; 14 Begriffe: Stimmungen, Menschenmengen, fremde Gefühle, Zeit allein, laute Orte, fremde Menschen, Unehrlichkeit, Streit, Gewalt in Filmen, Natur, Tiere, Mitgefühl, Musik und Kunst, eigene Grenzen) | B Zwei Spalten | eingeplant (neu gebaut) |
 
-Letzte Brücke zum Coaching Thema: 04 am 07.10.2026. Nächste Brücke um den 14.10.2026.
+Letzte Brücke zum Coaching Thema: 21 Empathen am 13.10.2026. Nächste Brücke um den 20.10.2026.
+
+Einzelbegriffe der Videos 01 bis 08 (für den Abgleich, laut Beschreibungen in Publer):
+* 01 Finger: Daumen Sorgen, Zeigefinger Angst, Mittelfinger Wut, Ringfinger Trauer, kleiner Finger Selbstzweifel.
+* 02 Stress: Kiefer, Nacken, Schultern, Brust, Bauch, Hüfte.
+* 03 Rücken: Halswirbelsäule, Brustwirbelsäule, Lendenwirbelsäule, Kreuzbein und Steißbein.
+* 04 Nie Nein (Brücke): Kiefer, Hals (Kloß im Hals), Schultern, Brust, Magen.
+* 05 Schlaf: Einschlafen fällt schwer, Aufwachen in der Nacht, Zähneknirschen, Albträume, zu früh wach, viel Schlaf trotzdem müde, Reden im Schlaf, schweres Aufstehen.
+* 06 Verhalten: Nägelkauen, ständiges Aufschieben, Essen ohne Hunger, dauernd am Handy, immer beschäftigt, alles kontrollieren, ständiges Entschuldigen, Perfektionismus, nie Nein sagen.
+* 07 Haut: trockene Haut, Juckreiz, Rötungen, unreine Haut, starkes Schwitzen, blasse Haut.
+* 08 Füße: kalte Füße, schmerzende Fersen, verkrampfte Zehen, schwere Beine, häufiges Umknicken.
