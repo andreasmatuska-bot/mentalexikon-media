@@ -75,7 +75,7 @@ Prüfung 1, vor dem Einplanen, je Video:
 * e) Inhalt stimmt: in sich schlüssig, entspricht der genannten Lehre oder Quelle (selbst per Websuche nachprüfen), Grafik und Beschreibung sagen dasselbe
 * f) Keine Zuordnung zu schweren Krankheiten, kein Heilversprechen, keine Diagnose, Hinweis auf ärztliche Abklärung, keine Krebs Hashtags
 * g) Thema passt zur Zielgruppe, ist nicht doppelt (THEMEN.md) und die drei Themen des Tages unterscheiden sich
-* h) Beschreibung vollständig: Einstieg, Punkte, Frage, Aufruf im genauen Wortlaut, genau fünf Hashtags
+* h) Beschreibung vollständig: Einstieg, Punkte, Frage, Aufruf im genauen Wortlaut (bei einer Brücke mit passendem Wort statt „ja“, siehe Abschnitt Beschreibung), genau fünf Hashtags
 * i) Technik: 6 Sekunden, 1080x1920, 30 Bilder, Ton vorhanden, etwa minus 16 LUFS, unter 10 MB, erstes Bild der `_IG.mp4` ist das vollständige Titelbild
 
 Bei Fehlern: beheben, neu bauen, denselben Prüfer noch einmal prüfen lassen, höchstens drei Runden. Was danach nicht in allen Punkten besteht, wird NICHT eingeplant, Andreas bekommt Bescheid.
