@@ -40,3 +40,10 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Verbesserungen: Einzelbegriffe der Videos 01 bis 08 in THEMEN.md nachgetragen, damit der Abgleich vollständig ist. Prüfliste h in ANLEITUNG.md nennt jetzt die Ausnahme für Brücken.
 * Wochenauswertung (Publer, 02.10. bis 12.10.): Vorne liegen weiter Julias Rücken Beitrag, 05 Schlaf (B Zwei Spalten) und 06 Verhalten, dahinter 09 (A Papier). Die Reels im neuen Look (03 Rücken, 04 Nie Nein, 02 Stress) und 07 Haut, 08 Füße bleiben schwach. Folgerung wie bisher: zwei B Zwei Spalten pro Tag zu Alltagsthemen zum Selbstprüfen, A Papier höchstens einmal.
 * Offen: nichts. Vorrat leer, der nächste Lauf baut wieder drei neu. Nächste Brücke um den 20.10.
+
+## Lauf 13.10.2026 abends (für 14.10.2026)
+* Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut.
+* Eingeplant: 22 Schlafposition (B Zwei Spalten) 12:00 Uhr, 23 Hände (A Papier) 15:30 Uhr, 24 Blick (B Zwei Spalten) 19:00 Uhr. Keine Lehre und kein Autor genannt, keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1: eine Runde, alle drei in a bis i bestanden und freigegeben, keine Fehler. Der Prüfer hat Technik und erstes Bild selbst nachgemessen und die Schlafpositionen per Websuche gegen gängige Ratgeber geprüft.
+* Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00) eingeplant, als Reel gelistet, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Offen: nichts. Vorrat leer, der nächste Lauf baut wieder drei neu. Nächste Brücke um den 20.10. Ab Sonntag 25.10. gilt Winterzeit (+02:00).
