@@ -1,0 +1,30 @@
+{
+ "name": "Krankheitslexikon_26_Muedigkeit",
+ "titel": "Was dir deine Müdigkeit sagen will:",
+ "punkte": [
+  [
+   "Müde nach langem Grübeln",
+   "Dein Kopf kommt nicht zur Ruhe. Das viele Nachdenken kostet dich mehr Kraft als jede Arbeit."
+  ],
+  [
+   "Tief am Nachmittag",
+   "Du hast den ganzen Vormittag funktioniert. Jetzt fordert dein Körper die Pause ein, die du dir nicht gönnst."
+  ],
+  [
+   "Müde nach Treffen",
+   "Du hast dich zu sehr nach anderen gerichtet. Das kostet dich mehr Kraft, als du denkst."
+  ],
+  [
+   "Müde am Wochenende",
+   "Sobald du loslässt, holt dich die Anspannung der ganzen Woche ein."
+  ],
+  [
+   "Müde vor bestimmten Aufgaben",
+   "Eigentlich willst du das gar nicht machen. Dein Körper sagt Nein, wo du Ja sagst."
+  ],
+  [
+   "Plötzlich müde bei Streit",
+   "Dir wird es gerade zu viel. Dein Körper zieht sich zurück, um dich zu schützen."
+  ]
+ ]
+}
