@@ -31,7 +31,8 @@
    "Wir wachsen mit dem Gedanken auf, dass es nur eine Handvoll richtiger Berufe gibt. Und dann erfährst du, dass jemand sein Geld damit verdient, Wasserrutschen zu testen. Den Trauergast auf Bestellung gibt es übrigens seit der Antike. Die Welt belohnt Nischen.",
    "In der Schule klingt es, als gäbe es nur eine Handvoll Berufe. Die Wirklichkeit ist bunter. Irgendwo wird jemand genau für das bezahlt, was andere für einen Witz halten."
   ],
-  "schluss": "Die Welt ist verrückter, als du denkst."
+  "schluss": "Die Welt ist verrückter, als du denkst.",
+  "pause": true
  },
  {
   "id": "02",
@@ -43,26 +44,26 @@
   "typ": "liste",
   "fest": false,
   "kopf": [
-   "Wer das nicht weiß, wirkt respektlos. Und merkt es nicht.",
-   "Das bringt dir keiner bei. Erwartet wird es trotzdem.",
-   "7 Dinge, die dich respektlos wirken lassen. Ohne dass du es merkst."
+   "Wer das nicht weiß, wirkt respektlos. Und bemerkt es nicht.",
+   "Das bringt dir niemand bei. Erwartet wird es trotzdem.",
+   "7 Dinge, die dich respektlos wirken lassen. Ohne dass du es bemerkst."
   ],
   "punkte": [
-   "Bring ein <b>geliehenes Ladekabel</b> von selbst zurück. Niemand will danach fragen müssen.",
+   "Bring ein <b>geliehenes Ladekabel</b> von selbst zurück. Keiner will danach fragen müssen.",
    "Zeigt dir jemand <b>ein Foto</b>, wisch nicht einfach weiter.",
    "<b>Überspring nie</b> den Lieblingssong von jemandem, wenn du seine Playlist hörst.",
    "Gib <b>geliehenes Geld</b> zurück, bevor man dich daran erinnern muss.",
    "<b>Ruf nicht fünfmal</b> hintereinander an, wenn jemand nicht abhebt.",
    "<b>Klopf an</b>, bevor du eine geschlossene Tür öffnest.",
-   "Hinterlässt du bei jemandem <b>Unordnung</b>, räum sie weg. Ungefragt."
+   "Hinterlässt du bei jemandem <b>Unordnung</b>, räum sie auf. Ungefragt."
   ],
   "frage": [
-   "Welcher Punkt ist dir am wichtigsten?",
-   "Worauf achtest du bei anderen zuerst?"
+   "Welcher Punkt ist dir besonders wichtig?",
+   "Worauf achtest du bei anderen als Erstes?"
   ],
   "caption": [
-   "Diese Dinge bringt dir keiner bei, aber jeder erwartet sie von dir. Kleine Gesten entscheiden darüber, ob Menschen dir vertrauen und dich respektieren. Manieren sind nicht altmodisch. Sie zeigen, dass du andere nicht für selbstverständlich hältst.",
-   "Manieren lernt man selten in der Schule. Trotzdem merkt jeder sofort, wenn sie fehlen. Es sind kleine Gesten, die zeigen, ob du dein Gegenüber ernst nimmst."
+   "Diese Dinge bringt dir niemand bei, aber jeder erwartet sie von dir. Kleine Gesten entscheiden darüber, ob Menschen dir vertrauen und dich respektieren. Manieren sind nicht altmodisch. Sie zeigen, dass du andere nicht für selbstverständlich nimmst.",
+   "Manieren lernt man selten in der Schule. Trotzdem fällt jedem sofort auf, wenn sie fehlen. Es sind kleine Gesten, die zeigen, ob du dein Gegenüber ernst nimmst."
   ]
  },
  {
@@ -75,9 +76,9 @@
   "typ": "liste",
   "fest": true,
   "kopf": [
-   "Eine Tochter und ihr Vater. Ein Leben lang.",
-   "Tochter und Vater. Eine Geschichte in Lebensjahren.",
-   "So verändert sich der Blick einer Tochter auf ihren Vater."
+   "Eine Tochter und ihr Vater. Ein ganzes Leben lang.",
+   "Tochter und Vater. Eine Geschichte in Lebensjahren erzählt.",
+   "So verändert sich der Blick einer Tochter auf ihren Papa."
   ],
   "punkte": [
    "<b>Mit 5:</b> Papa kann alles.",
@@ -95,12 +96,12 @@
    "<b>Mit 50:</b> Nur noch einmal neben ihm sitzen."
   ],
   "frage": [
-   "Schick das deinem Papa. Ohne ein Wort dazu.",
+   "Schick das deinem Papa. Ganz ohne ein Wort dazu.",
    "Schick das deinem Vater. Er versteht es sofort."
   ],
   "caption": [
-   "Es gibt eine Beziehung, die sich leiser verändert als jede andere. Ohne großen Bruch, ohne Drama. Du merkst es erst, wenn du zurückschaust.",
-   "Kaum eine Beziehung verändert sich so leise wie die zwischen Tochter und Vater. Erst ist er ein Held, dann versteht er nichts, dann ist er zu streng. Und irgendwann verstehst du, warum er so war."
+   "Es gibt eine Beziehung, die sich stiller verändert als jede andere. Ohne großen Bruch, ohne Drama. Du merkst es erst, wenn du zurückblickst.",
+   "Kaum eine Beziehung verändert sich so leise wie die zwischen Tochter und Vater. Erst ist er ein Held, dann versteht er nichts, dann ist er zu streng. Und irgendwann begreifst du, warum er so war."
   ],
   "schluss": "Er war nicht zu streng. Er wollte dich auf eine Welt vorbereiten, der er selbst nie ganz getraut hat."
  },
@@ -115,8 +116,8 @@
   "fest": false,
   "kopf": [
    "Keiner sagt es dir. Ich schon.",
-   "Das merkt jeder. Aber keiner sagt es dir.",
-   "7 Dinge, die andere sofort an dir bemerken."
+   "Das bemerkt jeder. Aber niemand sagt es dir.",
+   "7 Dinge, die andere sofort an dir sehen."
   ],
   "punkte": [
    "<b>Das Shirt vom Vortag:</b> Sieht sauber aus, riecht aber nach gestern. Andere merken das.",
@@ -128,12 +129,12 @@
    "<b>Deo statt Dusche:</b> Spray überdeckt den Geruch nur kurz. Erst duschen, dann sprühen."
   ],
   "frage": [
-   "Was davon findest du am unangenehmsten?",
-   "Worauf achtest du am meisten?"
+   "Was davon findest du am schlimmsten?",
+   "Worauf achtest du selbst am meisten?"
   ],
   "caption": [
-   "Die meisten bemerken solche Dinge sofort und sagen trotzdem nichts. Sie ziehen nur still ihre Schlüsse. Dabei machen gerade die einfachen Sachen den größten Unterschied. Wer auf sich achtet, strahlt das aus, ohne ein Wort zu sagen.",
-   "Über solche Dinge redet niemand offen. Bemerkt werden sie trotzdem, und zwar in Sekunden. Das Gute daran: Jeder Punkt lässt sich noch heute ändern."
+   "Die meisten bemerken solche Dinge sofort und sagen trotzdem nichts. Sie ziehen nur still ihre Schlüsse. Dabei machen gerade die einfachen Dinge den größten Unterschied. Wer auf sich achtet, strahlt das aus, ohne ein Wort zu sagen.",
+   "Über solche Dinge spricht niemand offen. Bemerkt werden sie trotzdem, und zwar in Sekunden. Das Gute daran: Jeder Punkt lässt sich noch heute ändern."
   ]
  },
  {
@@ -146,8 +147,8 @@
   "typ": "nummern",
   "fest": true,
   "kopf": [
-   "Drei Gespräche. Dreimal Nein. Und am Ende bekam er alles.",
-   "Drei Gespräche, dreimal Nein. Am Ende hatte er alles.",
+   "Drei Gespräche. Dreimal Nein. Am Ende bekam er alles.",
+   "Drei Gespräche, dreimal ein Nein. Am Ende hatte er alles.",
    "Er hatte nichts. Drei Gespräche später hatte er alles."
   ],
   "punkte": [
@@ -156,12 +157,12 @@
    "Der Vater zum Aufsichtsrat der Bank: <b>„Machen Sie meinen Sohn zum Chef.“</b><br>Aufsichtsrat: <b>„Nein.“</b><br>Vater: <b>„Er ist der Schwiegersohn des reichsten Mannes der Stadt.“</b><br>Aufsichtsrat: <b>„Okay.“</b>"
   ],
   "frage": [
-   "Hast du das Prinzip verstanden?",
-   "Hast du den Trick dahinter erkannt?"
+   "Hast du das Prinzip dahinter verstanden?",
+   "Hast du den Trick erkannt?"
   ],
   "caption": [
-   "Diese kleine Geschichte geht seit Jahren durchs Internet und wird in Businesskursen genauso erzählt wie am Küchentisch. Sie zeigt, dass oft nicht zählt, was du hast, sondern in welcher Reihenfolge du es erzählst.",
-   "Diese kleine Geschichte wird seit Jahren weitererzählt, in Businesskursen genauso wie am Küchentisch. Ob sie genau so passiert ist, weiß niemand. Das Prinzip dahinter funktioniert trotzdem."
+   "Diese kleine Geschichte geht seit Jahren durchs Netz und wird in Businesskursen genauso erzählt wie am Küchentisch. Sie zeigt, dass oft nicht zählt, was du hast, sondern in welcher Reihenfolge du davon erzählst.",
+   "Diese kleine Geschichte wird seit Jahren weitererzählt, in Businesskursen genauso wie am Küchentisch. Ob sie wirklich so passiert ist, weiß niemand. Das Prinzip dahinter funktioniert trotzdem."
   ],
   "schluss": "So funktioniert Business. Kein Kapital. Kein Netzwerk. Nur die richtige Reihenfolge."
  },
@@ -175,9 +176,9 @@
   "typ": "liste",
   "fest": false,
   "kopf": [
-   "10 Dinge, die dir keiner sagt. Aber jeder wissen sollte.",
-   "10 Dinge, die man gern früher gewusst hätte.",
-   "10 Dinge, die du erst durch Erfahrung lernst. Oder hier."
+   "10 Dinge, die dir niemand sagt. Aber jeder wissen sollte.",
+   "10 Dinge, die man gern viel früher gewusst hätte.",
+   "10 Dinge, die du sonst erst durch Erfahrung lernst."
   ],
   "punkte": [
    "<b>Setz dich nicht in Straßenkleidung aufs Bett.</b> Du bringst mehr Keime mit, als du denkst.",
@@ -192,12 +193,12 @@
    "<b>Hör auf dein Bauchgefühl.</b> Es merkt vieles früher als dein Kopf."
   ],
   "frage": [
-   "Welchen Punkt merkst du dir?",
+   "Welchen Punkt merkst du dir zuerst?",
    "Was davon hättest du gern früher gewusst?"
   ],
   "caption": [
-   "Manches lernt man erst durch Erfahrung. Diese Dinge hätte man gern früher gewusst. Zweimal lesen, bevor du antwortest, ist zum Beispiel eine der einfachsten Arten, Streit zu vermeiden.",
-   "Manches lernt man erst, wenn es schon passiert ist. Diese zehn Dinge kannst du dir vorher merken. Die meisten kosten nichts und sparen dir trotzdem Ärger."
+   "Manches lernt man erst durch Erfahrung. Diese Dinge hätte man gern früher gewusst. Zweimal lesen, bevor du antwortest, ist zum Beispiel eine der leichtesten Arten, Streit zu vermeiden.",
+   "Manches lernt man erst, wenn es schon passiert ist. Diese zehn Dinge kannst du dir vorher merken. Die meisten kosten nichts und ersparen dir trotzdem Ärger."
   ]
  },
  {
@@ -210,9 +211,9 @@
   "typ": "liste",
   "fest": false,
   "kopf": [
-   "So sprichst du wie ein Chef. Ab heute.",
-   "So klingst du souverän. Ab dem nächsten Satz.",
-   "8 Formulierungen, mit denen man dich ernst nimmt."
+   "So sprichst du wie ein Chef. Ab sofort.",
+   "So klingst du souverän. Schon ab dem nächsten Satz.",
+   "8 Formulierungen, mit denen man dich ernster nimmt."
   ],
   "punkte": [
    "<b>Statt „Okay“</b> sag „Verstanden“ oder „Ist notiert“.",
@@ -226,11 +227,11 @@
   ],
   "frage": [
    "Speicher das für dein nächstes Gespräch.",
-   "Welche Formulierung nutzt du ab heute?"
+   "Welche Formulierung nutzt du ab sofort?"
   ],
   "caption": [
-   "Deine Worte entscheiden mit, wie andere dich wahrnehmen. Oft schon, bevor du deinen eigentlichen Punkt gemacht hast.",
-   "Wie du etwas sagst, entscheidet oft mehr als das, was du sagst. Kleine Änderungen in der Wortwahl lassen dich klarer und sicherer wirken. Probier es im nächsten Gespräch aus."
+   "Deine Worte entscheiden mit, wie andere dich sehen. Oft schon, bevor du deinen eigentlichen Punkt gemacht hast.",
+   "Wie du etwas sagst, entscheidet oft mehr als das, was du sagst. Kleine Änderungen in der Wortwahl lassen dich klarer und sicherer wirken. Probier es gleich im nächsten Gespräch aus."
   ]
  },
  {
@@ -243,9 +244,9 @@
   "typ": "tabelle",
   "fest": false,
   "kopf": [
-   "Die extreme Seite der Sternzeichen. Kaum jemand redet darüber.",
-   "Die Seite der Sternzeichen, über die keiner spricht.",
-   "Sternzeichen ungefiltert. Erkennst du dich wieder?"
+   "Die extreme Seite der Sternzeichen. Kaum jemand spricht darüber.",
+   "Die Seite der Sternzeichen, über die niemand spricht.",
+   "Sternzeichen ganz ungefiltert. Erkennst du dich wieder?"
   ],
   "punkte": [
    [
@@ -306,12 +307,12 @@
    ]
   ],
   "frage": [
-   "Was trifft auf dich zu?",
-   "Wo erkennst du dich wieder?"
+   "Was davon trifft auf dich zu?",
+   "Wo erkennst du dich selbst wieder?"
   ],
   "caption": [
-   "Jedes Sternzeichen hat eine Seite, über die selten gesprochen wird. Das ist keine Wissenschaft, aber erstaunlich viele erkennen sich wieder.",
-   "Über die netten Seiten der Sternzeichen liest man überall. Hier kommen die Extreme. Nimm es mit Humor. Bewiesen ist davon nichts, aber viele nicken trotzdem."
+   "Jedes Sternzeichen hat eine Seite, über die selten gesprochen wird. Das ist keine Wissenschaft, aber erstaunlich viele finden sich darin wieder.",
+   "Über die netten Seiten der Sternzeichen liest man überall. Hier kommen die Extreme. Nimm es mit Humor. Bewiesen ist davon nichts, aber viele nicken trotzdem mit."
   ]
  },
  {
@@ -324,9 +325,9 @@
   "typ": "liste",
   "fest": true,
   "kopf": [
-   "Alle 7 Jahre wird dein Leben ein anderes.",
-   "Dein Leben verändert sich alle 7 Jahre.",
-   "Alle 7 Jahre beginnt ein neues Kapitel."
+   "Alle 7 Jahre wird dein Leben ein neues.",
+   "Dein Leben verändert sich etwa alle 7 Jahre.",
+   "Alle 7 Jahre beginnt ein neues Kapitel in deinem Leben."
   ],
   "punkte": [
    "<b>0 bis 7:</b> Staunen. Spielen. Wachsen.",
@@ -344,12 +345,12 @@
    "<b>Ab 84:</b> Hingabe. Abschied. Vollendung."
   ],
   "frage": [
-   "In welcher Phase bist du gerade?",
-   "Welche Phase war bei dir die wichtigste?"
+   "In welcher Phase steckst du gerade?",
+   "Welche Phase war für dich die wichtigste?"
   ],
   "caption": [
-   "Das Leben bleibt nicht stehen. Jede Phase bringt neue Gedanken, neue Lektionen und oft einen neuen Blick auf alles davor.",
-   "Viele teilen ihr Leben im Rückblick in Abschnitte ein. Die Idee mit den sieben Jahren ist alt und kein Naturgesetz. Trotzdem erkennen sich erstaunlich viele darin wieder."
+   "Das Leben bleibt nie stehen. Jede Phase bringt neue Gedanken, neue Lektionen und oft einen neuen Blick auf alles davor.",
+   "Viele teilen ihr Leben im Rückblick in Abschnitte ein. Die Idee mit den sieben Jahren ist alt und kein Naturgesetz. Trotzdem finden sich erstaunlich viele darin wieder."
   ]
  },
  {
@@ -362,9 +363,9 @@
   "typ": "nummern",
   "fest": false,
   "kopf": [
-   "10 Tricks, mit denen du stärker wirkst. Einen vergisst du nicht.",
-   "10 Tricks für mehr Wirkung. Ohne ein Wort mehr zu sagen.",
-   "So wirkst du stärker. 10 Tricks, die du sofort nutzen kannst."
+   "10 Tricks, mit denen du stärker wirkst. Einen vergisst du nie.",
+   "10 Tricks für mehr Wirkung. Ohne ein einziges Wort mehr.",
+   "So wirkst du stärker. 10 Tricks, die du sofort anwenden kannst."
   ],
   "punkte": [
    "<b>Setz dich im Meeting neben den Chef.</b> Nicht gegenüber.",
@@ -379,12 +380,12 @@
    "<b>Beende das Gespräch selbst.</b> Wer zuerst geht, gibt den Takt vor."
   ],
   "frage": [
-   "Welchen Trick nutzt du schon?",
-   "Welchen Trick probierst du zuerst?"
+   "Welchen Trick nutzt du bereits?",
+   "Welchen Trick probierst du als Erstes?"
   ],
   "caption": [
-   "Die meisten reden viel und wirken wenig. Wirkung entsteht oft durch das, was du nicht tust: nicht hetzen, nicht jede Pause füllen, nicht jede Regung zeigen.",
-   "Wirkung hat wenig mit Lautstärke zu tun. Wer ruhig bleibt, Pausen aushält und sich Zeit lässt, wird anders wahrgenommen. Das lässt sich üben."
+   "Die meisten reden viel und wirken wenig. Wirkung entsteht oft durch das, was du lässt: nicht hetzen, nicht jede Pause füllen, nicht jede Regung zeigen.",
+   "Wirkung hat wenig mit Lautstärke zu tun. Wer ruhig bleibt, Pausen aushält und sich Zeit nimmt, wird anders wahrgenommen. Das lässt sich üben."
   ]
  },
  {
@@ -399,7 +400,7 @@
   "kopf": [
    "Ich habe meinem Freund eine Frage gestellt. Er bereut seine Antwort bis heute.",
    "Ich stellte meinem Freund nur eine Frage. Er lachte. Noch.",
-   "Eine harmlose Frage im Bett. Und dann kam die Nacht."
+   "Eine harmlose Frage im Bett. Und dann kam diese Nacht."
   ],
   "punkte": [
    "Wir lagen im Bett. Ich fragte: <b>„Hast du keine Angst vor dem Kitzelmonster?“</b> Er lachte mich aus. Kindisch, meinte er.",
@@ -408,12 +409,12 @@
    "Sein Vater gab mir ein <b>High Five</b> und ging. Ich habe noch nie einen Achtzehnjährigen <b>so laut schreien</b> gehört."
   ],
   "frage": [
-   "Wie hättest du reagiert?",
+   "Wie hättest du an seiner Stelle reagiert?",
    "Was hättest du gemacht?"
   ],
   "caption": [
-   "Es gibt eine bestimmte Art von Vätern. Die, die nicht einfach lachen, wenn sie eine Gelegenheit sehen. Die, die stundenlang unter einem Bett warten.",
-   "Manche Väter lassen keine Gelegenheit aus. Dieser hat durch die Wand zugehört und dann sehr viel Geduld bewiesen. Die Geschichte geht seit Jahren durchs Netz."
+   "Es gibt eine ganz bestimmte Art von Vätern. Die, die nicht einfach lachen, wenn sie eine Gelegenheit sehen. Die, die stundenlang unter einem Bett warten.",
+   "Manche Väter lassen keine Gelegenheit aus. Dieser hat durch die Wand zugehört und dann sehr viel Geduld gezeigt. Die Geschichte geht seit Jahren durchs Netz."
   ]
  },
  {
@@ -426,26 +427,26 @@
   "typ": "liste",
   "fest": false,
   "kopf": [
-   "Das machst du im Bad falsch. Jeden Tag.",
-   "Diese Fehler im Bad macht fast jeder.",
+   "Das machst du im Bad falsch. Jeden Morgen.",
+   "Diese Fehler im Bad macht fast jeder von uns.",
    "7 Dinge, die du im Bad falsch machst."
   ],
   "punkte": [
    "<b>Mundwasser</b> nicht direkt nach dem Putzen. Es kann das Fluorid wieder wegspülen.",
    "<b>Nasse Haare</b> nicht grob bürsten. Sie reißen dann leichter.",
-   "<b>Den Luffaschwamm</b> alle 3 bis 4 Wochen tauschen. Er schimmelt schneller, als man denkt.",
+   "<b>Den Luffaschwamm</b> alle 3 bis 4 Wochen tauschen. Er schimmelt schneller, als man glaubt.",
    "<b>Das Handtuch</b> nach dem Benutzen trocknen lassen. Im Feuchten vermehren sich Bakterien.",
    "<b>Shampoo</b> gehört auf die Kopfhaut, nicht in die Längen.",
    "<b>Zahnpasta:</b> Eine erbsengroße Menge reicht meist. Mehr bringt vor allem Schaum.",
    "<b>Die Toilettenbürste</b> regelmäßig reinigen. Nicht erst nach Wochen."
   ],
   "frage": [
-   "Was davon änderst du ab heute?",
+   "Was davon änderst du ab sofort?",
    "Welchen Fehler machst du auch?"
   ],
   "caption": [
-   "Du stehst jeden Tag im Bad. Und fast niemand macht dort alles richtig. Die meisten dieser Dinge kosten keine Minute mehr.",
-   "Im Bad läuft fast alles automatisch. Genau deshalb fällt kaum jemandem auf, was er dort seit Jahren falsch macht. Das meiste lässt sich in wenigen Sekunden ändern."
+   "Du stehst jeden Tag im Bad. Und kaum jemand macht dort alles richtig. Die meisten dieser Dinge kosten keine Minute mehr.",
+   "Im Bad läuft fast alles automatisch. Genau deshalb fällt kaum jemandem auf, was er dort seit Jahren falsch macht. Das meiste lässt sich in ein paar Sekunden ändern."
   ]
  },
  {
@@ -459,7 +460,7 @@
   "fest": false,
   "kopf": [
    "Diese Sätze retten dich im Job.",
-   "Diese Sätze schützen dich im Job.",
+   "Diese Sätze schützen dich bei der Arbeit.",
    "4 Sätze, die dich im Job absichern."
   ],
   "punkte": [
@@ -473,8 +474,8 @@
    "Welchen Satz merkst du dir?"
   ],
   "caption": [
-   "Die richtige Formulierung macht im Job oft den größten Unterschied. Vor allem, wenn es gerade stressig ist. Du sagst dasselbe, nur so, dass es niemand gegen dich verwenden kann.",
-   "Im Job zählt nicht nur, was du sagst, sondern auch, wie. Mit der richtigen Formulierung bleibst du freundlich und trotzdem klar. So kann dir später niemand etwas anhängen."
+   "Die richtige Formulierung macht im Job oft den größten Unterschied. Vor allem, wenn es gerade hektisch ist. Du sagst dasselbe, nur so, dass es niemand gegen dich verwenden kann.",
+   "Im Job zählt nicht nur, was du sagst, sondern auch, wie du es sagst. Mit der richtigen Formulierung bleibst du freundlich und trotzdem klar. So kann dir später niemand etwas anhängen."
   ]
  },
  {
@@ -487,9 +488,9 @@
   "typ": "gruppen",
   "fest": false,
   "kopf": [
-   "Diese Sternzeichen finden immer wieder zueinander.",
-   "Diese Sternzeichen ziehen sich an. Immer wieder.",
-   "Welche Sternzeichen zusammenpassen. Und bei welchen es knallt."
+   "Diese Sternzeichen finden immer wieder zusammen.",
+   "Diese Sternzeichen ziehen sich an. Wieder und wieder.",
+   "Welche Sternzeichen zusammenpassen. Und wo es knallt."
   ],
   "punkte": [
    {
@@ -527,10 +528,10 @@
   ],
   "frage": [
    "Welches Duo passt zu dir?",
-   "Welches Duo kennst du aus deinem Leben?"
+   "Welches Duo kennst du aus deinem Umfeld?"
   ],
   "caption": [
-   "Astrologie erklärt nicht alles. Aber sie beschreibt die Dynamik zwischen zwei Menschen auf eine Art, in der sich viele wiederfinden.",
+   "Astrologie erklärt nicht alles. Aber sie beschreibt die Dynamik zwischen zwei Menschen auf eine Weise, in der sich viele wiederfinden.",
    "Manche Menschen verstehen sich sofort, bei anderen kracht es zuverlässig. Die Astrologie hat dafür ihre eigene Erklärung. Beweisen lässt sich das nicht, Spaß macht es trotzdem."
   ]
  },
@@ -567,7 +568,8 @@
   "caption": [
    "Sicherheit beginnt nicht mit Angst. Sie beginnt mit Aufmerksamkeit. Die meisten dieser Regeln dauern Sekunden.",
    "Die meisten dieser Regeln kosten nur ein paar Sekunden. Es geht nicht um Angst, sondern um Aufmerksamkeit. Wer sie kennt, bewegt sich sicherer durch den Alltag."
-  ]
+  ],
+  "pause": true
  },
  {
   "id": "16",
@@ -579,9 +581,9 @@
   "typ": "nummern",
   "fest": false,
   "kopf": [
-   "Diese Gewohnheiten im Bad können schaden. Kaum jemand weiß es.",
-   "8 Gewohnheiten im Bad, die schaden können.",
-   "Das machst du im Bad seit Jahren. Es kann schaden."
+   "Diese Gewohnheiten im Bad können schaden. Kaum jemand ahnt es.",
+   "8 Gewohnheiten im Bad, die dir schaden können.",
+   "Das machst du im Bad seit Jahren. Es kann dir schaden."
   ],
   "punkte": [
    "<b>Lange auf der Toilette sitzen</b> kann Hämorrhoiden begünstigen.",
@@ -594,12 +596,12 @@
    "<b>Spülen mit offenem Deckel</b> kann Keime im Raum verteilen."
   ],
   "frage": [
-   "Welche Gewohnheit hat dich überrascht?",
-   "Welche Gewohnheit änderst du?"
+   "Welche Gewohnheit hat dich am meisten überrascht?",
+   "Welche Gewohnheit änderst du zuerst?"
   ],
   "caption": [
-   "Manche Gewohnheiten im Bad hat man so lange, dass man sie nie hinterfragt. Dabei lässt sich das meiste in Sekunden ändern.",
-   "Was man jeden Tag macht, hinterfragt man selten. Dabei können ein paar Gewohnheiten im Bad auf Dauer der Haut und der Gesundheit schaden. Meist reicht eine kleine Umstellung."
+   "Manche Gewohnheiten im Bad hat man so lange, dass man sie nie infrage stellt. Dabei lässt sich das meiste in Sekunden ändern.",
+   "Was man jeden Tag macht, hinterfragt man selten. Dabei können ein paar Gewohnheiten im Bad auf Dauer der Haut und der Gesundheit schaden. Oft reicht eine kleine Umstellung."
   ]
  },
  {
@@ -612,9 +614,9 @@
   "typ": "nummern",
   "fest": false,
   "kopf": [
-   "8 Dinge, die im Notfall zählen. Kaum jemand kennt alle.",
-   "Im Notfall zählt jede Sekunde. 8 Dinge, die du wissen musst.",
-   "8 Dinge, die du für den Notfall kennen solltest."
+   "8 Dinge, die im Notfall zählen. Kaum jemand kennt sie alle.",
+   "Im Notfall zählt jede Sekunde. 8 Dinge, die du wissen solltest.",
+   "8 Dinge, die du für einen Notfall kennen solltest."
   ],
   "punkte": [
    "<b>Die 112 gilt in der ganzen EU.</b> Kostenlos und auch ohne Guthaben.",
@@ -628,11 +630,11 @@
   ],
   "frage": [
    "Welchen Punkt kanntest du noch nicht?",
-   "Was davon wusstest du schon?"
+   "Was davon wusstest du bereits?"
   ],
   "caption": [
-   "Im Notfall bleibt keine Zeit zum Nachschlagen. Dann zählt, was du schon im Kopf hast. Die meisten dieser Dinge sind einfach, man muss sie nur einmal gelesen haben. Einen Kurs in Erster Hilfe ersetzt das nicht, aber es ist ein guter Anfang.",
-   "Niemand rechnet mit einem Notfall. Umso wichtiger ist, was du dann schon weißt. Diese acht Dinge sind schnell gelesen. Ein Kurs in Erster Hilfe bleibt trotzdem die beste Vorbereitung."
+   "Im Notfall bleibt keine Zeit zum Nachlesen. Dann zählt, was du schon im Kopf hast. Die meisten dieser Dinge sind einfach, man muss sie nur einmal gelesen haben. Einen Kurs in Erster Hilfe ersetzt das nicht, aber es ist ein guter Anfang.",
+   "Niemand rechnet mit einem Notfall. Umso wichtiger ist, was du dann bereits weißt. Diese acht Dinge sind schnell gelesen. Ein Kurs in Erster Hilfe bleibt trotzdem die beste Vorbereitung."
   ]
  },
  {
@@ -666,7 +668,8 @@
   "caption": [
    "Nicht jede Wahrheit klingt angenehm. Manche treffen gerade deshalb, weil du sie längst kennst und nur nie ausgesprochen hast. Das sind keine Gesetze, sondern Beobachtungen, die sich im Alltag immer wieder zeigen.",
    "Manche Sätze tun kurz weh, weil sie stimmen. Es sind keine Gesetze, nur Beobachtungen aus dem Alltag. Vielleicht erkennst du jemanden wieder. Vielleicht auch dich."
-  ]
+  ],
+  "pause": true
  },
  {
   "id": "19",
@@ -679,7 +682,7 @@
   "kopf": [
    "Diese Wörter spricht fast jeder falsch aus.",
    "10 Wörter, die fast jeder falsch ausspricht.",
-   "Diese Wörter sagst du vielleicht seit Jahren falsch."
+   "Diese Wörter sagst du vielleicht seit Jahren verkehrt."
   ],
   "punkte": [
    [
@@ -725,11 +728,11 @@
   ],
   "frage": [
    "Welches Wort hast du bisher falsch gesagt?",
-   "Bei welchem Wort lagst du daneben?"
+   "Bei welchem Wort lagst du bisher daneben?"
   ],
   "caption": [
-   "Im Restaurant bestellt man sie ständig, und fast jeder sagt sie anders. Die meisten dieser Wörter kommen aus dem Italienischen, und dort gelten eigene Regeln. Einmal gemerkt, sitzt es für immer.",
-   "Manche Wörter sagt man jahrelang falsch, ohne es zu merken. Schuld ist meist die Schreibweise aus einer anderen Sprache. Mit dieser Liste bestellst du beim nächsten Mal ganz entspannt."
+   "Im Restaurant bestellt man sie ständig, und fast jeder spricht sie anders aus. Die meisten dieser Wörter stammen aus dem Italienischen, und dort gelten eigene Regeln. Einmal gemerkt, sitzt es für immer.",
+   "Manche Wörter sagt man jahrelang falsch, ohne es zu bemerken. Schuld ist meist die Schreibweise aus einer anderen Sprache. Mit dieser Liste bestellst du beim nächsten Mal ganz entspannt."
   ],
   "herkunft": "mentalexikon"
  },
@@ -742,9 +745,9 @@
   "typ": "liste",
   "fest": false,
   "kopf": [
-   "Das machst du im Alltag falsch. Ohne es zu merken.",
-   "8 Alltagsfehler, die fast jeder macht.",
-   "Diese kleinen Fehler machst du jeden Tag."
+   "Das machst du im Alltag falsch. Ohne es zu bemerken.",
+   "8 Alltagsfehler, die fast jeder von uns macht.",
+   "Diese kleinen Fehler machst du fast jeden Tag."
   ],
   "punkte": [
    "<b>Handy am Bett laden:</b> So ist es abends das Letzte und morgens das Erste, was du siehst.",
@@ -758,11 +761,11 @@
   ],
   "frage": [
    "Was davon machst du auch?",
-   "Bei welchem Punkt fühlst du dich ertappt?"
+   "Bei welchem Punkt fühlst du dich erwischt?"
   ],
   "caption": [
-   "Die meisten glauben, im Alltag alles richtig zu machen. Dabei sind es oft die kleinen Gewohnheiten, die den Unterschied machen. Nichts davon ist dramatisch, aber alles lässt sich leicht ändern.",
-   "Gewohnheiten laufen von allein, deshalb fallen ihre Fehler kaum auf. Hier sind acht davon, die fast jeder kennt. Such dir einen Punkt aus und fang damit an."
+   "Die meisten glauben, im Alltag alles richtig zu machen. Dabei sind es oft die kleinen Gewohnheiten, die den Unterschied ausmachen. Nichts davon ist dramatisch, aber alles lässt sich leicht ändern.",
+   "Gewohnheiten laufen von allein, deshalb fallen ihre Fehler kaum auf. Hier sind acht davon, die fast jeder kennt. Such dir einen Punkt aus und fang heute damit an."
   ],
   "herkunft": "mentalexikon"
  },
@@ -776,8 +779,8 @@
   "fest": true,
   "kopf": [
    "Was ein Ring an welchem Finger bedeutet.",
-   "Dein Ring verrät mehr, als du denkst.",
-   "Jeder Finger hat seine Bedeutung. Erst recht mit Ring."
+   "Dein Ring verrät mehr, als du glaubst.",
+   "Jeder Finger hat seine Bedeutung. Erst recht mit einem Ring."
   ],
   "punkte": [
    "<b>Daumen:</b> Steht traditionell für Willenskraft und Unabhängigkeit.",
@@ -794,7 +797,7 @@
   ],
   "caption": [
    "Ein Ring ist selten nur Schmuck. Seit Jahrhunderten wird jedem Finger eine eigene Bedeutung zugeschrieben. Das ist Tradition und keine Wissenschaft, aber viele achten unbewusst darauf.",
-   "Schon in der Antike hatte der Ringfinger eine besondere Bedeutung. Manche dieser Deutungen haben sich bis heute gehalten. Ob du daran glaubst, bleibt dir überlassen."
+   "Schon in der Antike hatte der Ringfinger eine besondere Bedeutung. Manche dieser Deutungen haben sich bis heute erhalten. Ob du daran glaubst, bleibt dir überlassen."
   ],
   "herkunft": "mentalexikon"
  },
@@ -809,7 +812,7 @@
   "kopf": [
    "Kleine Gesten, die mehr sagen als „Ich liebe dich“.",
    "8 Gesten, die echte Liebe zeigen. Ganz ohne große Worte.",
-   "Liebe zeigt sich leise. An diesen 8 Gesten."
+   "Liebe zeigt sich leise. Zum Beispiel an diesen 8 Gesten."
   ],
   "punkte": [
    "<b>„Schreib mir, wenn du da bist.“</b> Dahinter steckt echte Sorge.",
@@ -826,8 +829,8 @@
    "Welche Geste kennst du von deinem Menschen?"
   ],
   "caption": [
-   "Große Worte sind schnell gesagt. Echte Zuneigung zeigt sich meist in dem, was jemand ganz selbstverständlich tut. Wer solche Gesten kennt, weiß, was er an seinem Menschen hat.",
-   "Liebe ist selten laut. Sie steckt in kleinen Handgriffen, die im Alltag fast untergehen. Achte heute einmal darauf. Es lohnt sich."
+   "Große Worte sind schnell gesagt. Echte Zuneigung zeigt sich meist in dem, was jemand ganz nebenbei tut. Wer solche Gesten kennt, weiß, was er an seinem Menschen hat.",
+   "Liebe ist selten laut. Sie steckt in kleinen Handgriffen, die im Alltag fast untergehen. Achte heute einmal bewusst darauf. Es lohnt sich."
   ],
   "herkunft": "mentalexikon"
  },
@@ -841,8 +844,8 @@
   "fest": false,
   "kopf": [
    "So klingen deine Mails sofort souveräner.",
-   "7 Sätze, die dich in Mails unsicher wirken lassen.",
-   "Streich diese Sätze aus deinen Mails."
+   "7 Sätze, die dich in Mails unsicher klingen lassen.",
+   "Streich diese Sätze aus deinen Mails. Sofort."
   ],
   "punkte": [
    "<b>Statt „Sorry für die späte Antwort“:</b> „Danke für Ihre Geduld.“",
@@ -854,11 +857,11 @@
    "<b>Statt „Ich versuche es bis Freitag“:</b> „Sie bekommen es am Freitag.“"
   ],
   "frage": [
-   "Welchen Satz streichst du ab heute?",
-   "Welche Formulierung nutzt du am häufigsten?"
+   "Welchen Satz streichst du ab sofort?",
+   "Welche Formulierung benutzt du am häufigsten?"
   ],
   "caption": [
-   "Die meisten Mails scheitern nicht am Inhalt, sondern am Ton. Wer sich ständig entschuldigt und abschwächt, wirkt unsicher, auch wenn er recht hat. Ein paar andere Wörter reichen, und du klingst klar und freundlich zugleich.",
+   "Die meisten Mails scheitern nicht am Inhalt, sondern am Ton. Wer sich ständig entschuldigt und abschwächt, wirkt unsicher, auch wenn er recht hat. Ein paar andere Wörter genügen, und du klingst klar und freundlich zugleich.",
    "Unsichere Formulierungen schleichen sich in fast jede Mail. Sie sind nett gemeint und machen dich trotzdem kleiner, als du bist. Tausch sie aus und achte darauf, wie anders die Antworten ausfallen."
   ],
   "herkunft": "mentalexikon"
@@ -894,7 +897,8 @@
    "Glück in einer Beziehung zeigt sich selten in großen Gesten. Es steckt im Alltag, in dem, was zwei Menschen jeden Tag wie nebenbei tun. Keine dieser Gewohnheiten ist schwer, man muss nur dranbleiben.",
    "Wer nach vielen Jahren noch glücklich ist, hat meist nicht einfach Glück gehabt. Dahinter stecken kleine Dinge, die sich jeden Tag wiederholen. Vielleicht erkennt ihr euch in ein paar davon wieder."
   ],
-  "herkunft": "mentalexikon"
+  "herkunft": "mentalexikon",
+  "pause": true
  },
  {
   "id": "25",
@@ -906,13 +910,13 @@
   "fest": false,
   "kopf": [
    "Was im Büro gesagt wird. Und was gemeint ist.",
-   "Bürodeutsch übersetzt. 8 Sätze und ihre wahre Bedeutung.",
-   "8 Sätze aus dem Büro. Und was sie wirklich heißen."
+   "Bürodeutsch übersetzt. 8 Sätze und was sie bedeuten.",
+   "8 Sätze aus dem Büro. Und was sie in Wahrheit heißen."
   ],
   "punkte": [
    "<b>„Wie bereits besprochen“:</b> Ich habe es dir schon dreimal gesagt.",
    "<b>„Kurze Frage“:</b> Das dauert jetzt eine halbe Stunde.",
-   "<b>„Ich nehme das mal mit“:</b> Davon hörst du nie wieder etwas.",
+   "<b>„Ich nehme das mal mit“:</b> Davon hörst du nie mehr etwas.",
    "<b>„Spannender Ansatz“:</b> Das machen wir auf keinen Fall.",
    "<b>„Bei Gelegenheit“:</b> Also am besten gestern.",
    "<b>„Das klären wir bilateral“:</b> Bitte nicht vor allen anderen.",
@@ -921,11 +925,11 @@
   ],
   "frage": [
    "Welchen Satz hörst du am häufigsten?",
-   "Welcher Satz fällt in deinem Büro täglich?"
+   "Welcher Satz fällt bei dir im Büro täglich?"
   ],
   "caption": [
-   "Jedes Büro hat seine eigene Sprache. Offiziell klingt alles freundlich, gemeint ist oft etwas ganz anderes. Wer die Übersetzung kennt, liest Mails mit anderen Augen.",
-   "Im Büro sagt kaum jemand direkt, was er denkt. Dafür gibt es Formulierungen, die jeder versteht und keiner zugibt. Nimm es mit Humor. Du benutzt sie vermutlich selbst."
+   "Jedes Büro hat seine eigene Sprache. Offiziell klingt alles freundlich, gemeint ist oft etwas ganz anderes. Wer die Übersetzung kennt, liest Mails mit neuen Augen.",
+   "Im Büro sagt kaum jemand direkt, was er denkt. Dafür gibt es Formulierungen, die jeder versteht und niemand zugibt. Nimm es mit Humor. Du benutzt sie vermutlich selbst."
   ],
   "herkunft": "mentalexikon"
  },
@@ -938,7 +942,7 @@
   "typ": "liste",
   "fest": false,
   "kopf": [
-   "Diese Lebensmittel lagerst du falsch.",
+   "Diese Lebensmittel lagerst du vermutlich falsch.",
    "8 Lebensmittel, die fast jeder falsch lagert.",
    "So halten deine Lebensmittel länger. 8 einfache Regeln."
   ],
@@ -954,10 +958,10 @@
   ],
   "frage": [
    "Was hast du bisher falsch gelagert?",
-   "Was liegt bei dir am falschen Platz?"
+   "Was liegt bei dir am falschen Ort?"
   ],
   "caption": [
-   "Lebensmittel richtig zu lagern klingt banal. Bis du merkst, wie viel Geschmack und Geld jeden Tag verloren geht, weil es einem nie jemand erklärt hat. Mit ein paar Handgriffen hält vieles deutlich länger.",
+   "Lebensmittel richtig zu lagern klingt banal. Bis du merkst, wie viel Geschmack und Geld täglich verloren geht, weil es einem nie jemand erklärt hat. Mit ein paar Handgriffen hält vieles deutlich länger.",
    "Nicht alles gehört in den Kühlschrank, und manches verträgt sich nicht miteinander. Wer das weiß, wirft weniger weg und hat mehr Geschmack auf dem Teller. Die meisten Regeln merkst du dir sofort."
   ],
   "herkunft": "mentalexikon"
@@ -971,9 +975,9 @@
   "typ": "nummern",
   "fest": false,
   "kopf": [
-   "8 Fakten über die Welt, die nicht jeder kennt.",
+   "8 Fakten über die Welt, die kaum jemand kennt.",
    "Die Welt ist anders, als du denkst. 8 Fakten.",
-   "8 Fakten, die dein Bild von der Welt verändern."
+   "8 Fakten, die deinen Blick auf die Welt verändern."
   ],
   "punkte": [
    "<b>Der kuwaitische Dinar</b> gilt als wertvollste Währung der Welt.",
@@ -987,11 +991,11 @@
   ],
   "frage": [
    "Welcher Fakt hat dich überrascht?",
-   "Welchen Fakt kanntest du schon?"
+   "Welchen Fakt kanntest du bereits?"
   ],
   "caption": [
-   "Die Welt steckt voller Tatsachen, die im Erdkundeunterricht zu kurz kamen. Manche klingen erfunden und stimmen trotzdem. Mit diesen acht bist du beim nächsten Quizabend vorn.",
-   "Je genauer man auf die Karte schaut, desto mehr staunt man. Vieles ist ganz anders, als man es im Kopf hat. Welchen Fakt hättest du richtig geraten?"
+   "Die Welt steckt voller Tatsachen, die im Erdkundeunterricht zu kurz kamen. Manche klingen erfunden und stimmen trotzdem. Mit diesen acht liegst du beim nächsten Quizabend vorn.",
+   "Je genauer man auf die Karte schaut, desto mehr staunt man. Vieles ist ganz anders, als man es im Kopf hat. Manches davon hättest du vermutlich falsch geraten."
   ],
   "herkunft": "mentalexikon"
  },
@@ -1005,7 +1009,7 @@
   "fest": true,
   "kopf": [
    "Man sagt, du liebst im Leben dreimal.",
-   "Die drei Lieben deines Lebens.",
+   "Die drei großen Lieben deines Lebens.",
    "Drei Lieben. Jede lehrt dich etwas anderes."
   ],
   "punkte": [
@@ -1016,12 +1020,264 @@
   "schluss": "Nicht jeder erlebt alle drei. Aber jede hat ihren Sinn.",
   "frage": [
    "In welcher bist du gerade?",
-   "Welche Liebe hat dich am meisten geprägt?"
+   "Welche Liebe hat dich am stärksten geprägt?"
   ],
   "caption": [
-   "Es heißt, jeder Mensch liebt im Leben dreimal, und jede Liebe hat ihre eigene Aufgabe. Das ist keine Regel, sondern eine schöne Art, auf das eigene Leben zu schauen. Vielleicht findest du dich darin wieder.",
-   "Liebe passiert nicht nur einmal, und sie bleibt nicht dieselbe. Mit jedem Menschen lernst du etwas anderes, über ihn und über dich. Die Idee der drei Lieben bringt das auf den Punkt."
+   "Es heißt, jeder Mensch liebt im Leben dreimal, und jede Liebe hat ihre eigene Aufgabe. Das ist keine Regel, sondern eine schöne Art, auf das eigene Leben zu blicken. Vielleicht findest du dich darin wieder.",
+   "Liebe passiert nicht nur einmal, und sie bleibt nicht dieselbe. Mit jedem Menschen lernst du etwas anderes, über ihn und über dich. Die Idee der drei Lieben bringt das gut auf den Punkt."
   ],
   "herkunft": "mentalexikon"
+ },
+ {
+  "id": "29",
+  "slug": "aussprache_zwei",
+  "feld": "sprache",
+  "herkunft": "mentalexikon",
+  "quelle": "DWhQx2_jkdA",
+  "aufrufe_vorlage": 1058565,
+  "typ": "tabelle",
+  "fest": false,
+  "kopf": [
+   "Diese 10 Wörter sagen fast alle falsch.",
+   "10 Wörter, bei denen fast jeder danebenliegt.",
+   "Du sagst sie ständig. Und vermutlich falsch."
+  ],
+  "punkte": [
+   [
+    "Lasagne",
+    "Lasanje"
+   ],
+   [
+    "Bolognese",
+    "Bolonjese"
+   ],
+   [
+    "Cappuccino",
+    "Kaputschino"
+   ],
+   [
+    "Focaccia",
+    "Fokatscha"
+   ],
+   [
+    "Mozzarella",
+    "Motsarella"
+   ],
+   [
+    "Paella",
+    "Paelja"
+   ],
+   [
+    "Tortilla",
+    "Tortija"
+   ],
+   [
+    "Gyros",
+    "Jiros"
+   ],
+   [
+    "Jalapeño",
+    "Chalapenjo"
+   ],
+   [
+    "Porsche",
+    "mit e am Ende"
+   ]
+  ],
+  "frage": [
+   "Welches Wort sagst du anders?",
+   "Bei welchem Wort lagst du daneben?"
+  ],
+  "caption": [
+   "Viele dieser Wörter kommen aus dem Italienischen oder Spanischen, und dort gelten eigene Regeln für die Aussprache. Im Deutschen hat sich oft eine eigene Version eingeschlichen. Einmal gelesen, hörst du den Unterschied überall.",
+   "Man sagt sie ständig und denkt nie darüber nach. Dabei klingen viele dieser Wörter in ihrer Herkunftssprache ganz anders. Falsch verstanden wirst du zwar trotzdem nicht, aber jetzt weißt du es."
+  ]
+ },
+ {
+  "id": "30",
+  "slug": "wortherkunft",
+  "feld": "woerter",
+  "herkunft": "mindsetologie",
+  "quelle": "DX-BxrYIr1Z",
+  "aufrufe_vorlage": 220035,
+  "typ": "tabelle",
+  "fest": false,
+  "kopf": [
+   "Diese 8 Wörter kommen gar nicht aus dem Deutschen.",
+   "Du sagst sie täglich. Deutschen Ursprungs sind sie nicht.",
+   "8 Wörter, die ursprünglich aus einer anderen Sprache stammen."
+  ],
+  "punkte": [
+   [
+    "Sofa",
+    "aus dem Arabischen"
+   ],
+   [
+    "Matratze",
+    "aus dem Arabischen"
+   ],
+   [
+    "Joghurt",
+    "aus dem Türkischen"
+   ],
+   [
+    "Tollpatsch",
+    "aus dem Ungarischen"
+   ],
+   [
+    "Pleite",
+    "aus dem Jiddischen"
+   ],
+   [
+    "Kaputt",
+    "aus dem Französischen"
+   ],
+   [
+    "Tomate",
+    "aus der Sprache der Azteken"
+   ],
+   [
+    "Roboter",
+    "aus dem Tschechischen"
+   ]
+  ],
+  "frage": [
+   "Welches Wort hat dich überrascht?",
+   "Hättest du das gewusst?"
+  ],
+  "caption": [
+   "Viele Wörter, die wir jeden Tag benutzen, sind von weit her gekommen. Händler, Reisende und Nachbarn haben sie mitgebracht, und irgendwann klangen sie einfach deutsch. Sprache ist immer auch ein Stück Geschichte.",
+   "Kaum jemand denkt darüber nach, woher seine Wörter stammen. Dabei steckt in vielen eine lange Reise durch Länder und Jahrhunderte. Manche davon sind schon seit dem Mittelalter im Deutschen."
+  ]
+ },
+ {
+  "id": "31",
+  "slug": "klasse",
+  "feld": "auftreten",
+  "herkunft": "mindsetologie",
+  "quelle": "DXWE4gqiNQ2",
+  "aufrufe_vorlage": 412499,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "Daran erkennst du Menschen mit Klasse.",
+   "8 Zeichen, dass jemand echte Klasse hat.",
+   "Klasse kann man nicht kaufen. Man erkennt sie an diesen 8 Dingen."
+  ],
+  "punkte": [
+   "<b>Sie sind pünktlich.</b> Wer andere warten lässt, zeigt, wie wenig ihm ihre Zeit wert ist.",
+   "<b>Sie telefonieren leise</b> in Bus, Bahn und Restaurant.",
+   "<b>Sie sind freundlich zum Personal.</b> Wie jemand mit Kellnern spricht, sagt viel über ihn.",
+   "<b>Sie lästern nicht über Abwesende.</b> Wer es bei dir tut, tut es auch über dich.",
+   "<b>Sie hören zu,</b> ohne nebenbei aufs Handy zu schauen.",
+   "<b>Sie geben Fehler zu,</b> ohne lange Ausreden zu suchen.",
+   "<b>Sie geben nicht an.</b> Wer Klasse hat, muss nichts beweisen.",
+   "<b>Sie sagen Bitte und Danke,</b> auch bei Kleinigkeiten."
+  ],
+  "frage": [
+   "Welcher Punkt ist dir am wichtigsten?",
+   "Woran erkennst du Klasse zuerst?"
+  ],
+  "caption": [
+   "Klasse hat wenig mit Geld oder teurer Kleidung zu tun. Sie zeigt sich in Haltung und in der Art, wie jemand mit anderen umgeht. Das Schöne daran: Jeder dieser Punkte ist eine Entscheidung.",
+   "Manche Menschen fallen auf, ohne laut zu sein. Meist liegt es an kleinen Dingen, die sie ganz selbstverständlich tun. Genau das bleibt anderen im Gedächtnis."
+  ]
+ },
+ {
+  "id": "32",
+  "slug": "alltagsdeutsch",
+  "feld": "humor",
+  "herkunft": "mentalexikon",
+  "quelle": "DXcYGdWgD36",
+  "aufrufe_vorlage": 953152,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "Was gesagt wird. Und was gemeint ist.",
+   "8 Sätze aus dem Alltag. Und was sie wirklich heißen.",
+   "Alltagsdeutsch übersetzt. Du kennst jeden dieser Sätze."
+  ],
+  "punkte": [
+   "<b>„Wir schauen mal“:</b> Eher nicht.",
+   "<b>„Ich bin gleich da“:</b> Ich bin noch nicht mal aus der Tür.",
+   "<b>„Nur noch eine Folge“:</b> Es werden drei.",
+   "<b>„Ich koche nichts Großes“:</b> Es gibt drei Gänge.",
+   "<b>„Bring bloß nichts mit“:</b> Eine Kleinigkeit freut trotzdem jeden.",
+   "<b>„Mir ist alles recht“:</b> Bis du etwas vorschlägst.",
+   "<b>„Ich bin gar nicht müde“:</b> Zwei Minuten später schläft das Kind.",
+   "<b>„Das mache ich morgen“:</b> Vielleicht nächste Woche."
+  ],
+  "frage": [
+   "Welchen Satz sagst du selbst?",
+   "Welchen Satz hörst du am häufigsten?"
+  ],
+  "caption": [
+   "Im Alltag sagen wir selten genau, was wir meinen. Trotzdem versteht jeder sofort, was gemeint ist. Nimm es mit Humor, du benutzt die meisten dieser Sätze vermutlich selbst.",
+   "Manche Sätze bedeuten fast nie das, was sie sagen. Wir alle kennen die Übersetzung und spielen trotzdem mit. Genau das macht sie so liebenswert."
+  ]
+ },
+ {
+  "id": "33",
+  "slug": "familiencode",
+  "feld": "familie",
+  "herkunft": "mentalexikon",
+  "quelle": "DXYujvuANtn",
+  "aufrufe_vorlage": 800296,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "6 Absprachen, die Eltern und Kinder kennen sollten.",
+   "Ein Codewort kann in einem schwierigen Moment viel verändern.",
+   "Diese 6 Absprachen machen Familien sicherer."
+  ],
+  "punkte": [
+   "<b>Ein Codewort für „Hol mich ab“:</b> Das Kind schreibt es, du kommst und fragst erst später.",
+   "<b>Ein Familienpasswort:</b> Wer dein Kind abholen will, muss es kennen.",
+   "<b>Ein Zeichen für „Ich will hier weg“:</b> etwa ein vereinbartes Emoji im Chat.",
+   "<b>Ein Satz für „Ich brauche dich“:</b> so gewählt, dass andere nicht merken, worum es geht.",
+   "<b>Die Regel „Erst helfen, dann reden“:</b> Wer anruft, bekommt am Telefon keine Vorwürfe.",
+   "<b>Ein fester Treffpunkt,</b> falls ihr euch in einer Menschenmenge verliert."
+  ],
+  "frage": [
+   "Habt ihr so ein Codewort?",
+   "Welche Absprache übernimmst du?"
+  ],
+  "caption": [
+   "Kinder sagen nicht immer offen, wenn ihnen eine Situation unangenehm ist. Eine einfache Absprache kann es ihnen leichter machen, trotzdem Hilfe zu holen. Wichtig ist nur, dass ihr sie vorher in Ruhe besprecht.",
+   "Manchmal braucht es keine lange Erklärung, sondern nur ein Wort, das beide kennen. Solche Absprachen geben Kindern Sicherheit und Eltern ein gutes Gefühl. Sie kosten fünf Minuten am Küchentisch."
+  ]
+ },
+ {
+  "id": "34",
+  "slug": "schon_mal",
+  "feld": "erlebnis",
+  "herkunft": "mindsetologie",
+  "quelle": "DWk62owiOLX",
+  "aufrufe_vorlage": 379481,
+  "typ": "liste",
+  "fest": false,
+  "kopf": [
+   "Sei ehrlich: Wie viele davon hast du schon erlebt?",
+   "8 Momente, die fast jeder kennt. Sei ehrlich.",
+   "Hast du das auch schon mal gemacht? Sei ehrlich."
+  ],
+  "punkte": [
+   "<b>Den Schlüssel gesucht,</b> während er in deiner Hand lag?",
+   "<b>Zurückgewinkt,</b> obwohl gar nicht du gemeint warst?",
+   "<b>„Du auch“ gesagt,</b> als der Kellner „Guten Appetit“ wünschte?",
+   "<b>An der Tür gezogen,</b> auf der „Drücken“ stand?",
+   "<b>Einen Streit im Kopf gewonnen,</b> der nie stattgefunden hat?",
+   "<b>Die Brille gesucht,</b> die auf deinem Kopf saß?",
+   "<b>Nach dem Weg gefragt</b> und die Antwort sofort vergessen?",
+   "<b>Ein Lied jahrelang falsch mitgesungen,</b> mit voller Überzeugung?"
+  ],
+  "frage": [
+   "Wie viele hast du schon erlebt?",
+   "Bei welchem fühlst du dich ertappt?"
+  ],
+  "caption": [
+   "Diese kleinen Momente kennt fast jeder, nur redet kaum jemand darüber. Dabei sind sie der beste Beweis, dass wir alle gleich ticken. Lach ruhig über dich selbst, es geht allen so.",
+   "Niemand ist im Alltag immer ganz bei der Sache. Genau deshalb erkennt sich in dieser Liste fast jeder wieder. Peinlich ist daran nichts, menschlich schon."
+  ]
  }
 ]

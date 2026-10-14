@@ -1,15 +1,32 @@
-# Auswertung vom 09.10.2026
+# Auswertung vom 14.10.2026 (Listen Reels 07.10. bis 14.10.2026)
 
-## Mindsetologie (alle 246 Beiträge, 235 Videos)
-Aufrufe im Mittel (Median) rund 110.000 pro Video. Am besten liefen die kurzen Listen Videos:
-kuriose Berufe (1,85 Mio.), Hygienefehler (736.000), Geldwissen (615.000, nicht nachgebaut, Zahlen nicht prüfbar), Manieren (597.000), Gewohnheiten im Bad (545.000), Geschichte mit den drei Gesprächen (491.000), Kindersprüche (354.000), Tochter und Vater (343.000), Wirkung und Sprache (297.000 bis 317.000), Sternzeichen (268.000 bis 294.000), Sätze im Job (289.000), Lebensphasen (242.000), Notfall (205.000).
-Die neuen Listen Videos seit 07.10.2026 kamen in ein bis zwei Tagen auf 39.000 bis 203.000 Aufrufe (Hygiene 203.000, Sternzeichen 191.000, früher gewusst 121.000). Die Karussells daneben hatten 49 bis 981 Likes.
-Nicht nachgebaut: reine Gesundheits und Krankheitsthemen (Warnzeichen, Trinken, Essen, Gewicht, Schlaf), Gehälter, Arbeitsrecht.
+Quelle: Publer Auswertung beider Konten (Aufrufe je Reel). Apify war in diesem Lauf nicht verfügbar.
+Achtung: Reels vom 13. und 14.10. sind erst ein bis zwei Tage alt, ihre Zahlen sind noch niedrig.
 
-## Mentalexikon (letzte 1.000 Beiträge, 981 Videos)
-Fast alles stammt aus März und April 2026: Median 25.000 bis 38.000 Aufrufe, Spitzen bis 4,9 Mio. Die Mindset Videos mit Stimme im Oktober 2026 lagen bei rund 5.800 Aufrufen im Median. Die erfolgreichsten Beiträge waren auch hier kurze Listen im selben Format:
-Alltagsfehler (4,9 Mio.), Ring und Finger (3,6 Mio.), Aussprache (2,7 Mio. und 1,1 Mio.), Sternzeichen (2,3 Mio. und 1,2 Mio.), kleine Gesten der Liebe (2,2 Mio.), Fehler im Bad (1,8 Mio.), Job und Plan (1,1 Mio.), Notfallwissen (955.000), Bürosprache (720.000 bis 953.000), glückliche Paare (654.000), Mails (581.000 bis 637.000), Lebensmittel lagern (441.000), Fakten über die Welt (430.000), drei Lieben (405.000 bis 427.000).
-Nicht nachgebaut: Zyklus, Krankheiten, Abnehmen, Hautbild und andere Gesundheitsversprechen.
+## Mindsetologie (Bestwert je Liste)
+Beste: Aussprache 568.000, Sternzeichen extrem 485.000 (Median 101.000), Hygiene 232.000,
+Sieben Jahre 158.000, Zehn Dinge 153.000, Tochter und Vater 144.000, Sternzeichen Duos 139.000,
+Kitzelmonster 114.000, Bad falsch 107.000, Alltag falsch 98.000.
+Schwächste: Paare 14.000, Berufe 18.000, Wahrheiten 20.000, Drei Lieben 24.000, Fakten Welt 28.000.
+Uhrzeiten (Median bis 12.10.): 17 und 20 Uhr am stärksten, dann 10 und 8 Uhr; 14 und 16 Uhr am schwächsten.
 
-## Folgerung
-Beide Seiten bekommen dieselbe Art Reel: kurze Liste, 6 Sekunden, ruhige Musik. Der Pool startet mit 28 Listen (18 von Mindsetologie, 10 aus den Bestwerten von Mentalexikon).
+## Mentalexikon (Bestwert je Liste)
+Beste: Aussprache 240.000, Bad falsch 173.000, Hygiene 160.000, Sternzeichen extrem 88.000,
+Sieben Jahre 78.000, Sternzeichen Duos 76.000, Alltag falsch 64.000, Bad Gewohnheiten 58.000.
+Schwächste: Paare 9.000, Regeln Schutz 11.000, Berufe 13.000, Chef Sprache 13.000, Respekt 14.000.
+Uhrzeiten: 8 Uhr klar am stärksten, dann 12 und 18 Uhr; 10 und 20 Uhr am schwächsten.
+
+## Schlüsse
+1. Aussprache, Hygiene, Bad und Sternzeichen tragen beide Seiten. Davon mehr: neue Liste Aussprache zwei.
+2. Liebe und Beziehung (Paare, Gesten) sowie Berufe laufen derzeit schwach, obwohl die Vorlagen stark waren.
+3. Dieselbe Liste streut stark je Termin (Sternzeichen extrem 45.000 bis 485.000). Ein schwacher Termin allein ist kein Grund zum Pausieren.
+
+## Pool am 14.10.2026
+Pausiert: 01 Berufe, 15 Regeln Schutz, 18 Wahrheiten, 24 Paare.
+Neu: 29 Aussprache zwei, 30 Wortherkunft, 31 Klasse, 32 Alltagsdeutsch, 33 Familiencode, 34 Schon mal erlebt.
+Aktiv: 30 Listen.
+
+## Grundlage vom 09.10.2026 (gekürzt)
+Mindsetologie (246 Beiträge): Median rund 110.000 Aufrufe, Spitzen kuriose Berufe 1,85 Mio., Hygienefehler 736.000, Manieren 597.000.
+Mentalexikon (1.000 Beiträge): Spitzen Alltagsfehler 4,9 Mio., Ringe 3,6 Mio., Aussprache 2,7 Mio., Sternzeichen 2,3 Mio.
+Nicht nachgebaut: Gesundheit, Krankheit, Abnehmen, Gehälter, Arbeitsrecht, Geldzahlen.
