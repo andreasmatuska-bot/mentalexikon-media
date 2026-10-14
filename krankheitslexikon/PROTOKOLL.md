@@ -47,3 +47,10 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Qualitätsmanager Prüfung 1: eine Runde, alle drei in a bis i bestanden und freigegeben, keine Fehler. Der Prüfer hat Technik und erstes Bild selbst nachgemessen und die Schlafpositionen per Websuche gegen gängige Ratgeber geprüft.
 * Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00) eingeplant, als Reel gelistet, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
 * Offen: nichts. Vorrat leer, der nächste Lauf baut wieder drei neu. Nächste Brücke um den 20.10. Ab Sonntag 25.10. gilt Winterzeit (+02:00).
+
+## Lauf 14.10.2026 abends (für 15.10.2026)
+* Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut.
+* Eingeplant: 25 Träume (B Zwei Spalten) 12:00 Uhr, 26 Müdigkeit (A Papier) 15:30 Uhr, 27 Gesten (B Zwei Spalten) 19:00 Uhr. Keine Lehre und kein Autor genannt, keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1: zwei Runden. Runde 1: 25 und 27 freigegeben, 26 abgelehnt, weil Punkt 1 „Müde schon beim Aufwachen“ inhaltlich 05 Schlaf („Viel Schlaf, trotzdem müde“, „Schweres Aufstehen“) wiederholte. Ersetzt durch „Müde nach langem Grübeln“. Runde 2: 26 in a bis i bestanden und freigegeben. Deutungen vom Prüfer per Websuche gegen gängige Ratgeber geprüft. Hinweis des Prüfers für später: „Dein Kopf kommt nicht zur Ruhe.“ steht schon in 10 und 20, bei neuen Texten abwechslungsreicher formulieren.
+* Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00) eingeplant, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Offen: nichts. Vorrat leer, der nächste Lauf baut wieder drei neu. Nächste Brücke um den 20.10. Ab Sonntag 25.10. gilt Winterzeit (+02:00).
