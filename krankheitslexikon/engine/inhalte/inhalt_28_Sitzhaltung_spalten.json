@@ -1,0 +1,64 @@
+{
+ "name": "Krankheitslexikon_28_Sitzhaltung",
+ "aufbau": "spalten",
+ "titel": "Was deine Sitzhaltung über dich verrät",
+ "punkte": [
+  [
+   "Beine übereinandergeschlagen",
+   "Du grenzt dich ab und behältst die Kontrolle."
+  ],
+  [
+   "Knöchel gekreuzt",
+   "Du bist leicht angespannt und wartest erst einmal ab."
+  ],
+  [
+   "Füße um die Stuhlbeine gewickelt",
+   "Du suchst Halt und fühlst dich unsicher."
+  ],
+  [
+   "Auf der Stuhlkante",
+   "Du willst gleich loslegen und bist voller Tatendrang."
+  ],
+  [
+   "Weit zurückgelehnt",
+   "Du fühlst dich sicher oder gehst auf Abstand."
+  ],
+  [
+   "Ein Bein unter dem Po",
+   "Du machst es dir gemütlich und fühlst dich wohl."
+  ],
+  [
+   "Schneidersitz auf dem Stuhl",
+   "Du bist entspannt und ganz bei dir."
+  ],
+  [
+   "Knie eng zusammen",
+   "Du willst bloß nicht auffallen."
+  ],
+  [
+   "Beine weit auseinander",
+   "Du zeigst Selbstbewusstsein und nimmst dir Raum."
+  ],
+  [
+   "Seitlich auf dem Stuhl",
+   "Du bist nur halb bei der Sache."
+  ],
+  [
+   "In die Sofaecke gedrückt",
+   "Du brauchst Schutz und Rückendeckung."
+  ],
+  [
+   "Knie an die Brust gezogen",
+   "Du willst dich gerade selbst festhalten."
+  ],
+  [
+   "Nach vorne gebeugt",
+   "Du bist neugierig und voll dabei."
+  ],
+  [
+   "Hände unter den Oberschenkeln",
+   "Du hältst dich zurück, um nichts Falsches zu tun."
+  ]
+ ],
+ "abstand": 14
+}
