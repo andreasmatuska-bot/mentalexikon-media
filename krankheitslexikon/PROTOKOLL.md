@@ -62,3 +62,11 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Prüfung 2 (vom Prüfer selbst gelesen): drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00), als Reel gelistet, Beschreibung steht bei jedem Post und ist zeichengenau gleich mit der Datei. Keine Abweichung.
 * Hinweis für später: Der Prüfer vergleicht inzwischen auch die Deutungen Satz für Satz mit allen früheren Videos. Bei neuen Texten frische Bilder und Redewendungen nehmen, nicht „Halt“, „Last“, „zurückhalten“, „auf dem Sprung“, „gesehen werden“, „entscheiden“.
 * Offen: nichts. Vorrat leer, der nächste Lauf baut wieder drei neu. Nächste Brücke um den 20.10. Ab Sonntag 25.10. gilt Winterzeit (+02:00).
+
+## Lauf 16.10.2026 abends (für 17.10.2026)
+* Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut.
+* Eingeplant: 31 Lachen (B Zwei Spalten) 12:00 Uhr, 32 Vergesslichkeit (A Papier) 15:30 Uhr, 33 Händedruck (B Zwei Spalten) 19:00 Uhr. Keine Lehre und kein Autor genannt, keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1: eine Runde, alle drei in a bis i bestanden und freigegeben, keine Fehler. Technik, erstes Bild und Standbild vom Prüfer selbst nachgemessen. Punkt 3 bei 32 beruht auf dem Türschwellen Effekt (Radvansky und andere, 2011).
+* Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00), mit Filter „reel“ gelistet, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Hinweis des Prüfers für später: Seit Video 22 viele Körpersprache Themen (Blick, Gesten, Sitzhaltung, Umarmung, Lachen, Händedruck). Wieder öfter Körperteil und Beschwerde Themen nehmen und die Titelform „Was dein … über dich verrät“ abwechseln.
+* Offen: nichts. Vorrat leer, der nächste Lauf baut wieder drei neu. Nächste Brücke um den 20.10. Ab Sonntag 25.10. gilt Winterzeit (+02:00). Workspace in Publer heißt „AMATUSKA Pages“.
