@@ -70,3 +70,11 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00), mit Filter „reel“ gelistet, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
 * Hinweis des Prüfers für später: Seit Video 22 viele Körpersprache Themen (Blick, Gesten, Sitzhaltung, Umarmung, Lachen, Händedruck). Wieder öfter Körperteil und Beschwerde Themen nehmen und die Titelform „Was dein … über dich verrät“ abwechseln.
 * Offen: nichts. Vorrat leer, der nächste Lauf baut wieder drei neu. Nächste Brücke um den 20.10. Ab Sonntag 25.10. gilt Winterzeit (+02:00). Workspace in Publer heißt „AMATUSKA Pages“.
+
+## Lauf 18.10.2026 abends (für 19.10.2026)
+* Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut. Auffällig: Für den 18.10. gab es keinen Lauf und keine Reels (kein Commit vom 17.10., in Publer nichts für den 18.10.).
+* Eingeplant: 34 Körperpflege (B Zwei Spalten) 12:00 Uhr, 35 Falten (A Papier) 15:30 Uhr, 36 Grenzen Sätze (B Zwei Spalten, Brücke zum Coaching Thema, Aufruf mit „Grenze“) 19:00 Uhr. Keine Lehre und kein Autor genannt. 35 beruht auf mimischen Falten (Stirnmuskel, Augenbrauenrunzler, Ringmuskel ums Auge, Naserümpfen, Kinnmuskel). ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1: zwei Runden. Runde 1: 34 und 35 freigegeben, 36 abgelehnt wegen „Deine Wünsche stellst du hinten an.“ (richtig wäre „hintanstellen“), ersetzt durch „Deine Wünsche kommen bei dir zuletzt.“. Runde 2: 36 in a bis i bestanden und freigegeben.
+* Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00), mit Filter „reel“ gelistet, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Bewusst gewählt: nach dem Hinweis des Prüfers vom 16.10. weniger Körpersprache (Körperpflege, Falten als Körperzone, Brücke).
+* Offen: nichts. Vorrat leer, der nächste Lauf baut wieder drei neu. Nächste Brücke um den 26.10. Ab Sonntag 25.10. gilt Winterzeit (+02:00). Montag 19.10. Wochenauswertung im nächsten Lauf.
