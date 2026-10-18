@@ -1,0 +1,21 @@
+{
+ "name": "Krankheitslexikon_34_Koerperpflege",
+ "aufbau": "spalten",
+ "titel": "Was deine Körperpflege über dich verrät",
+ "punkte": [
+  ["Sehr heiß duschen", "Du sehnst dich nach Wärme und Geborgenheit."],
+  ["Kalt duschen", "Du willst dich wach und lebendig fühlen."],
+  ["Lange duschen", "Nur dort hast du endlich Zeit für dich."],
+  ["Ganz schnell duschen", "Für dich selbst nimmst du dir kaum Zeit."],
+  ["Abends ein Bad", "Du brauchst ein Ritual, um runterzukommen."],
+  ["Unter der Dusche grübeln", "Gedanken vom Tag holen dich dort ein."],
+  ["Unter der Dusche singen", "Du lässt deiner Freude gern freien Lauf."],
+  ["Gründliches Eincremen", "Du gehst liebevoll mit deinem Körper um."],
+  ["Pflege nur vor Treffen", "Du pflegst dich eher für andere als für dich."],
+  ["Spiegel meiden", "Du gehst gerade streng mit dir ins Gericht."],
+  ["Lange vor dem Spiegel", "Du willst dich in deiner Haut wohlfühlen."],
+  ["Immer derselbe Duft", "Vertrautes gibt dir Sicherheit."],
+  ["Haare waschen bei Frust", "Du willst den Tag von dir abspülen."],
+  ["Badezimmer abschließen", "Du brauchst einen Ort nur für dich."]
+ ]
+}
