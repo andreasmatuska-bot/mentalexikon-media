@@ -1,0 +1,21 @@
+{
+ "name": "Krankheitslexikon_37_Krankheit_Umgang",
+ "aufbau": "spalten",
+ "titel": "Was dein Verhalten bei Krankheit verrät",
+ "punkte": [
+  ["Krank zur Arbeit gehen", "Du glaubst, ohne dich läuft nichts."],
+  ["Erst im Urlaub krank werden", "Dein Körper wartet, bis er endlich darf."],
+  ["Beschwerden googeln", "Ungewissheit macht dir mehr Angst als der Schmerz."],
+  ["Schmerzen herunterspielen", "Du willst niemandem Umstände machen."],
+  ["Über jede Kleinigkeit klagen", "Du wünschst dir mehr Zuwendung."],
+  ["Arzttermine aufschieben", "Du fürchtest dich vor schlechten Nachrichten."],
+  ["Allein sein wollen", "Du brauchst Ruhe und keine Fragen."],
+  ["Umsorgt werden wollen", "Endlich darfst du auch mal schwach sein."],
+  ["Schlechtes Gewissen beim Ausruhen", "Deinen Wert misst du an deiner Leistung."],
+  ["Sofort wieder voll loslegen", "Geduld mit dir selbst fällt dir schwer."],
+  ["Allen davon erzählen", "Mitgefühl hilft dir beim Gesundwerden."],
+  ["Krankheit verheimlichen", "Du willst immer stark wirken."],
+  ["Bei Krankheit die Mama anrufen", "Ein vertrauter Mensch beruhigt dich am meisten."],
+  ["Nie krank werden", "Deine Grenzen spürst du oft erst spät."]
+ ]
+}
