@@ -1,0 +1,65 @@
+{
+ "name": "Krankheitslexikon_42_Redewendungen",
+ "aufbau": "spalten",
+ "titel": "Was diese Redewendungen über deine Gefühle verraten",
+ "punkte": [
+  [
+   "„Das schlägt mir auf den Magen.“",
+   "Was dich bedrückt, spürst du sofort im Bauch."
+  ],
+  [
+   "„Mir ist eine Laus über die Leber gelaufen.“",
+   "Eine Kleinigkeit hat dir die Laune verdorben."
+  ],
+  [
+   "„Das geht mir an die Nieren.“",
+   "Etwas setzt dir spürbar zu."
+  ],
+  [
+   "„Die Angst sitzt mir im Nacken.“",
+   "Die Angst hat dich fest im Griff."
+  ],
+  [
+   "„Ich habe die Nase voll.“",
+   "Deine Geduld ist am Ende."
+  ],
+  [
+   "„Mir bleibt die Spucke weg.“",
+   "Vor Staunen fehlen dir die Worte."
+  ],
+  [
+   "„Das geht mir unter die Haut.“",
+   "Etwas berührt dich ganz tief."
+  ],
+  [
+   "„Mir platzt der Kragen.“",
+   "Lange gestauter Ärger bricht heraus."
+  ],
+  [
+   "„Mir wird warm ums Herz.“",
+   "Ein lieber Mensch oder Moment wärmt dich von innen."
+  ],
+  [
+   "„Mir stehen die Haare zu Berge.“",
+   "Etwas erschreckt oder empört dich."
+  ],
+  [
+   "„Das muss ich erst verdauen.“",
+   "Du brauchst Zeit, um etwas zu verarbeiten."
+  ],
+  [
+   "„Mir fällt ein Stein vom Herzen.“",
+   "Eine große Sorge löst sich auf."
+  ],
+  [
+   "„Ich zeige ihm die kalte Schulter.“",
+   "Du gehst innerlich auf Abstand."
+  ],
+  [
+   "„Mir kommt die Galle hoch.“",
+   "Wut steigt in dir auf, die du kaum bändigst."
+  ]
+ ],
+ "schrift": 27,
+ "abstand": 20
+}
