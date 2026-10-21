@@ -1,0 +1,21 @@
+{
+ "name": "Krankheitslexikon_45_Sport",
+ "aufbau": "spalten",
+ "titel": "Was dein Sport über deine Seele verrät",
+ "punkte": [
+  ["Joggen", "Du brauchst Abstand, um deine Gedanken zu ordnen."],
+  ["Krafttraining", "Du willst dich stark fühlen, wo du dich sonst klein fühlst."],
+  ["Yoga", "Du suchst Ruhe in einem lauten Alltag."],
+  ["Spazierengehen", "Du verarbeitest Dinge am liebsten in deinem eigenen Tempo."],
+  ["Tanzen", "Du willst Gefühle ausdrücken, für die dir die Worte fehlen."],
+  ["Schwimmen", "Du sehnst dich danach, einfach getragen zu werden."],
+  ["Radfahren", "Du liebst das Gefühl, frei voranzukommen."],
+  ["Kampfsport", "Du lernst, für dich einzustehen."],
+  ["Mannschaftssport", "Gemeinschaft gibt dir Kraft."],
+  ["Nur allein trainieren", "Du willst dich mit niemandem vergleichen müssen."],
+  ["Sport bis zur Erschöpfung", "Du willst Gefühle müde machen, statt sie zu spüren."],
+  ["Ständig neue Sportarten", "Du suchst immer den nächsten Reiz."],
+  ["Sport nur mit Musik", "Du brauchst Schwung von außen, um anzufangen."],
+  ["Gar kein Sport", "Dein Alltag kostet dich schon alle Kraft."]
+ ]
+}

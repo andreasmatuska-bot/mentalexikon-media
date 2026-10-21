@@ -1,0 +1,21 @@
+{
+ "name": "Krankheitslexikon_43_Pickel",
+ "aufbau": "spalten",
+ "titel": "Was dir deine Pickel sagen wollen",
+ "punkte": [
+  ["Stirn", "Du planst ständig voraus und kommst kaum im Jetzt an."],
+  ["Haaransatz", "Du zeigst nach außen nur deine beste Seite."],
+  ["Zwischen den Augenbrauen", "Du wartest auf eine Entschuldigung, die nicht kommt."],
+  ["Schläfen", "Du lebst nach fremden Erwartungen statt nach deinen eigenen."],
+  ["Nasenspitze", "Du mischst dich oft in die Sorgen anderer ein."],
+  ["Nasenflügel", "Du ahnst schon länger, dass etwas nicht stimmt."],
+  ["Wangen", "Dir fehlt Zeit mit Menschen, bei denen du dich wohlfühlst."],
+  ["Um den Mund", "Du sprichst deine Wünsche nur halb aus."],
+  ["Kinn", "Dein innerer Rhythmus ist gerade durcheinander."],
+  ["Kieferlinie", "Ein Streit mit jemandem ist in dir noch nicht beendet."],
+  ["Ohren", "Du hörst zu viel Kritik und zu wenig Lob."],
+  ["Hals", "Ein wichtiges Gespräch steht noch aus."],
+  ["Dekolleté", "Du verbirgst, wie verletzlich du bist."],
+  ["Oberarme", "Du willst alles allein stemmen."]
+ ]
+}
