@@ -1,0 +1,65 @@
+{
+ "name": "Krankheitslexikon_49_Zehen",
+ "aufbau": "spalten",
+ "titel": "Was deine Zehen über dich verraten",
+ "punkte": [
+  [
+   "Zweiter Zeh länger als der große",
+   "Du hast viele Ideen und reißt andere gern mit."
+  ],
+  [
+   "Großer Zeh am längsten",
+   "Du bist verträumt und lässt nicht jeden in dein Inneres schauen."
+  ],
+  [
+   "Alle Zehen fast gleich lang",
+   "Du bist bodenständig und man kann sich auf dich verlassen."
+  ],
+  [
+   "Großer Zeh breit und kräftig",
+   "Du bist zielstrebig und lässt dich nicht leicht beirren."
+  ],
+  [
+   "Lücke nach dem großen Zeh",
+   "Du lässt Ideen erst in Ruhe reifen, bevor du handelst."
+  ],
+  [
+   "Dritter Zeh lang",
+   "Du bist fleißig und willst im Beruf vorankommen."
+  ],
+  [
+   "Dritter Zeh kurz",
+   "Genuss und Freizeit sind dir wichtiger als Karriere."
+  ],
+  [
+   "Vierter Zeh gebogen",
+   "Familie und Partnerschaft stehen bei dir an erster Stelle."
+  ],
+  [
+   "Kleiner Zeh lässt sich allein bewegen",
+   "Du bist spontan und sagst schnell zu, wenn es nach Abenteuer klingt."
+  ],
+  [
+   "Kleiner Zeh bewegt sich nie allein",
+   "Du bist beständig und bleibst bei dem, was sich bewährt hat."
+  ],
+  [
+   "Langer kleiner Zeh",
+   "Du redest nicht lange um den heißen Brei herum."
+  ],
+  [
+   "Zehen weit gespreizt",
+   "Du bist eigenständig und machst dir gern dein eigenes Bild."
+  ],
+  [
+   "Zehen eng aneinander",
+   "Du bist loyal und stehst zu deinen Leuten."
+  ],
+  [
+   "Zehen leicht nach oben gebogen",
+   "Du bist ein fröhlicher Mensch und siehst zuerst das Gute."
+  ]
+ ],
+ "schrift": 27,
+ "abstand": 20
+}
