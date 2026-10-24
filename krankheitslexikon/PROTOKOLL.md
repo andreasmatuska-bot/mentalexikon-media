@@ -9,13 +9,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Aufrufe laut Instagram am 09.10.: 05 Schlaf rund 224.000, 06 Verhalten rund 78.000, 09 Krankheit sagen will rund 58.000, 01 Finger rund 30.000, 02 Stress rund 18.500, 07 Haut rund 17.000, 08 Füße rund 16.000, 04 Nie Nein rund 9.000, 03 Rücken rund 7.000. Der alte Stil läuft klar besser, am besten der Aufbau B „Zwei Spalten“.
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
-## Lauf 09.10.2026 abends (für 10.10.2026)
-* Bestand in Publer für morgen: alle drei Plätze frei.
-* Aus dem Vorrat: 11 Bauch (A Papier) 12:00 Uhr, 10 Körperhaltung (B Zwei Spalten) 15:30 Uhr, 12 Augen (A Papier) 19:00 Uhr. Reihenfolge so gewählt, dass sich die Aufbauten abwechseln.
-* Neu gebaut: nichts. Qualitätsmanager Prüfung 1 entfällt (Vorrat war schon freigegeben), Titelbilder und Beschreibungen kurz angesehen, ohne Befund. ffprobe: je 6,0 s, 1080x1920, 30 Bilder, Tonspur, unter 1 MB.
-* Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00) eingeplant, Beschreibung steht bei jedem Post, keine Story. Keine Abweichung.
-* Offen: nichts. Im Vorrat liegen noch 13 Stimme (B) und 14 Nägel (A). Der nächste Lauf muss ein Video neu bauen. Nächste Brücke um den 14.10.
-
 ## Lauf 10.10.2026 abends (für 11.10.2026)
 * Bestand in Publer für morgen: alle drei Plätze frei. Der Workspace heißt in Publer inzwischen „AMATUSKA Pages“, Konto und Account ID sind unverändert.
 * Aus dem Vorrat: 13 Stimme (B Zwei Spalten) 12:00 Uhr, 14 Nägel (A Papier) 15:30 Uhr. Titelbilder und Beschreibungen kurz angesehen, ohne Befund.
@@ -115,3 +108,10 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Qualitätsmanager Prüfung 1: zwei Runden. Runde 1: 49 freigegeben. 50 abgelehnt, Punkt 5 („etwas versprochen, das du nicht halten willst“) inhaltsgleich mit 32, 36 und 26 (ersetzt). 51 abgelehnt, „Kurzhaarschnitt“ inhaltsgleich mit 49 Punkt 11 und „Haare hochstecken bei Stress“ fast gleich mit „Strenger Dutt“ (beide ersetzt, dazu „Glatze“ gestrichen und ein Hashtag getauscht). Runde 2: 50 und 51 in a bis i bestanden und freigegeben.
 * Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00), mit Filter „reel“ gelistet, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
 * Offen: nichts. Vorrat leer, der nächste Lauf baut wieder drei neu. Achtung: Ab Sonntag 25.10. gilt Winterzeit, Reels für den 25.10. mit +02:00 einplanen. Nächste Brücke um den 26.10. Montag 26.10. Wochenauswertung.
+
+## Lauf 24.10.2026 abends (für 25.10.2026)
+* Publer war in diesem Lauf nicht verfügbar (die Publer Verbindung war in der Sitzung nicht geladen, keine Publer Werkzeuge). Deshalb kein Bestand geprüft und nichts eingeplant. Nach Auftrag die freigegebenen Videos nach vorrat/ gelegt, damit der nächste Lauf sie einplant.
+* Vorrat vorher leer, deshalb drei Videos neu gebaut: 52 Was dir deine Krankheit sagen will, Teil 4 (A Papier), 53 So setzt du Grenzen, ohne laut zu werden (Brücke, B Zwei Spalten, Aufruf mit „Nein“), 54 Schultern (A Papier). Keine Lehre und kein Autor genannt. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1: drei Runden. Runde 1: keines freigegeben, nur Punkt g (Doppelungen). 52 fünf Deutungen doppelt (Scham 07 und 28, Geld 47, Geheimnis 47, Abstand 10 und 17, Neid 46), 53 zu nah an 36 (Punkt 3, 5, 13, Titel), 54 alle Deutungen nah an 47, 46, 23, 44, 20, 16. Runde 2: 53 freigegeben (neuer Titel, vier Sätze ersetzt). 52 Kindheit (wie 50) und Gutes verdienen (wie 11, 37), 54 Sinnfrage (wie 38) und mit dem Schlimmsten rechnen (wie 41). Runde 3: 52 freigegeben. 54 nicht freigegeben, Punkt 5 „machtlos“ fast wörtlich wie 23. 54 deshalb nicht eingecheckt.
+* Im Vorrat: 52 und 53 (freigegeben, für 12:00 und 15:30 Uhr gedacht). Am 25.10. gilt Winterzeit (+02:00).
+* Offen: Publer Verbindung prüfen. Der nächste Lauf plant zuerst 52 und 53 ein und baut ein drittes Video. Schultern kann neu gebaut werden (Punkt 1 bis 4 und 6 waren in Runde 3 in Ordnung: Einsamkeit unter Menschen, eigene Erfolge nicht feiern, Älterwerden, ein naher Mensch will in eine andere Richtung, Fürsorge für die Eltern; Punkt 5 ganz neu, ohne Machtlosigkeit, Mitgefühl oder das Schlimmste erwarten). Montag 26.10. Wochenauswertung.
