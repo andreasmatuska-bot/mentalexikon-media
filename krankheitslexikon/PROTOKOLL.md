@@ -9,14 +9,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Aufrufe laut Instagram am 09.10.: 05 Schlaf rund 224.000, 06 Verhalten rund 78.000, 09 Krankheit sagen will rund 58.000, 01 Finger rund 30.000, 02 Stress rund 18.500, 07 Haut rund 17.000, 08 Füße rund 16.000, 04 Nie Nein rund 9.000, 03 Rücken rund 7.000. Der alte Stil läuft klar besser, am besten der Aufbau B „Zwei Spalten“.
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
-## Lauf 10.10.2026 abends (für 11.10.2026)
-* Bestand in Publer für morgen: alle drei Plätze frei. Der Workspace heißt in Publer inzwischen „AMATUSKA Pages“, Konto und Account ID sind unverändert.
-* Aus dem Vorrat: 13 Stimme (B Zwei Spalten) 12:00 Uhr, 14 Nägel (A Papier) 15:30 Uhr. Titelbilder und Beschreibungen kurz angesehen, ohne Befund.
-* Neu gebaut: 15 Heißhunger (B Zwei Spalten, 14 Begriffe) für 19:00 Uhr. Keine Lehre und kein Autor genannt. ffprobe: 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,3 LUFS, 270 KB.
-* Qualitätsmanager Prüfung 1 für 15: eine Runde, alle Punkte a bis i bestanden, keine Fehler, freigegeben. Zuordnungen per Websuche gegen gängige Ratgeber zum emotionalen Essen geprüft.
-* Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00) eingeplant, Beschreibung steht bei jedem Post und ist Wort für Wort gleich mit der Datei, keine Story. Keine Abweichung.
-* Offen: nichts. Der Vorrat ist leer, der nächste Lauf muss alle drei Videos neu bauen. Nächste Brücke um den 14.10. Am Montag steht die Wochenauswertung an.
-
 ## Lauf 11.10.2026 abends (für 12.10.2026)
 * Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut.
 * Neu gebaut: 16 Haare (A Papier) 12:00 Uhr, 17 Erkältung (B Zwei Spalten, 14 Begriffe) 15:30 Uhr, 18 Beine (A Papier) 19:00 Uhr. Keine Lehre und kein Autor genannt. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,3 LUFS, unter 1 MB.
@@ -115,3 +107,10 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Qualitätsmanager Prüfung 1: drei Runden. Runde 1: keines freigegeben, nur Punkt g (Doppelungen). 52 fünf Deutungen doppelt (Scham 07 und 28, Geld 47, Geheimnis 47, Abstand 10 und 17, Neid 46), 53 zu nah an 36 (Punkt 3, 5, 13, Titel), 54 alle Deutungen nah an 47, 46, 23, 44, 20, 16. Runde 2: 53 freigegeben (neuer Titel, vier Sätze ersetzt). 52 Kindheit (wie 50) und Gutes verdienen (wie 11, 37), 54 Sinnfrage (wie 38) und mit dem Schlimmsten rechnen (wie 41). Runde 3: 52 freigegeben. 54 nicht freigegeben, Punkt 5 „machtlos“ fast wörtlich wie 23. 54 deshalb nicht eingecheckt.
 * Im Vorrat: 52 und 53 (freigegeben, für 12:00 und 15:30 Uhr gedacht). Am 25.10. gilt Winterzeit (+02:00).
 * Offen: Publer Verbindung prüfen. Der nächste Lauf plant zuerst 52 und 53 ein und baut ein drittes Video. Schultern kann neu gebaut werden (Punkt 1 bis 4 und 6 waren in Runde 3 in Ordnung: Einsamkeit unter Menschen, eigene Erfolge nicht feiern, Älterwerden, ein naher Mensch will in eine andere Richtung, Fürsorge für die Eltern; Punkt 5 ganz neu, ohne Machtlosigkeit, Mitgefühl oder das Schlimmste erwarten). Montag 26.10. Wochenauswertung.
+
+## Lauf 25.10.2026 abends (für 26.10.2026)
+* Publer war wieder nicht verfügbar (Verbindung im Konto vorhanden, aber in der Sitzung nicht geladen, keine Publer Werkzeuge). Kein Bestand geprüft, nichts eingeplant. Für den 25.10. ist deshalb vermutlich nichts gelaufen.
+* Vorrat vorher: 52 und 53. Neu gebaut: 54 Schultern (A Papier), gedacht für 26.10. 19:00 Uhr, damit der Vorrat einen ganzen Tag füllt (52 A 12:00, 53 B 15:30, 54 A 19:00). Keine Lehre und kein Autor genannt. Hinweis mit Notruf 112 bei Schulter oder Armschmerz mit Brustdruck. ffprobe 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,3 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1: drei Runden. Runde 1: nur g nicht bestanden, Punkt 5 Reue wie 46 und 20, Punkt 3 Älterwerden wie 48 (Reservierung war falsch), Punkt 4 zu nah an 52 und wie 23 („Loslassen“), Punkt 1 zweiter Satz wie 24. Alle ersetzt. Runde 2: Punkt 1 „wie es dir wirklich geht“ wie 36, ersetzt. Runde 3: alle Punkte a bis i bestanden, freigegeben.
+* Videoordner 2026-10-10 gelöscht (älter als 14 Tage).
+* Im Vorrat: 52, 53, 54 (alle freigegeben). Offen: Publer Verbindung in den Einstellungen prüfen. Der nächste Lauf plant zuerst den Vorrat ein. Montag 26.10. Wochenauswertung.
