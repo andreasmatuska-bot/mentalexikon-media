@@ -9,14 +9,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Aufrufe laut Instagram am 09.10.: 05 Schlaf rund 224.000, 06 Verhalten rund 78.000, 09 Krankheit sagen will rund 58.000, 01 Finger rund 30.000, 02 Stress rund 18.500, 07 Haut rund 17.000, 08 Füße rund 16.000, 04 Nie Nein rund 9.000, 03 Rücken rund 7.000. Der alte Stil läuft klar besser, am besten der Aufbau B „Zwei Spalten“.
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
-## Lauf 11.10.2026 abends (für 12.10.2026)
-* Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut.
-* Neu gebaut: 16 Haare (A Papier) 12:00 Uhr, 17 Erkältung (B Zwei Spalten, 14 Begriffe) 15:30 Uhr, 18 Beine (A Papier) 19:00 Uhr. Keine Lehre und kein Autor genannt. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,3 LUFS, unter 1 MB.
-* Qualitätsmanager Prüfung 1: zwei Runden. Runde 1 nicht freigegeben, je ein Fehler: 16 Schreibweise „hin und her gerissen“ (jetzt „innerlich zerrissen“), 17 Schreibweise „heraus darf“ (jetzt „den du nicht zeigst“), 18 Begriff „Schwere Beine“ doppelt mit Video 08 (jetzt „Zitternde Beine“, dazu „Unruhige Beine“ in „Kribbelnde Beine“ geändert und zwei Sätze umformuliert). Runde 2: alle drei in a bis i bestanden und freigegeben, Technik vom Prüfer selbst an den `_IG.mp4` nachgemessen.
-* Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00) eingeplant, Beschreibung steht bei jedem Post und stimmt mit der Datei überein, keine Story. Keine Abweichung.
-* Wochenauswertung (Publer, 01.10. bis 11.10.): Am besten liefen 05 Schlaf (rund 231.000 Aufrufe, B Zwei Spalten), 10 Körperhaltung (rund 101.000, B Zwei Spalten) und 06 Verhalten (rund 83.000, Balken). A Papier liegt deutlich darunter (09 rund 63.000, 11 Bauch rund 26.000, 07 Haut und 08 Füße je rund 19.000). Folgerung: öfter B Zwei Spalten mit 14 kurzen Begriffen zu Alltagsthemen, die man sofort an sich prüfen kann (Schlaf, Haltung, Verhalten), A Papier höchstens einmal am Tag. Zum Vergleich: Julias eigener Rücken Beitrag vom 06.10. hat mit rund 68.000 Aufrufen die meisten Speicherungen (860).
-* Offen: nichts. Vorrat leer, der nächste Lauf baut wieder drei neu (möglichst zwei davon B Zwei Spalten, nicht direkt hintereinander). Nächste Brücke um den 14.10. Hinweis für die Themenwahl: bei neuen Videos auch die Einzelbegriffe früherer Videos vermeiden (Wortlaut steht in den Beschreibungen und in engine/inhalte).
-
 ## Lauf 12.10.2026 abends (für 13.10.2026)
 * Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut.
 * Eingeplant: 19 Körperzeichen (B Zwei Spalten) 12:00 Uhr, 20 Kopfschmerzen (A Papier) 15:30 Uhr, 21 Empathen (B Zwei Spalten, Brücke zum Coaching Thema, Aufruf mit „Empath“) 19:00 Uhr. Keine Lehre und kein Autor genannt. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
@@ -114,3 +106,12 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Qualitätsmanager Prüfung 1: drei Runden. Runde 1: nur g nicht bestanden, Punkt 5 Reue wie 46 und 20, Punkt 3 Älterwerden wie 48 (Reservierung war falsch), Punkt 4 zu nah an 52 und wie 23 („Loslassen“), Punkt 1 zweiter Satz wie 24. Alle ersetzt. Runde 2: Punkt 1 „wie es dir wirklich geht“ wie 36, ersetzt. Runde 3: alle Punkte a bis i bestanden, freigegeben.
 * Videoordner 2026-10-10 gelöscht (älter als 14 Tage).
 * Im Vorrat: 52, 53, 54 (alle freigegeben). Offen: Publer Verbindung in den Einstellungen prüfen. Der nächste Lauf plant zuerst den Vorrat ein. Montag 26.10. Wochenauswertung.
+
+## Lauf 26.10.2026 abends (für 27.10.2026)
+* Publer wieder verfügbar. Bestand für morgen: alle drei Plätze frei. Nichts neu gebaut, alle drei aus dem Vorrat: 52 Was dir deine Krankheit sagen will, Teil 4 (A Papier) 12:00 Uhr, 53 So setzt du Grenzen, ohne laut zu werden (B Zwei Spalten, Brücke, Aufruf mit „Nein“) 15:30 Uhr, 54 Schultern (A Papier) 19:00 Uhr, jeweils +02:00 (Winterzeit). Aufbauten abwechselnd A, B, A.
+* Qualitätsmanager Prüfung 1 entfällt (Vorrat schon freigegeben). Kurzer Blick auf Titelbilder und Beschreibungen: alles lesbar, Wasserzeichen da, ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, unter 1 MB. raw Adressen mit Status 200.
+* Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+02:00), mit Filter „reel“ gelistet, Beschreibung steht bei jedem Post und ist per Skript zeichengleich mit der Datei (bei 54 nur der Zeilenumbruch am Dateiende fehlt). Keine Abweichung.
+* Videoordner 2026-10-11 gelöscht (älter als 14 Tage).
+* Wochenauswertung (Publer, 12.10. bis 26.10., Interaktionen): Vorne 17 Erkältung (976), 21 Empathen (342), 22 Schlafposition (330), 19 Körperzeichen (317), 25 Träume (285), alle B Zwei Spalten mit 14 kurzen Deutungen. Hinten fast nur A Papier: 23 Hände (34), 18 Beine (73), 20 Kopfschmerzen (126), dazu 24 Blick (144). Folgerung: B Zwei Spalten mit bekannten Alltagsbeschwerden und Redewendungen als Deutung (wie Erkältung) klar bevorzugen, A Papier höchstens einmal am Tag, gern Beschwerdelisten wie 17 und 40.
+* Offen: nichts. Vorrat jetzt leer, der nächste Lauf baut drei neu (möglichst zwei B Zwei Spalten). Nächste Brücke um den 03.11.
+
