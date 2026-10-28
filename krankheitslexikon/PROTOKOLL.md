@@ -9,13 +9,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Aufrufe laut Instagram am 09.10.: 05 Schlaf rund 224.000, 06 Verhalten rund 78.000, 09 Krankheit sagen will rund 58.000, 01 Finger rund 30.000, 02 Stress rund 18.500, 07 Haut rund 17.000, 08 Füße rund 16.000, 04 Nie Nein rund 9.000, 03 Rücken rund 7.000. Der alte Stil läuft klar besser, am besten der Aufbau B „Zwei Spalten“.
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
-## Lauf 14.10.2026 abends (für 15.10.2026)
-* Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut.
-* Eingeplant: 25 Träume (B Zwei Spalten) 12:00 Uhr, 26 Müdigkeit (A Papier) 15:30 Uhr, 27 Gesten (B Zwei Spalten) 19:00 Uhr. Keine Lehre und kein Autor genannt, keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
-* Qualitätsmanager Prüfung 1: zwei Runden. Runde 1: 25 und 27 freigegeben, 26 abgelehnt, weil Punkt 1 „Müde schon beim Aufwachen“ inhaltlich 05 Schlaf („Viel Schlaf, trotzdem müde“, „Schweres Aufstehen“) wiederholte. Ersetzt durch „Müde nach langem Grübeln“. Runde 2: 26 in a bis i bestanden und freigegeben. Deutungen vom Prüfer per Websuche gegen gängige Ratgeber geprüft. Hinweis des Prüfers für später: „Dein Kopf kommt nicht zur Ruhe.“ steht schon in 10 und 20, bei neuen Texten abwechslungsreicher formulieren.
-* Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00) eingeplant, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
-* Offen: nichts. Vorrat leer, der nächste Lauf baut wieder drei neu. Nächste Brücke um den 20.10. Ab Sonntag 25.10. gilt Winterzeit (+02:00).
-
 ## Lauf 15.10.2026 abends (für 16.10.2026)
 * Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut.
 * Eingeplant: 28 Sitzhaltung (B Zwei Spalten) 12:00 Uhr, 29 Missgeschicke (A Papier) 15:30 Uhr, 30 Umarmung (B Zwei Spalten) 19:00 Uhr. Keine Lehre und kein Autor genannt, keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
@@ -116,3 +109,12 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Prüfung 2: am 28.10. genau drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+02:00), mit Filter „reel“ gelistet, jede Beschreibung steht beim Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
 * Hinweise des Prüfers: Am 28.10. viele Arbeitsthemen (55 Ischias, 56 Punkt 3, 4, 6), bei neuen Texten wieder mehr innere Muster statt konkreter Alltagsszenen. Deutungen werden knapp, vor jedem Bau alle Deutungen aus engine/inhalte gegenlesen.
 * Offen: nichts. Vorrat leer.
+
+## Lauf 28.10.2026 abends (für 29.10.2026)
+* Bestand in Publer: heute alle drei Reels veröffentlicht, für morgen alle drei Plätze frei. Vorrat leer, deshalb drei Videos neu gebaut (nach der Wochenauswertung zwei B Zwei Spalten, ein A Papier).
+* Gebaut: 58 Was dir deine Krankheit sagen will, Teil 6 (B) für 12:00, 59 Oberschenkel (A) für 15:30, 60 Was dein Gesicht über dich verrät (B, als Spiel nach dem Gesichterlesen gekennzeichnet) für 19:00. Keine Lehre und kein Autor genannt, keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1: drei Runden, Technik, Stil und Beschreibung immer bestanden. Runde 1: keines freigegeben, 58 fünf Doppelungen und Herbstmüdigkeit mit körperlicher Erklärung, 59 Zittern und verliebt doppelt, 60 Wangenknochen wie 49. Runde 2: 60 freigegeben, 58 Sonntagabend und Trend doppelt, 59 Punkt 2 (abgesagte Verabredung) wie 21. Runde 3: 58 freigegeben, 59 nicht, weil Punkt 2 (Sammeln mit Leidenschaft) am selben Tag fast gleich mit 58 Punkt 7 (neues Hobby) war. 59 deshalb NICHT eingeplant und nicht eingecheckt.
+* Eingeplant: 58 um 12:00 und 60 um 19:00 Uhr (+02:00). Platz 15:30 Uhr am 29.10. bleibt frei.
+* Prüfung 2: zwei Reels auf dem richtigen Konto um 12:00 und 19:00 Uhr (+02:00), mit Filter „reel“ gelistet, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Videoordner 2026-10-13 gelöscht.
+* Für den nächsten Lauf: 59 Oberschenkel kann mit Nummer 59 neu gebaut werden. Vom Prüfer ohne Einwand: Punkt 1 (Wochen bis Silvester), 3 (jemandem nacheifern), 4 Krampf vorn (Ehrenamt bei Wind und Wetter), 5 (etwas ganz Neues lernen), 6 (älteres Haustier). Punkt 2 braucht eine neue Deutung ohne Hobby, Leidenschaft, Rückzug oder Treffen. Nicht am selben Tag wie 58 laufen lassen (läuft ohnehin später).
