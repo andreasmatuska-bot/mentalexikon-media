@@ -1,0 +1,64 @@
+{
+ "name": "Krankheitslexikon_60_Gesicht",
+ "aufbau": "spalten",
+ "titel": "Was dein Gesicht über dich verrät",
+ "punkte": [
+  [
+   "Grübchen beim Lächeln",
+   "Du erzählst gern Geschichten und fesselst andere damit."
+  ],
+  [
+   "Hohe Stirn",
+   "Du lernst schnell und bist wissbegierig."
+  ],
+  [
+   "Stupsnase",
+   "Du bist offen und findest schnell Anschluss."
+  ],
+  [
+   "Markante Nase",
+   "Du verhandelst geschickt und bekommst oft, was du willst."
+  ],
+  [
+   "Volle Lippen",
+   "Du bist großzügig und teilst gern."
+  ],
+  [
+   "Schmale Lippen",
+   "Du bist sachlich und behältst in Krisen einen kühlen Kopf."
+  ],
+  [
+   "Große Augen",
+   "Du bist ein Bauchmensch und folgst deinem Gefühl."
+  ],
+  [
+   "Eng stehende Augen",
+   "Du bemerkst Details, die anderen entgehen."
+  ],
+  [
+   "Weit auseinanderstehende Augen",
+   "Du behältst den Überblick und denkst in großen Zusammenhängen."
+  ],
+  [
+   "Buschige Augenbrauen",
+   "Du bist leidenschaftlich bei allem, was dir wichtig ist."
+  ],
+  [
+   "Grübchen am Kinn",
+   "Du hast Charme und wickelst andere leicht um den Finger."
+  ],
+  [
+   "Hohe Wangenknochen",
+   "Du blühst abends auf und bist ein echter Nachtmensch."
+  ],
+  [
+   "Runde Wangen",
+   "Du bist herzlich und gastfreundlich."
+  ],
+  [
+   "Abstehende Ohren",
+   "Du hast Selbstironie und nimmst dich nicht zu ernst."
+  ]
+ ],
+ "abstand": 16
+}
