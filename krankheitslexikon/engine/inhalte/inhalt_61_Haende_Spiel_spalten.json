@@ -1,0 +1,65 @@
+{
+ "name": "Krankheitslexikon_61_Haende_Spiel",
+ "aufbau": "spalten",
+ "titel": "Was deine Hände über dich verraten",
+ "abstand": 16,
+ "punkte": [
+  [
+   "Lange, schlanke Finger",
+   "Du bist musikalisch und hast ein feines Ohr für Klänge."
+  ],
+  [
+   "Kurze, kräftige Finger",
+   "Du hast Organisationstalent und den Alltag gut im Griff."
+  ],
+  [
+   "Breite Handfläche",
+   "Du bist ein Ruhepol, bei dem andere gern auftanken."
+  ],
+  [
+   "Schmale Handfläche",
+   "Du bist romantisch und liebst kleine Gesten."
+  ],
+  [
+   "Ringfinger länger als Zeigefinger",
+   "Du hast einen guten Orientierungssinn und findest dich überall zurecht."
+  ],
+  [
+   "Zeigefinger länger als Ringfinger",
+   "Du hast einen ausgeprägten Gerechtigkeitssinn."
+  ],
+  [
+   "Ring und Zeigefinger gleich lang",
+   "Du kannst wunderbar mit Kindern umgehen."
+  ],
+  [
+   "Biegsamer Daumen",
+   "Du hast ein Gespür für Farben und kombinierst sie mutig."
+  ],
+  [
+   "Steifer Daumen",
+   "Du hast ein gutes Gedächtnis und vergisst kaum einen Geburtstag."
+  ],
+  [
+   "Langer kleiner Finger",
+   "Du zeichnest gern und hältst Momente in kleinen Skizzen fest."
+  ],
+  [
+   "Kurzer kleiner Finger",
+   "Du tüftelst gern und liebst knifflige Rätsel."
+  ],
+  [
+   "Warme Hände",
+   "Bei dir gedeihen Pflanzen, die anderswo eingehen."
+  ],
+  [
+   "Raue Hände",
+   "Du reparierst Dinge lieber, als sie wegzuwerfen."
+  ],
+  [
+   "Du schreibst mit links",
+   "Du denkst gern um die Ecke und findest ungewöhnliche Lösungen."
+  ]
+ ],
+ "schrift": 28
+}

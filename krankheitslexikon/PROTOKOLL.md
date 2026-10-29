@@ -9,14 +9,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Aufrufe laut Instagram am 09.10.: 05 Schlaf rund 224.000, 06 Verhalten rund 78.000, 09 Krankheit sagen will rund 58.000, 01 Finger rund 30.000, 02 Stress rund 18.500, 07 Haut rund 17.000, 08 Füße rund 16.000, 04 Nie Nein rund 9.000, 03 Rücken rund 7.000. Der alte Stil läuft klar besser, am besten der Aufbau B „Zwei Spalten“.
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
-## Lauf 15.10.2026 abends (für 16.10.2026)
-* Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut.
-* Eingeplant: 28 Sitzhaltung (B Zwei Spalten) 12:00 Uhr, 29 Missgeschicke (A Papier) 15:30 Uhr, 30 Umarmung (B Zwei Spalten) 19:00 Uhr. Keine Lehre und kein Autor genannt, keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
-* Qualitätsmanager Prüfung 1: drei Runden. Runde 1: 30 freigegeben. 28 abgelehnt, weil drei Deutungen fast gleich mit 19, 22 und 27 waren (ersetzt). 29 „Art deines Schmerzes“ abgelehnt (keine gängige Deutung, Komma fehlte, fünf Deutungen zu nah an früheren Videos), Thema ersetzt durch 29 Missgeschicke. Runde 2: 28 freigegeben, 29 abgelehnt wegen zwei Deutungen nah an 09, 13 und 20 (ersetzt). Runde 3: 29 in a bis i bestanden und freigegeben.
-* Prüfung 2 (vom Prüfer selbst gelesen): drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00), als Reel gelistet, Beschreibung steht bei jedem Post und ist zeichengenau gleich mit der Datei. Keine Abweichung.
-* Hinweis für später: Der Prüfer vergleicht inzwischen auch die Deutungen Satz für Satz mit allen früheren Videos. Bei neuen Texten frische Bilder und Redewendungen nehmen, nicht „Halt“, „Last“, „zurückhalten“, „auf dem Sprung“, „gesehen werden“, „entscheiden“.
-* Offen: nichts. Vorrat leer, der nächste Lauf baut wieder drei neu. Nächste Brücke um den 20.10. Ab Sonntag 25.10. gilt Winterzeit (+02:00).
-
 ## Lauf 16.10.2026 abends (für 17.10.2026)
 * Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut.
 * Eingeplant: 31 Lachen (B Zwei Spalten) 12:00 Uhr, 32 Vergesslichkeit (A Papier) 15:30 Uhr, 33 Händedruck (B Zwei Spalten) 19:00 Uhr. Keine Lehre und kein Autor genannt, keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
@@ -118,3 +110,11 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Prüfung 2: zwei Reels auf dem richtigen Konto um 12:00 und 19:00 Uhr (+02:00), mit Filter „reel“ gelistet, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
 * Videoordner 2026-10-13 gelöscht.
 * Für den nächsten Lauf: 59 Oberschenkel kann mit Nummer 59 neu gebaut werden. Vom Prüfer ohne Einwand: Punkt 1 (Wochen bis Silvester), 3 (jemandem nacheifern), 4 Krampf vorn (Ehrenamt bei Wind und Wetter), 5 (etwas ganz Neues lernen), 6 (älteres Haustier). Punkt 2 braucht eine neue Deutung ohne Hobby, Leidenschaft, Rückzug oder Treffen. Nicht am selben Tag wie 58 laufen lassen (läuft ohnehin später).
+
+## Lauf 29.10.2026 abends (für 30.10.2026)
+* Publer war in diesem Lauf nicht verfügbar (die Publer Verbindung war in der Sitzung nicht geladen, keine Publer Werkzeuge). Deshalb kein Bestand geprüft und nichts eingeplant. Nach Auftrag die freigegebenen Videos nach vorrat/ gelegt, damit der nächste Lauf sie einplant.
+* Vorrat vorher leer, deshalb drei Videos neu gebaut: 61 Was deine Hände über dich verraten (B, als Spiel nach dem Handlesen gekennzeichnet) für 12:00, 59 Oberschenkel (A, neu aufgebaut) für 15:30, 62 Redewendungen Teil 3 (B) für 19:00. Keine Lehre und kein Autor genannt, keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1: drei Runden, Technik, Stil und Aufbau immer bestanden. Runde 1: keines freigegeben. 61 Warme Hände (gastfreundlich wie 60) und Morgenmensch (Spiegel zu 60 Nachtmensch). 59 „Brennen beim Bergaufgehen“ als Leitzeichen der Schaufensterkrankheit abgelehnt, dazu Doppelungen (Neues lernen wie 56, Erholung wie 12, 16, 23, 38). 62 „Herz am rechten Fleck tragen“ keine gängige Form. Runde 2: 62 freigegeben, 61 fremde Sprachen (wie 56), 59 Verantwortung (wie 40). Runde 3: 59 und 61 freigegeben.
+* Im Vorrat: 61 (für 12:00), 59 (für 15:30), 62 (für 19:00). Prüfung 2 entfällt, weil nichts eingeplant wurde.
+* Videoordner 2026-10-14 gelöscht.
+* Offen: Publer Verbindung prüfen. Der nächste Lauf plant zuerst die drei Vorratsvideos ein (für den 30.10. nur noch freie Plätze, die mindestens 30 Minuten in der Zukunft liegen, sonst für den nächsten Tag; 61 nicht direkt nach 60 Gesicht). Nächste Brücke um den 03.11. Montag 02.11. Wochenauswertung.
