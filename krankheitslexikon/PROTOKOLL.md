@@ -9,14 +9,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Aufrufe laut Instagram am 09.10.: 05 Schlaf rund 224.000, 06 Verhalten rund 78.000, 09 Krankheit sagen will rund 58.000, 01 Finger rund 30.000, 02 Stress rund 18.500, 07 Haut rund 17.000, 08 Füße rund 16.000, 04 Nie Nein rund 9.000, 03 Rücken rund 7.000. Der alte Stil läuft klar besser, am besten der Aufbau B „Zwei Spalten“.
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
-## Lauf 16.10.2026 abends (für 17.10.2026)
-* Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut.
-* Eingeplant: 31 Lachen (B Zwei Spalten) 12:00 Uhr, 32 Vergesslichkeit (A Papier) 15:30 Uhr, 33 Händedruck (B Zwei Spalten) 19:00 Uhr. Keine Lehre und kein Autor genannt, keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
-* Qualitätsmanager Prüfung 1: eine Runde, alle drei in a bis i bestanden und freigegeben, keine Fehler. Technik, erstes Bild und Standbild vom Prüfer selbst nachgemessen. Punkt 3 bei 32 beruht auf dem Türschwellen Effekt (Radvansky und andere, 2011).
-* Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00), mit Filter „reel“ gelistet, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
-* Hinweis des Prüfers für später: Seit Video 22 viele Körpersprache Themen (Blick, Gesten, Sitzhaltung, Umarmung, Lachen, Händedruck). Wieder öfter Körperteil und Beschwerde Themen nehmen und die Titelform „Was dein … über dich verrät“ abwechseln.
-* Offen: nichts. Vorrat leer, der nächste Lauf baut wieder drei neu. Nächste Brücke um den 20.10. Ab Sonntag 25.10. gilt Winterzeit (+02:00). Workspace in Publer heißt „AMATUSKA Pages“.
-
 ## Lauf 18.10.2026 abends (für 19.10.2026)
 * Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut. Auffällig: Für den 18.10. gab es keinen Lauf und keine Reels (kein Commit vom 17.10., in Publer nichts für den 18.10.).
 * Eingeplant: 34 Körperpflege (B Zwei Spalten) 12:00 Uhr, 35 Falten (A Papier) 15:30 Uhr, 36 Grenzen Sätze (B Zwei Spalten, Brücke zum Coaching Thema, Aufruf mit „Grenze“) 19:00 Uhr. Keine Lehre und kein Autor genannt. 35 beruht auf mimischen Falten (Stirnmuskel, Augenbrauenrunzler, Ringmuskel ums Auge, Naserümpfen, Kinnmuskel). ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
@@ -118,3 +110,10 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Im Vorrat: 61 (für 12:00), 59 (für 15:30), 62 (für 19:00). Prüfung 2 entfällt, weil nichts eingeplant wurde.
 * Videoordner 2026-10-14 gelöscht.
 * Offen: Publer Verbindung prüfen. Der nächste Lauf plant zuerst die drei Vorratsvideos ein (für den 30.10. nur noch freie Plätze, die mindestens 30 Minuten in der Zukunft liegen, sonst für den nächsten Tag; 61 nicht direkt nach 60 Gesicht). Nächste Brücke um den 03.11. Montag 02.11. Wochenauswertung.
+
+## Lauf 30.10.2026 abends (für 31.10.2026)
+* Publer wieder verfügbar. Bestand: für heute (30.10.) kein Reel dieses Kontos geplant oder veröffentlicht, alle drei Plätze lagen beim Lauf schon zurück (Lauf um 20:00 Uhr Zypernzeit). Für morgen alle drei Plätze frei.
+* Aus dem Vorrat eingeplant (schon freigegeben, Titelbilder und Beschreibungen kurz angesehen, ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, unter 1 MB): 61 Was deine Hände über dich verraten (B) 12:00 Uhr, 59 Oberschenkel (A) 15:30 Uhr, 62 Redewendungen Teil 3 (B) 19:00 Uhr (+02:00). Nichts neu gebaut, deshalb keine Prüfung 1 nötig.
+* Prüfung 2: drei Reels auf dem richtigen Konto am 31.10. um 12:00, 15:30 und 19:00 Uhr (+02:00), mit Filter „reel“ gelistet, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Videoordner 2026-10-15 gelöscht.
+* Offen: Vorrat jetzt leer, der nächste Lauf baut wieder drei neu. Am 30.10. lief kein Reel. Nächste Brücke um den 03.11. Montag 02.11. Wochenauswertung.
