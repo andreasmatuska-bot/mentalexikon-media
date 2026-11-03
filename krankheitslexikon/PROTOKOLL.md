@@ -9,28 +9,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Aufrufe laut Instagram am 09.10.: 05 Schlaf rund 224.000, 06 Verhalten rund 78.000, 09 Krankheit sagen will rund 58.000, 01 Finger rund 30.000, 02 Stress rund 18.500, 07 Haut rund 17.000, 08 Füße rund 16.000, 04 Nie Nein rund 9.000, 03 Rücken rund 7.000. Der alte Stil läuft klar besser, am besten der Aufbau B „Zwei Spalten“.
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
-## Lauf 20.10.2026 abends (für 21.10.2026)
-* Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut.
-* Eingeplant: 40 Was dir deine Krankheit sagen will, Reihe Teil 2 (B Zwei Spalten, 14 neue Beschwerden) 12:00 Uhr, 41 Atmung (A Papier) 15:30 Uhr, 42 Redewendungen über Gefühle (B Zwei Spalten) 19:00 Uhr. Keine Lehre und kein Autor genannt, keine Brücke. Themenwahl nach der Wochenauswertung vom 19.10. (Beschwerdeliste mit dem Reihentitel, keine Körpersprache). ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
-* Qualitätsmanager Prüfung 1: zwei Runden. Runde 1: keines freigegeben. 40: Ohrenschmerzen und Muskelzerrung fast gleich mit 17 und 18 (ersetzt). 41: „über zwanzigtausend Mal“ in „rund zwanzigtausend Mal“ geändert (nur Beschreibung). 42: Titel „über deinen Körper“ passte nicht zum Inhalt (jetzt „über deine Gefühle“), Laus Wendung ins Perfekt, Bedeutung „Angst im Nacken“ berichtigt, zwei Deutungen nah an 05, 10 und 11 ersetzt („Zähne zusammenbeißen“ durch „warm ums Herz“), alle Wendungen in Ich Form. Runde 2: alle drei in a bis i bestanden und freigegeben. Reihentitel bei 40 vom Prüfer nicht als Doppelung gewertet.
-* Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00), mit Filter „reel“ gelistet, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
-* Offen: nichts. Vorrat leer, der nächste Lauf baut wieder drei neu. Nächste Brücke um den 26.10. Ab Sonntag 25.10. gilt Winterzeit (+02:00).
-
-## Lauf 21.10.2026 abends (für 22.10.2026)
-* Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut.
-* Eingeplant: 43 Pickel nach Stelle (B Zwei Spalten) 12:00 Uhr, 44 Nacken (A Papier) 15:30 Uhr, 45 Sport (B Zwei Spalten) 19:00 Uhr. Keine Lehre und kein Autor genannt, keine Brücke. 43 lehnt sich lose an die verbreitete Face Mapping Idee an, deutet aber nur seelisch und nennt im Hinweis Hormone, Pflege und Reibung. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,3 LUFS, unter 1 MB.
-* Qualitätsmanager Prüfung 1: zwei Runden. Runde 1: keines freigegeben, je eine fast gleiche Deutung. 43: „Nasenflügel“ wie 39 („Kleinigkeiten reizen“), dazu Einstieg widersprüchlich (ersetzt, außerdem „Um den Mund“ neu). 44: Punkt 3 wie 12 und 20 („nicht hinschauen“), Punkt 4 nah an 43 (beides ersetzt). 45: „Nur allein trainieren“ wie 21 („allein auftanken“), dazu Tanzen und Einstieg („Gewohnheiten“ statt „Vorlieben“) geändert. Runde 2: alle drei in a bis i bestanden und freigegeben.
-* Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00), mit Filter „reel“ gelistet, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
-* Offen: nichts. Vorrat leer, der nächste Lauf baut wieder drei neu. Nächste Brücke um den 26.10. Ab Sonntag 25.10. gilt Winterzeit (+02:00). Montag 26.10. Wochenauswertung.
-
-## Lauf 22.10.2026 abends (für 23.10.2026)
-* Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut. Workspace in Publer heißt weiter „AMATUSKA Pages“.
-* Eingeplant: 46 Was dir deine Krankheit sagen will, Reihe Teil 3 (B Zwei Spalten, 13 Beschwerden) 12:00 Uhr, 47 Hüfte (A Papier) 15:30 Uhr, 48 Tränen (B Zwei Spalten) 19:00 Uhr. Keine Lehre und kein Autor genannt, keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
-* Qualitätsmanager Prüfung 1: drei Runden. Runde 1: keines freigegeben. 46 vier Deutungen doppelt (Bindehaut wie 40 Gerstenkorn, Mundgeruch wie 43, Nebenhöhle wie 20, Sonnenbrand wie 21). 47 vier von sechs Deutungen doppelt (08, 18, 23, 40). Erstes 48 „Wetter“ abgelehnt (halb ohne Körperbezug, viele Doppelungen), Thema ersetzt durch Tränen. Runde 2: 46 Zehennagel wie 23 (Perfektionismus), 47 Punkt 1 wie 05 und Punkt 3 und 5 untereinander gleich, 48 fünf Deutungen doppelt (41, 05, 25, 34, 43). Runde 3: alle drei in a bis i bestanden und freigegeben.
-* Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+03:00), mit Filter „reel“ gelistet, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
-* Hinweis für später: Die Deutungen werden knapp. Vor dem Bau neue Sätze mit noch freien Gefühlsfeldern schreiben (bisher kaum belegt waren Geld, Geheimnis, Wohnort, Stolz, Neid, Eifersucht, Scham, Reue). Die vom Prüfer genannten belegten Aussagen stehen jetzt in THEMEN.md.
-* Offen: nichts. Vorrat leer, der nächste Lauf baut wieder drei neu. Nächste Brücke um den 26.10. Ab Sonntag 25.10. gilt Winterzeit (+02:00). Montag 26.10. Wochenauswertung.
-
 ## Lauf 23.10.2026 abends (für 24.10.2026)
 * Bestand in Publer für morgen: alle drei Plätze frei. Vorrat leer, deshalb alle drei Videos neu gebaut. Workspace in Publer heißt weiter „AMATUSKA Pages“.
 * Eingeplant: 49 Zehen (B Zwei Spalten, angelehnt an das verbreitete Zehenlesen, als Spiel ohne Gesundheitsaussage gekennzeichnet) 12:00 Uhr, 50 Knie (A Papier) 15:30 Uhr, 51 Frisur (B Zwei Spalten) 19:00 Uhr. Keine Lehre und kein Autor genannt, keine Brücke. Deutungen bewusst aus noch freien Feldern (Charakterzüge, Eltern, Jugendtraum, Würde, Enttäuschung). ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
@@ -136,3 +114,12 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
   * Schlafgewohnheiten (B), elf Begriffe ohne Einwand: Nur mit Licht schlafen, Immer dieselbe Bettseite (Platz gefunden, dort zu Hause), Socken im Bett (kuschelig, bevor du abschalten kannst), Fenster nachts offen (klar und frisch, auch im Kopf), Beste Ideen vor dem Einschlafen, Decke klauen, Bett sofort machen, Wecker ins andere Zimmer, Kissen auf die kühle Seite (neue Deutung nötig, nicht „kleines Extra“), Haare zusammenbinden (neue Deutung, nicht vorausplanen), Vor dem Schlafen lesen. Nicht verwenden: Vor dem Wecker wach (wie 05, Depressions Leitsymptom), Frisch bezogenes Bett mit „kleine Freuden“.
   * Schlaf und Essen nicht am selben Tag mit ähnlichen Genussdeutungen.
 * Offen: 02.11. und 03.11. ohne Reel. Neue Deutungen sind fast erschöpft; vor jedem Neubau gegen alle Inhalte in engine/inhalte abgleichen. 66 ab 04.11. einplanen. Nächste Brücke um den 08.11.
+
+## Lauf 03.11.2026 abends (für 04.11.2026)
+* Bestand in Publer: heute (03.11.) kein Reel, alle Plätze beim Lauf schon vorbei (20:00 Uhr Zypernzeit). Für morgen alle drei Plätze frei.
+* Aus dem Vorrat: 66 Redewendungen Teil 5 (B). Neu gebaut aus den vom Prüfer am 01.11. und 02.11. bestätigten Begriffen: 67 Schlafgewohnheiten (B, 13 Begriffe, neu nur „Mehrere Wecker stellen“) und 68 Essen (B, 14 Begriffe, drei neu). ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 300 KB.
+* Qualitätsmanager Prüfung 1, zwei Runden: Runde 1 67 freigegeben, 68 abgelehnt unter f („Den Teller ganz leer essen“ als Aufessmuster). Runde 2: Punkt 14 ersetzt durch „Reste aufheben statt wegwerfen“, Stäbchen ohne „auch wenn es dauert“, 68 freigegeben. Tagesplan mit dreimal Aufbau B vom Prüfer als vertretbar bewertet (A läuft kaum, Zonen ausgeschöpft).
+* Eingeplant: 67 um 12:00, 66 um 15:30, 68 um 19:00 Uhr (+02:00).
+* Prüfung 2: genau drei Reels auf dem richtigen Konto am 04.11. um 12:00, 15:30 und 19:00 Uhr, mit Filter „reel“ gelistet, jede Beschreibung steht beim Post und stimmt mit der Datei überein. Keine Abweichung.
+* Videoordner 2026-10-19 gelöscht.
+* Offen: Vorrat leer. Nächste Brücke um den 08.11. Erfolgsweg: Begriffe aus früheren Runden ohne Einwand wiederverwenden und nur wenige neue ergänzen.
