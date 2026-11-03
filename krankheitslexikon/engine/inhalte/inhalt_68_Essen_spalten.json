@@ -1,0 +1,23 @@
+{
+ "name": "Krankheitslexikon_68_Essen",
+ "aufbau": "spalten",
+ "abstand": 16,
+ "schrift": 28,
+ "titel": "Was deine Art zu essen über dich verrät",
+ "punkte": [
+  ["Das Beste zuerst essen", "Du nimmst das Gute mit, solange es da ist."],
+  ["Zuerst das Gemüse essen", "Du erledigst das Vernünftige gern zuerst."],
+  ["Vom Teller der anderen probieren", "Du bist neugierig, wie die Welt für andere schmeckt."],
+  ["Nachwürzen vor dem Probieren", "Du vertraust deiner Erfahrung mehr als dem ersten Eindruck."],
+  ["Mit den Händen essen", "Du nimmst die Dinge gern unkompliziert und direkt."],
+  ["Krümel zusammenschieben", "Deine Hände brauchen etwas zu tun, während du zuhörst."],
+  ["Den Teller drehen, bis er passt", "Du suchst erst den richtigen Blickwinkel, bevor du loslegst."],
+  ["Nach dem Rezept fragen", "Du willst Gutes weitergeben können."],
+  ["Gericht nach dem Namen aussuchen", "Schöne Worte verführen dich leicht."],
+  ["Nach einer Empfehlung fragen", "Du vertraust dem Rat von Kennern."],
+  ["Den Tisch schön decken, auch allein", "Du behandelst dich wie einen lieben Gast."],
+  ["Beim Essen das Handy weglegen", "Die Menschen am Tisch haben deine volle Aufmerksamkeit."],
+  ["Mit Stäbchen essen", "Kleine Herausforderungen machen dir Spaß."],
+  ["Reste aufheben statt wegwerfen", "Du hast Respekt vor der Arbeit, die in einem Essen steckt."]
+ ]
+}

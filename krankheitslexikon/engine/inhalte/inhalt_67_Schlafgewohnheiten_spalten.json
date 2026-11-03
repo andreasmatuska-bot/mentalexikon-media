@@ -1,0 +1,22 @@
+{
+ "name": "Krankheitslexikon_67_Schlafgewohnheiten",
+ "aufbau": "spalten",
+ "abstand": 16,
+ "schrift": 28,
+ "titel": "Was deine Schlafgewohnheiten über dich verraten",
+ "punkte": [
+  ["Nur mit Licht schlafen", "Ein Teil von dir fühlt sich im Dunkeln noch wie ein Kind."],
+  ["Immer dieselbe Bettseite", "Du hast deinen Platz gefunden und fühlst dich dort zu Hause."],
+  ["Socken im Bett", "Erst wenn es kuschelig ist, kannst du abschalten."],
+  ["Fenster nachts offen", "Du magst es klar und frisch, auch im Kopf."],
+  ["Beste Ideen kurz vor dem Einschlafen", "Deine Kreativität kommt im Alltag zu kurz."],
+  ["Im Schlaf die Decke klauen", "Du holst dir, was du brauchst."],
+  ["Morgens sofort das Bett machen", "Du beginnst den Tag mit einem kleinen Erfolg."],
+  ["Wecker ins andere Zimmer stellen", "Du kennst deine Schwächen und überlistest sie."],
+  ["Wecker auf krumme Minuten", "Du hast deine eigenen kleinen Regeln."],
+  ["Mehrere Wecker stellen", "Du hast für alles gern einen Plan B."],
+  ["Abends noch „Gute Nacht“ schreiben", "Ein lieber Mensch soll wissen, dass du an ihn denkst."],
+  ["Tagebuch vor dem Schlafen", "Du willst verstehen, was dich bewegt."],
+  ["Mit dem Gesicht zum Fenster schlafen", "Du schaust lieber nach vorn als zurück."]
+ ]
+}
