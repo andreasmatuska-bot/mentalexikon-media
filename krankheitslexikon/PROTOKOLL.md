@@ -123,3 +123,14 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Prüfung 2: genau drei Reels auf dem richtigen Konto am 04.11. um 12:00, 15:30 und 19:00 Uhr, mit Filter „reel“ gelistet, jede Beschreibung steht beim Post und stimmt mit der Datei überein. Keine Abweichung.
 * Videoordner 2026-10-19 gelöscht.
 * Offen: Vorrat leer. Nächste Brücke um den 08.11. Erfolgsweg: Begriffe aus früheren Runden ohne Einwand wiederverwenden und nur wenige neue ergänzen.
+
+## Lauf 04.11.2026 abends (für 05.11.2026)
+* Bestand in Publer: heute (04.11.) alle drei Reels veröffentlicht (67, 66, 68). Für morgen alle drei Plätze frei. Vorrat leer, deshalb drei neu gebaut, alle B nach der Wochenauswertung: 69 Kleidung, 70 Handschrift (Spiel nach populärer Graphologie), 71 Warten. ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 300 KB.
+* Qualitätsmanager Prüfung 1, drei Runden, Technik, Stil und Beschreibung immer bestanden, abgelehnt nur wegen Doppelungen (g) und einmal Leitzeichen (f):
+  * Runde 1 (je 14 Begriffe): alle drei abgelehnt. 69 fünf Doppelungen (Treue, Schutz, Abstand, bunte Hingucker, eingeengt), 70 acht Doppelungen (Grunddeutungen der Graphologie durch 24, 28, 33, 49, 60 verbraucht), 71 sechs Doppelungen (Tatendrang, Bewegung, Rückzugsort, Begegnung, lieben Menschen Zeit schenken).
+  * Runde 2 (je 12): 69 nur noch „Jeden Tag dasselbe“ wie 51; 70 „Schrift wird am Zeilenende kleiner“ = Mikrographie (Parkinson Leitzeichen) plus drei Doppelungen; 71 inneres Kind (31) und Ungeduld (27).
+  * Runde 3 (je 11): 69 und 71 freigegeben. 70 abgelehnt (großes Ich = Selbstbewusstsein 28, 33; Girlande = Anpassung 22, 33; enge Schrift = kühler Kopf 60).
+* Eingeplant: 69 um 12:00, 71 um 19:00 Uhr (+02:00). 15:30 Uhr am 05.11. bleibt FREI. 70 nicht eingecheckt.
+* Prüfung 2: genau zwei Reels dieses Kontos am 05.11. um 12:00 und 19:00 Uhr, mit Filter „reel“ gelistet, richtige Videos, Beschreibung steht beim Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Videoordner 2026-10-20 gelöscht.
+* Offen: Vorrat leer. 70 Handschrift braucht drei neue Merkmale (acht ohne Einwand, siehe THEMEN.md). Nächste Brücke um den 08.11. Der Deutungsvorrat ist so erschöpft, dass inzwischen nur 11 Begriffe je Video durchgehen; neue Themen am besten aus noch freien Feldern wählen und vor dem Bau jede Deutung per grep prüfen.
