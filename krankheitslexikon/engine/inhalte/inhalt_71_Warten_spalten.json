@@ -1,0 +1,53 @@
+{
+ "name": "Krankheitslexikon_71_Warten",
+ "aufbau": "spalten",
+ "abstand": 20,
+ "schrift": 29,
+ "titel": "Was dein Verhalten beim Warten über dich verrät",
+ "punkte": [
+  [
+   "Ständig auf die Uhr schauen",
+   "Du willst genau wissen, woran du bist."
+  ],
+  [
+   "Sofort zum Handy greifen",
+   "Leere Momente sind dir unangenehm."
+  ],
+  [
+   "Leute beobachten",
+   "Du lernst viel, indem du anderen zuschaust."
+  ],
+  [
+   "Einfach still dasitzen",
+   "Du kannst Stille gut aushalten."
+  ],
+  [
+   "Immer viel zu früh da sein",
+   "Du willst nie jemanden warten lassen."
+  ],
+  [
+   "Die Schlange wechseln",
+   "Eine falsche Wahl ärgert dich mehr als das Warten."
+  ],
+  [
+   "Zeitschriften im Wartezimmer durchblättern",
+   "Du lässt dich gern von Zufällen überraschen."
+  ],
+  [
+   "Beim Arzt deine Fragen aufschreiben",
+   "Du nimmst deine eigenen Anliegen ernst."
+  ],
+  [
+   "Nachrichten beantworten, während du wartest",
+   "Unerledigtes lässt dir keine Ruhe."
+  ],
+  [
+   "Leise Selbstgespräche führen",
+   "Du bist dir selbst ein guter Gesprächspartner."
+  ],
+  [
+   "Nach zehn Minuten wieder gehen",
+   "Deine Zeit ist dir zu kostbar, um sie zu verschenken."
+  ]
+ ]
+}

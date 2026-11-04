@@ -1,0 +1,53 @@
+{
+ "name": "Krankheitslexikon_69_Kleidung",
+ "aufbau": "spalten",
+ "abstand": 20,
+ "schrift": 29,
+ "titel": "Was deine Kleidung über dich verrät",
+ "punkte": [
+  [
+   "Am liebsten Schwarz tragen",
+   "Du magst es schlicht und lässt lieber dich selbst wirken."
+  ],
+  [
+   "Kräftige Farben tragen",
+   "Deine Stimmung soll man schon von Weitem sehen."
+  ],
+  [
+   "Lange vor dem Kleiderschrank stehen",
+   "Du fragst dich oft, wer du heute sein willst."
+  ],
+  [
+   "Lieber bequem als schick",
+   "Du richtest dich nach dir und nicht nach dem Anlass."
+  ],
+  [
+   "Immer ein bisschen zu schick",
+   "Du zeigst gern, dass dir ein Treffen etwas bedeutet."
+  ],
+  [
+   "Für wichtige Termine dein stärkstes Outfit",
+   "Du weißt, wie du dir selbst Mut machst."
+  ],
+  [
+   "Den Pulli eines lieben Menschen tragen",
+   "Du trägst seine Nähe gern mit dir herum."
+  ],
+  [
+   "Neue Sachen lange im Schrank lassen",
+   "Das Schöne hebst du dir für besondere Tage auf."
+  ],
+  [
+   "Löcher in der Jeans",
+   "Ein kleiner Rebell steckt noch immer in dir."
+  ],
+  [
+   "Immer eine Jacke zu dünn",
+   "Du unterschätzt gern, was ein Tag von dir verlangt."
+  ],
+  [
+   "Am liebsten gebrauchte Kleidung",
+   "Du magst Dinge, die schon eine Geschichte haben."
+  ]
+ ]
+}
