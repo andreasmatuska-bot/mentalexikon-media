@@ -1,0 +1,49 @@
+{
+ "name": "Krankheitslexikon_70_Handschrift",
+ "aufbau": "spalten",
+ "abstand": 20,
+ "schrift": 29,
+ "titel": "Was deine Handschrift über dich verrät",
+ "punkte": [
+  [
+   "Leichter Druck beim Schreiben",
+   "Du gehst behutsam mit Menschen und Dingen um."
+  ],
+  [
+   "Spitze, eckige Buchstaben",
+   "Du hast klare Ansichten und einen wachen Verstand."
+  ],
+  [
+   "Unterschrift unterstrichen",
+   "Du möchtest, dass man sich deinen Namen merkt."
+  ],
+  [
+   "Nur mit dem Vornamen unterschreiben",
+   "Du zeigst dich lieber als Mensch, nicht in einer Rolle."
+  ],
+  [
+   "Hohe Bögen wie bei einem n",
+   "Gute Umgangsformen sind dir wichtig."
+  ],
+  [
+   "Alle Buchstaben verbunden",
+   "Du denkst gern Schritt für Schritt."
+  ],
+  [
+   "Buchstaben einzeln gesetzt",
+   "Deine Einfälle kommen oft wie aus dem Nichts."
+  ],
+  [
+   "Kreis statt Punkt auf dem i",
+   "Du gibst allem gern eine persönliche Note."
+  ],
+  [
+   "Hohe Oberlängen wie bei l und h",
+   "Du hast hohe Ideale."
+  ],
+  [
+   "Runde, weiche Buchstaben",
+   "Ein harmonisches Miteinander ist dir wichtig."
+  ]
+ ]
+}
