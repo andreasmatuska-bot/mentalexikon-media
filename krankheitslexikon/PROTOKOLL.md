@@ -9,13 +9,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Aufrufe laut Instagram am 09.10.: 05 Schlaf rund 224.000, 06 Verhalten rund 78.000, 09 Krankheit sagen will rund 58.000, 01 Finger rund 30.000, 02 Stress rund 18.500, 07 Haut rund 17.000, 08 Füße rund 16.000, 04 Nie Nein rund 9.000, 03 Rücken rund 7.000. Der alte Stil läuft klar besser, am besten der Aufbau B „Zwei Spalten“.
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
-## Lauf 24.10.2026 abends (für 25.10.2026)
-* Publer war in diesem Lauf nicht verfügbar (die Publer Verbindung war in der Sitzung nicht geladen, keine Publer Werkzeuge). Deshalb kein Bestand geprüft und nichts eingeplant. Nach Auftrag die freigegebenen Videos nach vorrat/ gelegt, damit der nächste Lauf sie einplant.
-* Vorrat vorher leer, deshalb drei Videos neu gebaut: 52 Was dir deine Krankheit sagen will, Teil 4 (A Papier), 53 So setzt du Grenzen, ohne laut zu werden (Brücke, B Zwei Spalten, Aufruf mit „Nein“), 54 Schultern (A Papier). Keine Lehre und kein Autor genannt. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
-* Qualitätsmanager Prüfung 1: drei Runden. Runde 1: keines freigegeben, nur Punkt g (Doppelungen). 52 fünf Deutungen doppelt (Scham 07 und 28, Geld 47, Geheimnis 47, Abstand 10 und 17, Neid 46), 53 zu nah an 36 (Punkt 3, 5, 13, Titel), 54 alle Deutungen nah an 47, 46, 23, 44, 20, 16. Runde 2: 53 freigegeben (neuer Titel, vier Sätze ersetzt). 52 Kindheit (wie 50) und Gutes verdienen (wie 11, 37), 54 Sinnfrage (wie 38) und mit dem Schlimmsten rechnen (wie 41). Runde 3: 52 freigegeben. 54 nicht freigegeben, Punkt 5 „machtlos“ fast wörtlich wie 23. 54 deshalb nicht eingecheckt.
-* Im Vorrat: 52 und 53 (freigegeben, für 12:00 und 15:30 Uhr gedacht). Am 25.10. gilt Winterzeit (+02:00).
-* Offen: Publer Verbindung prüfen. Der nächste Lauf plant zuerst 52 und 53 ein und baut ein drittes Video. Schultern kann neu gebaut werden (Punkt 1 bis 4 und 6 waren in Runde 3 in Ordnung: Einsamkeit unter Menschen, eigene Erfolge nicht feiern, Älterwerden, ein naher Mensch will in eine andere Richtung, Fürsorge für die Eltern; Punkt 5 ganz neu, ohne Machtlosigkeit, Mitgefühl oder das Schlimmste erwarten). Montag 26.10. Wochenauswertung.
-
 ## Lauf 25.10.2026 abends (für 26.10.2026)
 * Publer war wieder nicht verfügbar (Verbindung im Konto vorhanden, aber in der Sitzung nicht geladen, keine Publer Werkzeuge). Kein Bestand geprüft, nichts eingeplant. Für den 25.10. ist deshalb vermutlich nichts gelaufen.
 * Vorrat vorher: 52 und 53. Neu gebaut: 54 Schultern (A Papier), gedacht für 26.10. 19:00 Uhr, damit der Vorrat einen ganzen Tag füllt (52 A 12:00, 53 B 15:30, 54 A 19:00). Keine Lehre und kein Autor genannt. Hinweis mit Notruf 112 bei Schulter oder Armschmerz mit Brustdruck. ffprobe 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,3 LUFS, unter 1 MB.
@@ -138,3 +131,14 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Prüfung 2: genau drei Reels dieses Kontos am 06.11. um 12:00, 15:30 und 19:00 Uhr, mit Filter „reel“ gelistet, richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
 * Videoordner 2026-10-21 gelöscht.
 * Offen: Vorrat leer. Brücke fällig. Bewährt: Redewendungen (Wörterbuchbedeutung) und bereits bestätigte Deutungen wiederverwenden; jede neue Deutung vorher gegen alle Inhalte in engine/inhalte greppen.
+
+## Lauf 06.11.2026 abends (für 07.11.2026)
+* Bestand in Publer: heute (06.11.) alle Plätze beim Lauf vorbei (20:00 Uhr Zypernzeit), für morgen kein Reel dieses Kontos geplant. Vorrat leer, deshalb drei neu gebaut: 74 Sprichwörter (B, neue Reihe), 75 Nase (A), 76 Woran du merkst, dass jemand deine Grenzen nicht achtet (B, Brücke, Aufruf „Grenze“). ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1, drei Runden, Technik und Stil immer bestanden:
+  * Runde 1: alle drei abgelehnt. 74 drei Doppelungen (Eigenlob wie 62, viele Hände wie 73, nicht heiß ohne Körperbezug). 75 zwei Leitzeichen (einseitig verstopfte Nase, laufende Nase beim Essen), Erkältungsnähe (17), Namen und Kind doppelt im Video. 76 nur 10 Begriffe, unlogischer Hinweissatz, vier Doppelungen (55, 53, 36).
+  * Runde 2: 76 FREIGEGEBEN (13 Begriffe). 74 „Hunger ist der beste Koch“ und „Wes das Herz voll ist“ doppelt (73, 65). 75 Druck an der Nasenwurzel (Nebenhöhlen), zwei Nasengesten, Deutung nah an Notlügen.
+  * Runde 3: 74 und 75 FREIGEGEBEN.
+* Eingeplant: 74 um 12:00, 75 um 15:30, 76 um 19:00 Uhr (+02:00), raw Adressen mit Status 200.
+* Prüfung 2: genau drei Reels dieses Kontos am 07.11. um 12:00, 15:30 und 19:00 Uhr, mit Filter „reel“ gelistet, richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Videoordner 2026-10-22 gelöscht.
+* Offen: Vorrat leer. Montag 09.11. Wochenauswertung. Neue Reihe Sprichwörter kann fortgesetzt werden, Redewendungen Teil 7 ist möglich (Kandidaten in THEMEN.md).
