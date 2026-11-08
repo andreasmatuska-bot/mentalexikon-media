@@ -9,13 +9,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Aufrufe laut Instagram am 09.10.: 05 Schlaf rund 224.000, 06 Verhalten rund 78.000, 09 Krankheit sagen will rund 58.000, 01 Finger rund 30.000, 02 Stress rund 18.500, 07 Haut rund 17.000, 08 Füße rund 16.000, 04 Nie Nein rund 9.000, 03 Rücken rund 7.000. Der alte Stil läuft klar besser, am besten der Aufbau B „Zwei Spalten“.
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
-## Lauf 25.10.2026 abends (für 26.10.2026)
-* Publer war wieder nicht verfügbar (Verbindung im Konto vorhanden, aber in der Sitzung nicht geladen, keine Publer Werkzeuge). Kein Bestand geprüft, nichts eingeplant. Für den 25.10. ist deshalb vermutlich nichts gelaufen.
-* Vorrat vorher: 52 und 53. Neu gebaut: 54 Schultern (A Papier), gedacht für 26.10. 19:00 Uhr, damit der Vorrat einen ganzen Tag füllt (52 A 12:00, 53 B 15:30, 54 A 19:00). Keine Lehre und kein Autor genannt. Hinweis mit Notruf 112 bei Schulter oder Armschmerz mit Brustdruck. ffprobe 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,3 LUFS, unter 1 MB.
-* Qualitätsmanager Prüfung 1: drei Runden. Runde 1: nur g nicht bestanden, Punkt 5 Reue wie 46 und 20, Punkt 3 Älterwerden wie 48 (Reservierung war falsch), Punkt 4 zu nah an 52 und wie 23 („Loslassen“), Punkt 1 zweiter Satz wie 24. Alle ersetzt. Runde 2: Punkt 1 „wie es dir wirklich geht“ wie 36, ersetzt. Runde 3: alle Punkte a bis i bestanden, freigegeben.
-* Videoordner 2026-10-10 gelöscht (älter als 14 Tage).
-* Im Vorrat: 52, 53, 54 (alle freigegeben). Offen: Publer Verbindung in den Einstellungen prüfen. Der nächste Lauf plant zuerst den Vorrat ein. Montag 26.10. Wochenauswertung.
-
 ## Lauf 26.10.2026 abends (für 27.10.2026)
 * Publer wieder verfügbar. Bestand für morgen: alle drei Plätze frei. Nichts neu gebaut, alle drei aus dem Vorrat: 52 Was dir deine Krankheit sagen will, Teil 4 (A Papier) 12:00 Uhr, 53 So setzt du Grenzen, ohne laut zu werden (B Zwei Spalten, Brücke, Aufruf mit „Nein“) 15:30 Uhr, 54 Schultern (A Papier) 19:00 Uhr, jeweils +02:00 (Winterzeit). Aufbauten abwechselnd A, B, A.
 * Qualitätsmanager Prüfung 1 entfällt (Vorrat schon freigegeben). Kurzer Blick auf Titelbilder und Beschreibungen: alles lesbar, Wasserzeichen da, ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, unter 1 MB. raw Adressen mit Status 200.
@@ -142,3 +135,15 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Prüfung 2: genau drei Reels dieses Kontos am 07.11. um 12:00, 15:30 und 19:00 Uhr, mit Filter „reel“ gelistet, richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
 * Videoordner 2026-10-22 gelöscht.
 * Offen: Vorrat leer. Montag 09.11. Wochenauswertung. Neue Reihe Sprichwörter kann fortgesetzt werden, Redewendungen Teil 7 ist möglich (Kandidaten in THEMEN.md).
+
+## Lauf 08.11.2026 abends (für 09.11.2026)
+* Bestand in Publer: für morgen kein Reel dieses Kontos geplant. Heute (08.11.) war kein Beitrag dieses Kontos eingeplant (am 07.11. lief kein Lauf), alle Plätze waren beim Lauf vorbei (20:00 Uhr Zypernzeit). Vorrat leer, deshalb neu gebaut: 77 Redewendungen Teil 7 (B), 78 Lippen (A), dazu für 19:00 erst Nachrichten (B), dann Sprichwörter Teil 2 (B). ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1, drei Runden, Technik und Stil immer bestanden, abgelehnt nur wegen g (und einmal e):
+  * Runde 1: alle drei abgelehnt. 77 drei Deutungen belegt (Ellenbogen 38, Fersen als Spiegel 62, Mund verbrannt 66), 78 fünf Deutungen belegt, 79 Nachrichten fast komplett belegt.
+  * Runde 2: 77 nur „Auf Augenhöhe“ (76, 53). 78 Enttäuschung, Vorausplanen und doppeltes Lernen. 79 Sprichwörter Teil 2 abgelehnt (kaum Körperbezug, zweite Sprachreihe am selben Tag, vier Doppelungen).
+  * Runde 3: 77 (11 Wendungen) und 78 FREIGEGEBEN. 79 nicht mehr eingereicht.
+* Eingeplant: 77 um 12:00, 78 um 15:30 Uhr (+02:00), raw Adressen mit Status 200. 19:00 Uhr am 09.11. bleibt FREI.
+* Prüfung 2: genau zwei Reels dieses Kontos am 09.11. um 12:00 und 15:30 Uhr, mit Filter „reel“ gelistet, richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Videoordner 2026-10-23 und 2026-10-24 gelöscht.
+* Zahlen der letzten 14 Tage (Vorgriff auf die Montagsauswertung): am meisten Reichweite hatten B Themen zum Alltag und zum Körper (69 Kleidung rund 74.000, 55 Krankheit Teil 5 rund 58.000, 60 Gesicht rund 51.000). Die Brücke 53 hatte die höchste Interaktion (304 Speicherungen).
+* Offen: Vorrat leer. Deutungsvorrat fast erschöpft; für 19:00 Uhr fand sich kein Thema, das in drei Runden besteht. Nächster Lauf: früh ein B Thema mit Körperbezug aus neuem Feld wählen, nicht Redewendungen am 10.11. um 12:00.
