@@ -1,0 +1,56 @@
+{
+ "name": "Krankheitslexikon_79_Gefuehle_Koerper",
+ "aufbau": "spalten",
+ "titel": "Wo du deine Gefühle im Körper spürst",
+ "unter": "(Ergebnis einer Studie mit über 700 Menschen)",
+ "punkte": [
+  [
+   "Wut",
+   "Hitze in Kopf, Brust, Armen und Händen. Dein Körper macht sich bereit zu handeln."
+  ],
+  [
+   "Angst",
+   "Ein starkes Gefühl in der Brust. Das Herz klopft, der Kopf ist hellwach."
+  ],
+  [
+   "Nervosität",
+   "Unruhe vor allem in der Brust, oft schon lange vor dem Ereignis."
+  ],
+  [
+   "Ekel",
+   "Im Mund, im Hals und im Bauch. Dein Körper will etwas fernhalten."
+  ],
+  [
+   "Freude",
+   "Im ganzen Körper, von Kopf bis Fuß. Kein Gefühl breitet sich so weit aus."
+  ],
+  [
+   "Liebe",
+   "Wärme in Kopf, Brust und Bauch, fast im ganzen Oberkörper."
+  ],
+  [
+   "Traurigkeit",
+   "Druck in der Brust. Arme und Beine fühlen sich schwer und kraftlos an."
+  ],
+  [
+   "Überraschung",
+   "Kurz und stark in Kopf und Brust."
+  ],
+  [
+   "Stolz",
+   "Kopf und Brust fühlen sich weit und kräftig an."
+  ],
+  [
+   "Scham",
+   "Das Gesicht wird heiß. Arme und Beine spürst du dagegen kaum."
+  ],
+  [
+   "Neid",
+   "Vor allem im Kopf und etwas in der Brust."
+  ],
+  [
+   "Verachtung",
+   "Fast nur im Kopf. Der Körper bleibt eher kühl."
+  ]
+ ]
+}

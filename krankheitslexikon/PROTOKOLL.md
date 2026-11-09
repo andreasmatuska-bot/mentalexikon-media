@@ -9,13 +9,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Aufrufe laut Instagram am 09.10.: 05 Schlaf rund 224.000, 06 Verhalten rund 78.000, 09 Krankheit sagen will rund 58.000, 01 Finger rund 30.000, 02 Stress rund 18.500, 07 Haut rund 17.000, 08 Füße rund 16.000, 04 Nie Nein rund 9.000, 03 Rücken rund 7.000. Der alte Stil läuft klar besser, am besten der Aufbau B „Zwei Spalten“.
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
-## Lauf 26.10.2026 abends (für 27.10.2026)
-* Publer wieder verfügbar. Bestand für morgen: alle drei Plätze frei. Nichts neu gebaut, alle drei aus dem Vorrat: 52 Was dir deine Krankheit sagen will, Teil 4 (A Papier) 12:00 Uhr, 53 So setzt du Grenzen, ohne laut zu werden (B Zwei Spalten, Brücke, Aufruf mit „Nein“) 15:30 Uhr, 54 Schultern (A Papier) 19:00 Uhr, jeweils +02:00 (Winterzeit). Aufbauten abwechselnd A, B, A.
-* Qualitätsmanager Prüfung 1 entfällt (Vorrat schon freigegeben). Kurzer Blick auf Titelbilder und Beschreibungen: alles lesbar, Wasserzeichen da, ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, unter 1 MB. raw Adressen mit Status 200.
-* Prüfung 2: drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+02:00), mit Filter „reel“ gelistet, Beschreibung steht bei jedem Post und ist per Skript zeichengleich mit der Datei (bei 54 nur der Zeilenumbruch am Dateiende fehlt). Keine Abweichung.
-* Videoordner 2026-10-11 gelöscht (älter als 14 Tage).
-* Wochenauswertung (Publer, 12.10. bis 26.10., Interaktionen): Vorne 17 Erkältung (976), 21 Empathen (342), 22 Schlafposition (330), 19 Körperzeichen (317), 25 Träume (285), alle B Zwei Spalten mit 14 kurzen Deutungen. Hinten fast nur A Papier: 23 Hände (34), 18 Beine (73), 20 Kopfschmerzen (126), dazu 24 Blick (144). Folgerung: B Zwei Spalten mit bekannten Alltagsbeschwerden und Redewendungen als Deutung (wie Erkältung) klar bevorzugen, A Papier höchstens einmal am Tag, gern Beschwerdelisten wie 17 und 40.
-* Offen: nichts. Vorrat jetzt leer, der nächste Lauf baut drei neu (möglichst zwei B Zwei Spalten). Nächste Brücke um den 03.11.
 
 ## Lauf 27.10.2026 (für 28.10.2026, lief mittags)
 * Publer verfügbar, Workspace „AMATUSKA Pages“ (die Verbindung stand zuerst auf „Kampe&Hahn“, umgestellt). Heute 15:30 und 19:00 Uhr waren schon belegt (53, 54), 12:00 lag beim Start in der Vergangenheit. Für morgen alle drei Plätze frei. Vorrat leer, deshalb drei Videos neu gebaut, nach der Wochenauswertung zwei B Zwei Spalten.
@@ -147,3 +140,11 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Videoordner 2026-10-23 und 2026-10-24 gelöscht.
 * Zahlen der letzten 14 Tage (Vorgriff auf die Montagsauswertung): am meisten Reichweite hatten B Themen zum Alltag und zum Körper (69 Kleidung rund 74.000, 55 Krankheit Teil 5 rund 58.000, 60 Gesicht rund 51.000). Die Brücke 53 hatte die höchste Interaktion (304 Speicherungen).
 * Offen: Vorrat leer. Deutungsvorrat fast erschöpft; für 19:00 Uhr fand sich kein Thema, das in drei Runden besteht. Nächster Lauf: früh ein B Thema mit Körperbezug aus neuem Feld wählen, nicht Redewendungen am 10.11. um 12:00.
+
+## Lauf 09.11.2026 abends (für 10.11.2026)
+* Publer war in diesem Lauf nicht verfügbar (die Publer Verbindung war in der Sitzung nicht geladen, keine Publer Werkzeuge). Deshalb kein Bestand geprüft, nichts eingeplant und keine Montagsauswertung möglich. Nach Auftrag die freigegebenen Videos nach vorrat/ gelegt, damit der nächste Lauf sie einplant.
+* Vorrat vorher leer, deshalb drei neu gebaut, nach dem Hinweis vom 08.11. aus neuen Feldern mit Quelle: 79 Wo du deine Gefühle im Körper spürst (B, Studie Nummenmaa 2014), 80 Was dein Körper nachts für dich tut (A), 81 Redewendungen Teil 8 (B). Keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1, drei Runden: Runde 1: 79 und 80 FREIGEGEBEN, 81 abgelehnt („Ich stehe Kopf“ groß, fehlende Kommas, Doppelungen: nicht riechen 17, ganz Ohr wie 62, davonlaufen, Gesicht verlieren). Runde 2: 81 abgelehnt (Dickkopf wie 29, 44; „läuft nichts“ wie 37). Runde 3: 81 FREIGEGEBEN.
+* Im Vorrat: 79 (für 12:00), 80 (für 15:30), 81 (für 19:00). Prüfung 2 entfällt, weil nichts eingeplant wurde. Kein Videoordner älter als 14 Tage.
+* Offen: Publer Verbindung prüfen. Für den 10.11. ist noch nichts eingeplant, sofern kein anderer Lauf geplant hat. Der nächste Lauf plant zuerst die drei Vorratsvideos ein und holt die Wochenauswertung nach. Nächste Brücke um den 14.11.
+
