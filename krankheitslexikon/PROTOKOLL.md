@@ -148,3 +148,9 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Im Vorrat: 79 (für 12:00), 80 (für 15:30), 81 (für 19:00). Prüfung 2 entfällt, weil nichts eingeplant wurde. Kein Videoordner älter als 14 Tage.
 * Offen: Publer Verbindung prüfen. Für den 10.11. ist noch nichts eingeplant, sofern kein anderer Lauf geplant hat. Der nächste Lauf plant zuerst die drei Vorratsvideos ein und holt die Wochenauswertung nach. Nächste Brücke um den 14.11.
 
+
+## Lauf 10.11.2026 abends (für 11.11.2026)
+* Publer war wieder nicht verfügbar: Die Verbindung ist im Konto verbunden, ihre Werkzeuge waren in dieser Sitzung aber nicht geladen. Deshalb kein Bestand geprüft, nichts eingeplant, keine Prüfung 2 und keine Wochenauswertung.
+* Nichts neu gebaut: Im Vorrat liegen schon die drei freigegebenen Videos 79 Gefühle im Körper (12:00), 80 Nachts (15:30) und 81 Redewendungen Teil 8 (19:00), genug für den nächsten Tag mit Verbindung. Ein zweiter Satz hätte bei dem fast erschöpften Deutungsvorrat Themen verbraucht, ohne dass ein Platz gefüllt wird.
+* Kein Videoordner älter als 14 Tage.
+* Offen: Publer Verbindung in den Einstellungen prüfen. 10.11. und 11.11. ohne Reel dieses Kontos, sofern nicht von Hand geplant. Der nächste Lauf plant zuerst die drei Vorratsvideos ein und holt die Wochenauswertung nach.
