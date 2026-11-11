@@ -154,3 +154,9 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Nichts neu gebaut: Im Vorrat liegen schon die drei freigegebenen Videos 79 Gefühle im Körper (12:00), 80 Nachts (15:30) und 81 Redewendungen Teil 8 (19:00), genug für den nächsten Tag mit Verbindung. Ein zweiter Satz hätte bei dem fast erschöpften Deutungsvorrat Themen verbraucht, ohne dass ein Platz gefüllt wird.
 * Kein Videoordner älter als 14 Tage.
 * Offen: Publer Verbindung in den Einstellungen prüfen. 10.11. und 11.11. ohne Reel dieses Kontos, sofern nicht von Hand geplant. Der nächste Lauf plant zuerst die drei Vorratsvideos ein und holt die Wochenauswertung nach.
+
+## Lauf 11.11.2026 abends (für 12.11.2026)
+* Publer wieder nicht verfügbar: im Konto verbunden, die Werkzeuge waren in dieser Sitzung aber nicht geladen. Kein Bestand geprüft, nichts eingeplant, keine Prüfung 2, keine Wochenauswertung.
+* Nichts neu gebaut, aus demselben Grund wie am 10.11.: Im Vorrat liegen weiter die drei freigegebenen Videos 79 Gefühle im Körper (12:00), 80 Nachts (15:30) und 81 Redewendungen Teil 8 (19:00).
+* Videoordner 2026-10-27 gelöscht.
+* Offen: Publer Verbindung für den geplanten Lauf freischalten. 10.11., 11.11. und 12.11. ohne Reel dieses Kontos, sofern nicht von Hand geplant. Der nächste Lauf mit Verbindung plant zuerst die drei Vorratsvideos ein und holt die Wochenauswertung nach.
