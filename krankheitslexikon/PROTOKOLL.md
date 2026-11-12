@@ -10,15 +10,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
 
-## Lauf 27.10.2026 (für 28.10.2026, lief mittags)
-* Publer verfügbar, Workspace „AMATUSKA Pages“ (die Verbindung stand zuerst auf „Kampe&Hahn“, umgestellt). Heute 15:30 und 19:00 Uhr waren schon belegt (53, 54), 12:00 lag beim Start in der Vergangenheit. Für morgen alle drei Plätze frei. Vorrat leer, deshalb drei Videos neu gebaut, nach der Wochenauswertung zwei B Zwei Spalten.
-* Gebaut: 55 Was dir deine Krankheit sagen will, Teil 5 (B) für 12:00, 56 Ohren (A) für 15:30, 57 Redewendungen Teil 2 (B) für 19:00. Keine Lehre und kein Autor genannt, keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
-* Qualitätsmanager Prüfung 1: drei Runden, Technik, Stil und Beschreibung immer bestanden, nur g (Doppelungen) und einmal e. Runde 1: alle drei abgelehnt, viele Deutungen fast gleich mit früheren Videos (zum Beispiel „Sorgen mit ins Bett“ wie 44, „alles auf einmal aufnehmen“ wie 41, „streng mit dir“ wie 14 und 23, „auf eine Antwort warten“ wie 52, „falscher Fuß“ wie 42 Laus über die Leber). Runde 2: 57 freigegeben. 55 noch drei Doppelungen (Zungenbelag wie 52 Zungenbrennen, Scham, übergangen), 56 Kalte Ohren wie 52 und „Druck nach Kopfhörern“ wie 17 Ohrendruck. Runde 3: 55 nur noch „Steife Finger am Morgen“ (Aufschieben wie 06, dazu Rheuma Leitzeichen), 56 Kalte Ohren (Lust an einem Ziel verloren wie 54) und Punkt 6 passte nach dem Begriffswechsel nicht mehr zur Deutung. 55 und 56 deshalb NICHT eingeplant und nicht eingecheckt.
-* Eingeplant: nur 57 Redewendungen Teil 2 um 19:00 Uhr (+02:00). Plätze 12:00 und 15:30 Uhr am 28.10. bleiben frei.
-* Prüfung 2: ein Reel auf dem richtigen Konto am 28.10. um 19:00 Uhr (+02:00), mit Filter „reel“ gelistet, Beschreibung steht beim Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
-* Videoordner 2026-10-12 gelöscht.
-* Für den nächsten Lauf: 55 und 56 mit den Nummern 55 und 56 neu bauen. Zwölf Punkte von 55 und vier von 56 hat der Prüfer bestätigt (Liste in THEMEN.md). Bei 55 fehlt ein dreizehnter Begriff, bei 56 eine neue Deutung für Kalte Ohren und ein Begriff zu „lange Fahrt zur Arbeit zehrt an dir“. Neue Deutungen nur aus wirklich freien Feldern (konkrete Alltagslagen wie Gast, Gruppenchat, Spitzname, fremde Sprache), vorher alle Deutungen aus engine/inhalte gegen den Entwurf lesen.
-
 ## Kontrolllauf 27.10.2026 mittags (von Andreas angefordert, für 28.10.2026)
 * Bestand: heute 15:30 und 19:00 Uhr belegt (53, 54), 12:00 Uhr lag schon zurück. Am 28.10. war nur 19:00 Uhr (57) belegt, 12:00 und 15:30 Uhr frei.
 * Neu gebaut als neue Videos: 55 Was dir deine Krankheit sagen will, Teil 5 (B) und 56 Ohren (A), aufbauend auf den im ersten Lauf bestätigten Punkten. Neuer, unabhängiger Prüfer.
@@ -160,3 +151,9 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Nichts neu gebaut, aus demselben Grund wie am 10.11.: Im Vorrat liegen weiter die drei freigegebenen Videos 79 Gefühle im Körper (12:00), 80 Nachts (15:30) und 81 Redewendungen Teil 8 (19:00).
 * Videoordner 2026-10-27 gelöscht.
 * Offen: Publer Verbindung für den geplanten Lauf freischalten. 10.11., 11.11. und 12.11. ohne Reel dieses Kontos, sofern nicht von Hand geplant. Der nächste Lauf mit Verbindung plant zuerst die drei Vorratsvideos ein und holt die Wochenauswertung nach.
+
+## Lauf 12.11.2026 abends (für 13.11.2026)
+* Publer wieder nicht verfügbar: im Konto verbunden, die Werkzeuge waren in dieser Sitzung aber nicht geladen. Kein Bestand geprüft, nichts eingeplant, keine Prüfung 2, keine Wochenauswertung.
+* Nichts neu gebaut, aus demselben Grund wie am 10.11. und 11.11.: Im Vorrat liegen weiter die drei freigegebenen Videos 79 Gefühle im Körper (12:00), 80 Nachts (15:30) und 81 Redewendungen Teil 8 (19:00).
+* Videoordner 2026-10-28 gelöscht.
+* Offen: Publer Verbindung für den geplanten Lauf freischalten. 10.11. bis 13.11. ohne Reel dieses Kontos, sofern nicht von Hand geplant. Der nächste Lauf mit Verbindung plant zuerst die drei Vorratsvideos ein und holt die Wochenauswertung nach.
