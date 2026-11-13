@@ -10,32 +10,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
 
-## Kontrolllauf 27.10.2026 mittags (von Andreas angefordert, für 28.10.2026)
-* Bestand: heute 15:30 und 19:00 Uhr belegt (53, 54), 12:00 Uhr lag schon zurück. Am 28.10. war nur 19:00 Uhr (57) belegt, 12:00 und 15:30 Uhr frei.
-* Neu gebaut als neue Videos: 55 Was dir deine Krankheit sagen will, Teil 5 (B) und 56 Ohren (A), aufbauend auf den im ersten Lauf bestätigten Punkten. Neuer, unabhängiger Prüfer.
-* Qualitätsmanager Prüfung 1: Runde 1: 55 freigegeben (neu „Kalte Nasenspitze“ statt „Steife Finger am Morgen“). 56 abgelehnt: Kalte Ohren mit körperlicher Erklärung (Frieren an der Haltestelle), Punkt 6 Zuhause umräumen wie 47, Punkt 1 „was andere über dich sagen“ doppelt mit 55 Punkt 11. Runde 2: drei Punkte neu, abgelehnt nur wegen „Die Stunden unterwegs fehlen dir.“ (sagt das Gegenteil). Runde 3: Satz berichtigt, 56 freigegeben. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB. raw Adressen mit Status 200.
-* Eingeplant: 55 um 12:00 Uhr und 56 um 15:30 Uhr (+02:00).
-* Prüfung 2: am 28.10. genau drei Reels auf dem richtigen Konto um 12:00, 15:30 und 19:00 Uhr (+02:00), mit Filter „reel“ gelistet, jede Beschreibung steht beim Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
-* Hinweise des Prüfers: Am 28.10. viele Arbeitsthemen (55 Ischias, 56 Punkt 3, 4, 6), bei neuen Texten wieder mehr innere Muster statt konkreter Alltagsszenen. Deutungen werden knapp, vor jedem Bau alle Deutungen aus engine/inhalte gegenlesen.
-* Offen: nichts. Vorrat leer.
-
-## Lauf 28.10.2026 abends (für 29.10.2026)
-* Bestand in Publer: heute alle drei Reels veröffentlicht, für morgen alle drei Plätze frei. Vorrat leer, deshalb drei Videos neu gebaut (nach der Wochenauswertung zwei B Zwei Spalten, ein A Papier).
-* Gebaut: 58 Was dir deine Krankheit sagen will, Teil 6 (B) für 12:00, 59 Oberschenkel (A) für 15:30, 60 Was dein Gesicht über dich verrät (B, als Spiel nach dem Gesichterlesen gekennzeichnet) für 19:00. Keine Lehre und kein Autor genannt, keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
-* Qualitätsmanager Prüfung 1: drei Runden, Technik, Stil und Beschreibung immer bestanden. Runde 1: keines freigegeben, 58 fünf Doppelungen und Herbstmüdigkeit mit körperlicher Erklärung, 59 Zittern und verliebt doppelt, 60 Wangenknochen wie 49. Runde 2: 60 freigegeben, 58 Sonntagabend und Trend doppelt, 59 Punkt 2 (abgesagte Verabredung) wie 21. Runde 3: 58 freigegeben, 59 nicht, weil Punkt 2 (Sammeln mit Leidenschaft) am selben Tag fast gleich mit 58 Punkt 7 (neues Hobby) war. 59 deshalb NICHT eingeplant und nicht eingecheckt.
-* Eingeplant: 58 um 12:00 und 60 um 19:00 Uhr (+02:00). Platz 15:30 Uhr am 29.10. bleibt frei.
-* Prüfung 2: zwei Reels auf dem richtigen Konto um 12:00 und 19:00 Uhr (+02:00), mit Filter „reel“ gelistet, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
-* Videoordner 2026-10-13 gelöscht.
-* Für den nächsten Lauf: 59 Oberschenkel kann mit Nummer 59 neu gebaut werden. Vom Prüfer ohne Einwand: Punkt 1 (Wochen bis Silvester), 3 (jemandem nacheifern), 4 Krampf vorn (Ehrenamt bei Wind und Wetter), 5 (etwas ganz Neues lernen), 6 (älteres Haustier). Punkt 2 braucht eine neue Deutung ohne Hobby, Leidenschaft, Rückzug oder Treffen. Nicht am selben Tag wie 58 laufen lassen (läuft ohnehin später).
-
-## Lauf 29.10.2026 abends (für 30.10.2026)
-* Publer war in diesem Lauf nicht verfügbar (die Publer Verbindung war in der Sitzung nicht geladen, keine Publer Werkzeuge). Deshalb kein Bestand geprüft und nichts eingeplant. Nach Auftrag die freigegebenen Videos nach vorrat/ gelegt, damit der nächste Lauf sie einplant.
-* Vorrat vorher leer, deshalb drei Videos neu gebaut: 61 Was deine Hände über dich verraten (B, als Spiel nach dem Handlesen gekennzeichnet) für 12:00, 59 Oberschenkel (A, neu aufgebaut) für 15:30, 62 Redewendungen Teil 3 (B) für 19:00. Keine Lehre und kein Autor genannt, keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
-* Qualitätsmanager Prüfung 1: drei Runden, Technik, Stil und Aufbau immer bestanden. Runde 1: keines freigegeben. 61 Warme Hände (gastfreundlich wie 60) und Morgenmensch (Spiegel zu 60 Nachtmensch). 59 „Brennen beim Bergaufgehen“ als Leitzeichen der Schaufensterkrankheit abgelehnt, dazu Doppelungen (Neues lernen wie 56, Erholung wie 12, 16, 23, 38). 62 „Herz am rechten Fleck tragen“ keine gängige Form. Runde 2: 62 freigegeben, 61 fremde Sprachen (wie 56), 59 Verantwortung (wie 40). Runde 3: 59 und 61 freigegeben.
-* Im Vorrat: 61 (für 12:00), 59 (für 15:30), 62 (für 19:00). Prüfung 2 entfällt, weil nichts eingeplant wurde.
-* Videoordner 2026-10-14 gelöscht.
-* Offen: Publer Verbindung prüfen. Der nächste Lauf plant zuerst die drei Vorratsvideos ein (für den 30.10. nur noch freie Plätze, die mindestens 30 Minuten in der Zukunft liegen, sonst für den nächsten Tag; 61 nicht direkt nach 60 Gesicht). Nächste Brücke um den 03.11. Montag 02.11. Wochenauswertung.
-
 ## Lauf 30.10.2026 abends (für 31.10.2026)
 * Publer wieder verfügbar. Bestand: für heute (30.10.) kein Reel dieses Kontos geplant oder veröffentlicht, alle drei Plätze lagen beim Lauf schon zurück (Lauf um 20:00 Uhr Zypernzeit). Für morgen alle drei Plätze frei.
 * Aus dem Vorrat eingeplant (schon freigegeben, Titelbilder und Beschreibungen kurz angesehen, ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, unter 1 MB): 61 Was deine Hände über dich verraten (B) 12:00 Uhr, 59 Oberschenkel (A) 15:30 Uhr, 62 Redewendungen Teil 3 (B) 19:00 Uhr (+02:00). Nichts neu gebaut, deshalb keine Prüfung 1 nötig.
@@ -157,3 +131,9 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Nichts neu gebaut, aus demselben Grund wie am 10.11. und 11.11.: Im Vorrat liegen weiter die drei freigegebenen Videos 79 Gefühle im Körper (12:00), 80 Nachts (15:30) und 81 Redewendungen Teil 8 (19:00).
 * Videoordner 2026-10-28 gelöscht.
 * Offen: Publer Verbindung für den geplanten Lauf freischalten. 10.11. bis 13.11. ohne Reel dieses Kontos, sofern nicht von Hand geplant. Der nächste Lauf mit Verbindung plant zuerst die drei Vorratsvideos ein und holt die Wochenauswertung nach.
+
+## Lauf 13.11.2026 abends (für 14.11.2026)
+* Publer wieder nicht verfügbar: im Konto verbunden, die Werkzeuge waren in dieser Sitzung aber nicht geladen. Kein Bestand geprüft, nichts eingeplant, keine Prüfung 2, keine Wochenauswertung.
+* Nichts neu gebaut, aus demselben Grund wie seit dem 10.11.: Im Vorrat liegen weiter die drei freigegebenen Videos 79 Gefühle im Körper (12:00), 80 Nachts (15:30) und 81 Redewendungen Teil 8 (19:00).
+* Videoordner 2026-10-29 gelöscht. Protokoll auf die letzten 14 Läufe gekürzt.
+* Offen: Publer Verbindung für den geplanten Lauf freischalten. 10.11. bis 14.11. ohne Reel dieses Kontos, sofern nicht von Hand geplant. Der nächste Lauf mit Verbindung plant zuerst die drei Vorratsvideos ein und holt die Wochenauswertung nach.
