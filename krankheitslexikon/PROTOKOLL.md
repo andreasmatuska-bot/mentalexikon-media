@@ -10,13 +10,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
 
-## Lauf 30.10.2026 abends (für 31.10.2026)
-* Publer wieder verfügbar. Bestand: für heute (30.10.) kein Reel dieses Kontos geplant oder veröffentlicht, alle drei Plätze lagen beim Lauf schon zurück (Lauf um 20:00 Uhr Zypernzeit). Für morgen alle drei Plätze frei.
-* Aus dem Vorrat eingeplant (schon freigegeben, Titelbilder und Beschreibungen kurz angesehen, ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, unter 1 MB): 61 Was deine Hände über dich verraten (B) 12:00 Uhr, 59 Oberschenkel (A) 15:30 Uhr, 62 Redewendungen Teil 3 (B) 19:00 Uhr (+02:00). Nichts neu gebaut, deshalb keine Prüfung 1 nötig.
-* Prüfung 2: drei Reels auf dem richtigen Konto am 31.10. um 12:00, 15:30 und 19:00 Uhr (+02:00), mit Filter „reel“ gelistet, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
-* Videoordner 2026-10-15 gelöscht.
-* Offen: Vorrat jetzt leer, der nächste Lauf baut wieder drei neu. Am 30.10. lief kein Reel. Nächste Brücke um den 03.11. Montag 02.11. Wochenauswertung.
-
 ## Lauf 31.10.2026 abends (für 01.11.2026)
 * Bestand in Publer: heute (31.10.) alle drei Plätze vorbei (Lauf um 20:00 Uhr Zypernzeit), für morgen kein Reel dieses Kontos geplant. Vorrat leer, deshalb drei Videos neu gebaut.
 * Gebaut: 63 Woran du erkennst, dass du ein Empath bist, Teil 2 (B, Brücke, Aufruf mit „Empath“), 64 Waden (A), 65 Redewendungen Teil 4 (B). Keine Lehre und kein Autor genannt. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
@@ -137,3 +130,9 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Nichts neu gebaut, aus demselben Grund wie seit dem 10.11.: Im Vorrat liegen weiter die drei freigegebenen Videos 79 Gefühle im Körper (12:00), 80 Nachts (15:30) und 81 Redewendungen Teil 8 (19:00).
 * Videoordner 2026-10-29 gelöscht. Protokoll auf die letzten 14 Läufe gekürzt.
 * Offen: Publer Verbindung für den geplanten Lauf freischalten. 10.11. bis 14.11. ohne Reel dieses Kontos, sofern nicht von Hand geplant. Der nächste Lauf mit Verbindung plant zuerst die drei Vorratsvideos ein und holt die Wochenauswertung nach.
+
+## Lauf 14.11.2026 abends (für 15.11.2026)
+* Publer wieder nicht verfügbar: im Konto verbunden, die Werkzeuge waren in dieser Sitzung aber nicht geladen (auch nach Neuladen der Verbindungen nicht). Kein Bestand geprüft, nichts eingeplant, keine Prüfung 2, keine Wochenauswertung.
+* Nichts neu gebaut, aus demselben Grund wie seit dem 10.11.: Im Vorrat liegen weiter die drei freigegebenen Videos 79 Gefühle im Körper (12:00), 80 Nachts (15:30) und 81 Redewendungen Teil 8 (19:00).
+* Kein Videoordner älter als 14 Tage.
+* Offen: Publer Verbindung für den geplanten Lauf freischalten. 10.11. bis 15.11. ohne Reel dieses Kontos, sofern nicht von Hand geplant. Der nächste Lauf mit Verbindung plant zuerst die drei Vorratsvideos ein und holt die Wochenauswertung nach. Brücke fällig.
