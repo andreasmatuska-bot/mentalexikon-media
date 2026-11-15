@@ -10,15 +10,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
 
-## Lauf 31.10.2026 abends (für 01.11.2026)
-* Bestand in Publer: heute (31.10.) alle drei Plätze vorbei (Lauf um 20:00 Uhr Zypernzeit), für morgen kein Reel dieses Kontos geplant. Vorrat leer, deshalb drei Videos neu gebaut.
-* Gebaut: 63 Woran du erkennst, dass du ein Empath bist, Teil 2 (B, Brücke, Aufruf mit „Empath“), 64 Waden (A), 65 Redewendungen Teil 4 (B). Keine Lehre und kein Autor genannt. ffprobe je 6,0 s, 1080x1920, 30 Bilder, Tonspur, minus 16,2 LUFS, unter 1 MB.
-* Qualitätsmanager Prüfung 1: zwei Runden, Technik, Stil und Beschreibung immer bestanden. Runde 1: keines freigegeben. 63 Räume, Umarmungen, Bücher und Filme doppelt (21, 30, 48). 64 Begriff „nach hohen Schuhen“ mit körperlicher Ursache, Berufswechsel wie 18. 65 „nicht riechen“ wie 17, Bedeutung „Hände in Unschuld“ falsch (Duden: Schuld von sich weisen). Runde 2: alle drei freigegeben.
-* Eingeplant: 63 um 12:00, 64 um 15:30, 65 um 19:00 Uhr (+02:00).
-* Prüfung 2: genau drei Reels auf dem richtigen Konto am 01.11. um 12:00, 15:30 und 19:00 Uhr (+02:00), mit Filter „reel“ gelistet, jede Beschreibung steht beim Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
-* Videoordner 2026-10-16 gelöscht.
-* Offen: Vorrat leer, der nächste Lauf baut wieder drei neu. Montag 02.11. Wochenauswertung. Nächste Brücke um den 08.11.
-
 ## Lauf 01.11.2026 abends (für 02.11.2026)
 * Bestand in Publer: heute (01.11.) alle drei Reels veröffentlicht, für morgen kein Reel dieses Kontos geplant. Vorrat leer, deshalb neu gebaut.
 * Qualitätsmanager Prüfung 1, drei Runden, Technik, Stil und Beschreibung immer bestanden, Inhalt mehrfach abgelehnt:
@@ -136,3 +127,11 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Nichts neu gebaut, aus demselben Grund wie seit dem 10.11.: Im Vorrat liegen weiter die drei freigegebenen Videos 79 Gefühle im Körper (12:00), 80 Nachts (15:30) und 81 Redewendungen Teil 8 (19:00).
 * Kein Videoordner älter als 14 Tage.
 * Offen: Publer Verbindung für den geplanten Lauf freischalten. 10.11. bis 15.11. ohne Reel dieses Kontos, sofern nicht von Hand geplant. Der nächste Lauf mit Verbindung plant zuerst die drei Vorratsvideos ein und holt die Wochenauswertung nach. Brücke fällig.
+
+## Lauf 15.11.2026 abends (für 16.11.2026)
+* Publer wieder verfügbar (Workspace stand zuerst auf „Kampe&Hahn“, auf „AMATUSKA Pages“ umgestellt). Bestand: heute (15.11.) kein Reel dieses Kontos, alle Plätze beim Lauf schon vorbei (20:00 Uhr Zypernzeit). Für morgen alle drei Plätze frei.
+* Aus dem Vorrat: 79 Gefühle im Körper (B), 80 Nachts (A), 81 Redewendungen Teil 8 (B), nach videos/2026-11-16 verschoben. Titelbilder und Beschreibungen kurz angesehen, in Ordnung. Nichts neu gebaut, deshalb keine Prüfung 1.
+* Eingeplant: 79 um 12:00, 80 um 15:30, 81 um 19:00 Uhr (+02:00). Raw Adressen mit Status 200.
+* Prüfung 2: genau drei Reels auf dem richtigen Konto am 16.11. um 12:00, 15:30 und 19:00 Uhr (+02:00), mit Filter „reel“ gelistet, jede Beschreibung steht beim Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Videoordner 2026-10-31 gelöscht.
+* Offen: Vorrat leer, der nächste Lauf baut drei neu. Brücke überfällig (letzte 07.11.), beim nächsten Neubau einplanen. Montag 16.11. Wochenauswertung nachholen.
