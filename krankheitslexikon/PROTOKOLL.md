@@ -10,18 +10,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
 
-## Lauf 01.11.2026 abends (für 02.11.2026)
-* Bestand in Publer: heute (01.11.) alle drei Reels veröffentlicht, für morgen kein Reel dieses Kontos geplant. Vorrat leer, deshalb neu gebaut.
-* Qualitätsmanager Prüfung 1, drei Runden, Technik, Stil und Beschreibung immer bestanden, Inhalt mehrfach abgelehnt:
-  * Runde 1: Schlaf Teil 2, Unterer Rücken, Kleine Zeichen Teil 2 abgelehnt (viele sinngleiche Deutungen; Leitzeichen: steifer Rücken am Morgen, eingeschlafene und kribbelnde Hand; Auslöser im Begriff).
-  * Runde 2: Kleine Zeichen gestrichen, neu Redewendungen Teil 5 für 12:00. Abgelehnt: Redewendungen drei Tage hintereinander und „kalte Füße“ wie 08; Rücken mit Warnzeichen (keine bequeme Lage), Schmerzart, Winter Deutung; Schlaf mit Epworth Frage (Beifahrer einschlafen) und fünf Doppelungen, Rechtschreibung „Gute Nacht Nachricht“, Wasserzeichen über der Fußzeile.
-  * Runde 3: 66 Redewendungen Teil 5 freigegeben, aber nur für den Vorrat (frühestens 04.11., nicht am 03.11.). 67 Unterer Rücken abgelehnt (Punkt 5 Verzeihen wie 55 und 43, Punkt 6 Umzug wie 47, 51, 54). 68 Schlaf Teil 2 abgelehnt (Wärmflasche wie 27, Stockdunkel Deutung wie 34).
-* Eingeplant: NICHTS. Für den 02.11. sind alle drei Plätze frei (12:00, 15:30, 19:00). 67 und 68 nicht eingecheckt.
-* Im Vorrat: 66 Redewendungen Teil 5 (B), frühestens am 04.11.
-* Prüfung 2 entfällt, weil nichts eingeplant wurde. Videoordner 2026-10-17 gelöscht.
-* Für einen Neubau ohne Einwand des Prüfers: Rücken Punkte 1 bis 4: „Ziehen im unteren Rücken → Du merkst, dass du deinen Eltern immer ähnlicher wirst, und weißt noch nicht, ob dir das gefällt.“, „Verhärtete Muskeln neben der Wirbelsäule → Du fängst nach einer langen Pause wieder an zu arbeiten und musst deinen Platz erst neu finden.“, „Rücken ermüdet schnell → Du bringst einem jüngeren Menschen gerade bei, was du kannst, und willst ihm ein gutes Vorbild sein.“, „Schwerer Rücken am Abend → Aus Loyalität stehst du hinter der Entscheidung eines anderen, obwohl du selbst anders entschieden hättest.“ Es fehlen zwei Punkte. Schlaf Teil 2, elf Begriffe: Nur mit Licht schlafen (Kinderangst), Immer dieselbe Bettseite (Platz gefunden), Wecker auf krumme Minuten (eigene kleine Regeln), Abends noch „Gute Nacht“ schreiben (lieber Mensch soll wissen, dass du an ihn denkst), Beste Ideen kurz vor dem Einschlafen (Kreativität kommt im Alltag zu kurz), Im Schlaf die Decke klauen (holst dir, was du brauchst), Morgens sofort das Bett machen (Tag mit kleinem Erfolg beginnen), Wecker ins andere Zimmer (kennst deine Schwächen und überlistest sie), Kleidung für morgen bereitlegen (gut vorbereitet), Tagebuch vor dem Schlafen (verstehen, was dich bewegt), Mit dem Gesicht zum Fenster schlafen (lieber nach vorn als zurück). Es fehlen zwei Begriffe.
-* Offen: 02.11. ohne Reel, sofern der nächste Lauf nicht schon heute Nacht Plätze am 02.11. füllt. Der Deutungsvorrat ist fast erschöpft; Prüfer lehnt fast jede freie Deutung als sinngleich ab. Montag 02.11. Wochenauswertung. Nächste Brücke um den 08.11.
-
 ## Lauf 02.11.2026 abends (für 03.11.2026)
 * Bestand in Publer: heute (02.11.) kein Reel dieses Kontos, alle Plätze beim Lauf schon vorbei (20:07 Uhr Zypernzeit). Für morgen alle drei Plätze frei. Vorrat: nur 66 (darf laut Prüfer erst ab 04.11.; Prüfer hat die Auflage auf Nachfrage bestätigt).
 * Wochenauswertung (Publer, 19.10. bis 02.11., Interaktionen): Vorne 37 Verhalten bei Krankheit (541) und 34 Körperpflege (536), dann 36 Grenzen (109), 63 Empathen 2 (99), 35 Falten (84), 61 Hände Spiel (81). Hinten 64 Waden (6), 65 Redewendungen 4 (7), 59 Oberschenkel (16), 62 Redewendungen 3 (21). Folgerung: Alltagsverhalten mit nachvollziehbarer Deutung im Aufbau B („Was dein Verhalten bei … verrät“) klar bevorzugen; A Papier mit weit hergeholten Lebenslagen und Redewendungen laufen kaum.
@@ -135,3 +123,16 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Prüfung 2: genau drei Reels auf dem richtigen Konto am 16.11. um 12:00, 15:30 und 19:00 Uhr (+02:00), mit Filter „reel“ gelistet, jede Beschreibung steht beim Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
 * Videoordner 2026-10-31 gelöscht.
 * Offen: Vorrat leer, der nächste Lauf baut drei neu. Brücke überfällig (letzte 07.11.), beim nächsten Neubau einplanen. Montag 16.11. Wochenauswertung nachholen.
+
+## Lauf 16.11.2026 abends (für 17.11.2026)
+* Publer verfügbar (Workspace stand zuerst auf „Kampe&Hahn“, auf „AMATUSKA Pages“ umgestellt). Heute (16.11.) alle drei Reels veröffentlicht (79, 80, 81). Für morgen alle drei Plätze frei. Vorrat leer, deshalb neu gebaut.
+* Wochenauswertung (Publer, letzte 30 Tage, Interaktionen): vorne 67 Schlafgewohnheiten (141), 63 Empathen 2 (130), 61 Hände Spiel (112); hinten Redewendungen 4, 5, 6 (10 bis 16), 64 Waden (13), 59 Oberschenkel (18), 72 Krankheit Teil 7 (30). Folgerung: Schlaf, Brücke Empathen und Spiele zur Selbstbetrachtung in B tragen; Redewendungen und A mit weit hergeholten Lebenslagen pausieren. Sachinfos mit Quelle (79, 80) neu im Mix, Ergebnis nächste Woche ansehen.
+* Qualitätsmanager Prüfung 1, drei Runden, Technik und Stil immer bestanden:
+  * Runde 1: alle abgelehnt. 82 Morgengewohnheiten (sechs Deutungen belegt), 83 Stress (Hinweis mit Atemnot und Brustdruck, gleiche Reihe wie 80 zur selben Zeit, Nacken und Schultern wie 02, Einstieg 3 Sätze), 84 Hochsensibel (zwei Punkte nicht nah genug an der Aron Skala, drei Deutungen belegt, Einstieg 4 Sätze).
+  * Runde 2: 83 FREIGEGEBEN (auf 19:00 verlegt). 82 neu als Schlafbedarf, inhaltlich fertig, aber nicht am Tag nach 80. 84 „Feine Genüsse“ wie 19, 66.
+  * Runde 3: 85 Erneuerung (neu, 12:00) und 84 FREIGEGEBEN. 82 Schlafbedarf für den Vorrat freigegeben, frühestens 19.11.
+* Eingeplant: 85 um 12:00, 84 um 15:30 (Brücke, Aufruf „sensibel“), 83 um 19:00 Uhr (+02:00). Raw Adressen mit Status 200.
+* Prüfung 2: genau drei Reels dieses Kontos am 17.11. um 12:00, 15:30 und 19:00 Uhr, mit Filter „reel“ gelistet, richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Videoordner 2026-11-01 gelöscht.
+* Im Vorrat: 82 Schlafbedarf (B), frühestens 19.11., am 18.11. nicht verwenden. Am 18.11. keine reine Körper Sachinfo. Nächste Brücke um den 24.11.
+
