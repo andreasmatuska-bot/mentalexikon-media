@@ -1,0 +1,41 @@
+{
+ "name": "Krankheitslexikon_85_Erneuerung",
+ "aufbau": "spalten",
+ "abstand": 18,
+ "schrift": 29,
+ "titel": "So oft erneuert sich dein Körper",
+ "punkte": [
+  [
+   "Darmschleimhaut",
+   "Ihre Zellen werden etwa alle 3 bis 5 Tage ersetzt, so schnell wie kaum etwas sonst in dir."
+  ],
+  [
+   "Geschmacksknospen",
+   "Ihre Zellen leben nur rund 10 Tage, dann wachsen neue nach."
+  ],
+  [
+   "Oberhaut",
+   "In rund 4 Wochen wandern neue Zellen von unten nach oben und ersetzen die alten."
+  ],
+  [
+   "Rote Blutkörperchen",
+   "Jedes lebt etwa 120 Tage. Danach baut dein Körper es ab und ersetzt es."
+  ],
+  [
+   "Haare",
+   "Sie wachsen etwa 1 Zentimeter im Monat."
+  ],
+  [
+   "Fingernägel",
+   "Sie wachsen etwa 3 Millimeter im Monat. Ein ganz neuer Nagel braucht rund 6 Monate."
+  ],
+  [
+   "Fußnägel",
+   "Sie wachsen langsamer. Bis einer ganz nachgewachsen ist, dauert es 12 bis 18 Monate."
+  ],
+  [
+   "Knochen",
+   "Auch sie werden ständig umgebaut. In rund 10 Jahren ist dein Skelett fast ganz erneuert."
+  ]
+ ]
+}

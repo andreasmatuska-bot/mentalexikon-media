@@ -1,0 +1,42 @@
+{
+ "name": "Krankheitslexikon_84_Hochsensibel",
+ "aufbau": "spalten",
+ "abstand": 18,
+ "schrift": 29,
+ "titel": "Woran du erkennst, dass du hochsensibel bist",
+ "unter": "(nach dem Selbsttest der Psychologin Elaine Aron)",
+ "punkte": [
+  [
+   "Plötzliche Geräusche",
+   "Eine zuschlagende Tür lässt dich heftiger zusammenzucken als andere."
+  ],
+  [
+   "Viel auf einmal",
+   "Sollst du mehrere Dinge gleichzeitig tun, wirst du schnell gereizt."
+  ],
+  [
+   "Großer Hunger",
+   "Mit leerem Magen kippt deine Stimmung schnell."
+  ],
+  [
+   "Veränderungen",
+   "Umbrüche im Leben bringen dich länger aus dem Gleichgewicht."
+  ],
+  [
+   "Ein ungemütlicher Raum",
+   "Ist es irgendwo zu kalt oder zu stickig, weißt du sofort, was hilft."
+  ],
+  [
+   "Schmerzen",
+   "Du spürst Schmerzen oft stärker als andere."
+  ],
+  [
+   "Ruhiger Alltag",
+   "Du richtest dein Leben so ein, dass es dich nicht überrollt."
+  ],
+  [
+   "Als Kind",
+   "Schon früher hieß es oft, du seist empfindlich oder schüchtern."
+  ]
+ ]
+}

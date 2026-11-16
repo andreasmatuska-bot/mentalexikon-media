@@ -1,0 +1,46 @@
+{
+ "name": "Krankheitslexikon_82_Schlafbedarf",
+ "aufbau": "spalten",
+ "abstand": 18,
+ "schrift": 29,
+ "titel": "So viel Schlaf braucht dein Körper in jedem Alter",
+ "unter": "(Empfehlung der National Sleep Foundation)",
+ "punkte": [
+  [
+   "Neugeborene bis 3 Monate",
+   "14 bis 17 Stunden, verteilt über Tag und Nacht."
+  ],
+  [
+   "Babys von 4 bis 11 Monaten",
+   "12 bis 15 Stunden, mit Schläfchen am Tag."
+  ],
+  [
+   "Kleinkinder von 1 bis 2 Jahren",
+   "11 bis 14 Stunden."
+  ],
+  [
+   "Kinder von 3 bis 5 Jahren",
+   "10 bis 13 Stunden."
+  ],
+  [
+   "Schulkinder von 6 bis 13 Jahren",
+   "9 bis 11 Stunden."
+  ],
+  [
+   "Jugendliche von 14 bis 17 Jahren",
+   "8 bis 10 Stunden. Ihre innere Uhr tickt später, darum kommen sie morgens so schwer aus dem Bett."
+  ],
+  [
+   "Junge Erwachsene von 18 bis 25 Jahren",
+   "7 bis 9 Stunden."
+  ],
+  [
+   "Erwachsene von 26 bis 64 Jahren",
+   "7 bis 9 Stunden. Weniger als 6 Stunden werden nicht empfohlen."
+  ],
+  [
+   "Ab 65 Jahren",
+   "7 bis 8 Stunden. Der Schlaf wird leichter und du wachst nachts öfter kurz auf."
+  ]
+ ]
+}
