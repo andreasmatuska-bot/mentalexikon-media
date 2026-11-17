@@ -10,20 +10,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
 
-## Lauf 02.11.2026 abends (für 03.11.2026)
-* Bestand in Publer: heute (02.11.) kein Reel dieses Kontos, alle Plätze beim Lauf schon vorbei (20:07 Uhr Zypernzeit). Für morgen alle drei Plätze frei. Vorrat: nur 66 (darf laut Prüfer erst ab 04.11.; Prüfer hat die Auflage auf Nachfrage bestätigt).
-* Wochenauswertung (Publer, 19.10. bis 02.11., Interaktionen): Vorne 37 Verhalten bei Krankheit (541) und 34 Körperpflege (536), dann 36 Grenzen (109), 63 Empathen 2 (99), 35 Falten (84), 61 Hände Spiel (81). Hinten 64 Waden (6), 65 Redewendungen 4 (7), 59 Oberschenkel (16), 62 Redewendungen 3 (21). Folgerung: Alltagsverhalten mit nachvollziehbarer Deutung im Aufbau B („Was dein Verhalten bei … verrät“) klar bevorzugen; A Papier mit weit hergeholten Lebenslagen und Redewendungen laufen kaum.
-* Qualitätsmanager Prüfung 1, drei Runden, Technik, Stil und Beschreibung jedes Mal bestanden, abgelehnt immer wegen Doppelungen (g) oder Leitzeichen (f):
-  * Runde 1: Schlafgewohnheiten (B), Unterer Rücken (A), Gang (B) abgelehnt. Rücken: Thema wie 03 und am 01.11. schon abgelehnt, Deutungen weit hergeholt. Gang: Schlurfen, kleine Schritte (Parkinson), ständig stehen bleiben (Schaufensterkrankheit), Hände in den Taschen wie 27, Begriff Gang in 10.
-  * Runde 2: Schlaf (Wasserzeichen über der Fußzeile, Kissen zwischen den Knien wie 34, schwere Decke wie 22 und 34, Kuscheltier wie 22), Knöchel (A; steife Knöchel nach Sitzen = Anlaufsteifigkeit, alle Deutungen um Richtung, Halt, Boden, Aufbruch belegt), Essen (B; neun Begriffe doppelt oder heikel) abgelehnt.
-  * Runde 3: Schlaf und Essen abgelehnt, beide knapp. Knöchel zurückgezogen.
-* Eingeplant: NICHTS. Am 03.11. alle drei Plätze frei. Nichts eingecheckt außer der Buchführung. Prüfung 2 entfällt.
-* Für den nächsten Lauf fast fertig (Prüfer: „nah an der Freigabe“):
-  * Essen (B), „Was deine Art zu essen über dich verrät“, elf Begriffe ohne Einwand: Das Beste zuerst essen → Du nimmst das Gute mit, solange es da ist. Zuerst das Gemüse essen → Du erledigst das Vernünftige gern zuerst. Vom Teller der anderen probieren → Du bist neugierig, wie die Welt für andere schmeckt. Nachwürzen vor dem Probieren → Du vertraust deiner Erfahrung mehr als dem ersten Eindruck. Mit den Händen essen → Du nimmst die Dinge gern unkompliziert und direkt. Krümel zusammenschieben → Deine Hände brauchen etwas zu tun, während du zuhörst. Den Teller drehen, bis er passt → Du suchst erst den richtigen Blickwinkel, bevor du loslegst. Nach dem Rezept fragen → Du willst Gutes weitergeben können. Gericht nach dem Namen aussuchen → Schöne Worte verführen dich leicht. Nach einer Empfehlung fragen → Du vertraust dem Rat von Kennern. Den Tisch schön decken, auch allein → Du behandelst dich wie einen lieben Gast. Es fehlen drei Begriffe (nicht Kaffee, nicht Teilen, nicht Genuss). Schrift 28, Abstand 16. Hinweis ohne Essstörungsbezug.
-  * Schlafgewohnheiten (B), elf Begriffe ohne Einwand: Nur mit Licht schlafen, Immer dieselbe Bettseite (Platz gefunden, dort zu Hause), Socken im Bett (kuschelig, bevor du abschalten kannst), Fenster nachts offen (klar und frisch, auch im Kopf), Beste Ideen vor dem Einschlafen, Decke klauen, Bett sofort machen, Wecker ins andere Zimmer, Kissen auf die kühle Seite (neue Deutung nötig, nicht „kleines Extra“), Haare zusammenbinden (neue Deutung, nicht vorausplanen), Vor dem Schlafen lesen. Nicht verwenden: Vor dem Wecker wach (wie 05, Depressions Leitsymptom), Frisch bezogenes Bett mit „kleine Freuden“.
-  * Schlaf und Essen nicht am selben Tag mit ähnlichen Genussdeutungen.
-* Offen: 02.11. und 03.11. ohne Reel. Neue Deutungen sind fast erschöpft; vor jedem Neubau gegen alle Inhalte in engine/inhalte abgleichen. 66 ab 04.11. einplanen. Nächste Brücke um den 08.11.
-
 ## Lauf 03.11.2026 abends (für 04.11.2026)
 * Bestand in Publer: heute (03.11.) kein Reel, alle Plätze beim Lauf schon vorbei (20:00 Uhr Zypernzeit). Für morgen alle drei Plätze frei.
 * Aus dem Vorrat: 66 Redewendungen Teil 5 (B). Neu gebaut aus den vom Prüfer am 01.11. und 02.11. bestätigten Begriffen: 67 Schlafgewohnheiten (B, 13 Begriffe, neu nur „Mehrere Wecker stellen“) und 68 Essen (B, 14 Begriffe, drei neu). ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 300 KB.
@@ -136,3 +122,13 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Videoordner 2026-11-01 gelöscht.
 * Im Vorrat: 82 Schlafbedarf (B), frühestens 19.11., am 18.11. nicht verwenden. Am 18.11. keine reine Körper Sachinfo. Nächste Brücke um den 24.11.
 
+## Lauf 17.11.2026 abends (für 18.11.2026)
+* Publer verfügbar (Workspace „AMATUSKA Pages“). Heute (17.11.) alle drei Reels veröffentlicht (85, 84, 83). Für morgen alle drei Plätze frei. Vorrat: nur 82 Schlafbedarf, laut Prüfer erst ab 19.11., deshalb drei neu gebaut (keine reine Körper Sachinfo, kein Schlafthema).
+* Qualitätsmanager Prüfung 1, drei Runden, Technik und Stil immer bestanden:
+  * Runde 1: 88 Gerüche FREIGEGEBEN (Empfehlung „Lied“ zu „Geräusch“ umgesetzt). 87 Natur abgelehnt (Hunter 2019 als „am deutlichsten“ statt effizientester Wert, Lee 2015 war ein Bild eines Dachs). 86 Füße abgelehnt („Fachmann“ getrennt geschrieben, Gruselfilm Beispiel nicht belegt, drei Deutungen schon belegt: nicht auffallen, selbst beruhigen, Fuß zur Tür).
+  * Runde 2: 87 FREIGEGEBEN, 88 bleibt freigegeben. 86 abgelehnt, drei Ersatzdeutungen wieder zu nah an 27, 60, 62.
+  * Runde 3: 86 FREIGEGEBEN.
+* Eingeplant: 87 Natur um 12:00 (A), 86 Füße im Gespräch um 15:30 (B), 88 Gerüche um 19:00 Uhr (A), Versatz +02:00. Raw Adressen mit Status 200.
+* Prüfung 2: genau drei Reels dieses Kontos am 18.11. um 12:00, 15:30 und 19:00 Uhr (Filter „reel“), richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Kein Videoordner älter als 14 Tage.
+* Im Vorrat: 82 Schlafbedarf (B), für 19.11. vorgesehen. Nächste Brücke um den 24.11.
