@@ -10,15 +10,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
 
-## Lauf 03.11.2026 abends (für 04.11.2026)
-* Bestand in Publer: heute (03.11.) kein Reel, alle Plätze beim Lauf schon vorbei (20:00 Uhr Zypernzeit). Für morgen alle drei Plätze frei.
-* Aus dem Vorrat: 66 Redewendungen Teil 5 (B). Neu gebaut aus den vom Prüfer am 01.11. und 02.11. bestätigten Begriffen: 67 Schlafgewohnheiten (B, 13 Begriffe, neu nur „Mehrere Wecker stellen“) und 68 Essen (B, 14 Begriffe, drei neu). ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 300 KB.
-* Qualitätsmanager Prüfung 1, zwei Runden: Runde 1 67 freigegeben, 68 abgelehnt unter f („Den Teller ganz leer essen“ als Aufessmuster). Runde 2: Punkt 14 ersetzt durch „Reste aufheben statt wegwerfen“, Stäbchen ohne „auch wenn es dauert“, 68 freigegeben. Tagesplan mit dreimal Aufbau B vom Prüfer als vertretbar bewertet (A läuft kaum, Zonen ausgeschöpft).
-* Eingeplant: 67 um 12:00, 66 um 15:30, 68 um 19:00 Uhr (+02:00).
-* Prüfung 2: genau drei Reels auf dem richtigen Konto am 04.11. um 12:00, 15:30 und 19:00 Uhr, mit Filter „reel“ gelistet, jede Beschreibung steht beim Post und stimmt mit der Datei überein. Keine Abweichung.
-* Videoordner 2026-10-19 gelöscht.
-* Offen: Vorrat leer. Nächste Brücke um den 08.11. Erfolgsweg: Begriffe aus früheren Runden ohne Einwand wiederverwenden und nur wenige neue ergänzen.
-
 ## Lauf 04.11.2026 abends (für 05.11.2026)
 * Bestand in Publer: heute (04.11.) alle drei Reels veröffentlicht (67, 66, 68). Für morgen alle drei Plätze frei. Vorrat leer, deshalb drei neu gebaut, alle B nach der Wochenauswertung: 69 Kleidung, 70 Handschrift (Spiel nach populärer Graphologie), 71 Warten. ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 300 KB.
 * Qualitätsmanager Prüfung 1, drei Runden, Technik, Stil und Beschreibung immer bestanden, abgelehnt nur wegen Doppelungen (g) und einmal Leitzeichen (f):
@@ -132,3 +123,14 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Prüfung 2: genau drei Reels dieses Kontos am 18.11. um 12:00, 15:30 und 19:00 Uhr (Filter „reel“), richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
 * Kein Videoordner älter als 14 Tage.
 * Im Vorrat: 82 Schlafbedarf (B), für 19.11. vorgesehen. Nächste Brücke um den 24.11.
+
+## Lauf 18.11.2026 abends (für 19.11.2026)
+* Publer verfügbar (Workspace „AMATUSKA Pages“). Heute (18.11.) alle drei Reels veröffentlicht (87, 86, 88). Für morgen alle drei Plätze frei.
+* Aus dem Vorrat: 82 Schlafbedarf (B), Titelbild und Beschreibung kurz angesehen, in Ordnung. Neu gebaut: 89 Musik (A, Studien), 90 Haustiere (B, Studien). ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1, zwei Runden, Technik und Stil immer bestanden:
+  * Runde 1: beide abgelehnt. 89: Überschrift „Puls im Takt“ gibt Bernardi 2006 nicht richtig wieder. 90: drei Aussagen übertrieben (eigener Hund riecht Stress, Aquarium „ein paar Minuten“, „viermal so oft“) und Titelform wie 87, 88.
+  * Runde 2: 89 („Tempo und Puls“) und 90 („So wirken Haustiere auf deinen Körper“) FREIGEGEBEN.
+* Eingeplant: 82 um 12:00, 89 um 15:30, 90 um 19:00 Uhr (+02:00). Raw Adressen mit Status 200.
+* Prüfung 2: genau drei Reels dieses Kontos am 19.11. um 12:00, 15:30 und 19:00 Uhr (Filter „reel“), richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Kein Videoordner älter als 14 Tage.
+* Vorrat leer. Am 20.11. weniger Studienvideos, eher ein Spiel zur Selbstbetrachtung in B. Nächste Brücke um den 24.11.
