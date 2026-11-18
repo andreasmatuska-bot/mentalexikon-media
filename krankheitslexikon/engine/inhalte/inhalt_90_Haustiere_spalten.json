@@ -1,0 +1,37 @@
+{
+ "name": "Krankheitslexikon_90_Haustiere",
+ "aufbau": "spalten",
+ "abstand": 18,
+ "schrift": 29,
+ "titel": "So wirken Haustiere auf deinen Körper",
+ "punkte": [
+  [
+   "10 Minuten streicheln",
+   "Studenten, die zehn Minuten lang Hunde und Katzen streichelten, hatten danach weniger Stresshormon im Speichel."
+  ],
+  [
+   "Ein langer Blick",
+   "Schauen sich Hund und Halter in die Augen, steigt bei beiden das Bindungshormon Oxytocin."
+  ],
+  [
+   "Das Tier ist dabei",
+   "Bei einer stressigen Rechenaufgabe stiegen Puls und Blutdruck weniger, wenn das eigene Haustier im Raum war, als wenn der Partner dort saß."
+  ],
+  [
+   "Hund im Büro",
+   "Wer seinen Hund mit zur Arbeit nahm, fühlte sich im Lauf des Tages weniger gestresst."
+  ],
+  [
+   "Fische beobachten",
+   "Wer in einem großen Aquarium Fischen zusah, hatte danach einen ruhigeren Puls und bessere Laune."
+  ],
+  [
+   "Mehr Bewegung",
+   "Bei Hundehaltern war es etwa viermal so wahrscheinlich, dass sie auf die empfohlenen 150 Minuten Bewegung pro Woche kamen."
+  ],
+  [
+   "Hunde riechen Stress",
+   "Vier trainierte Hunde erkannten am Atem und Schweiß, ob ein Mensch gerade gestresst war, in fast 94 von 100 Fällen."
+  ]
+ ]
+}
