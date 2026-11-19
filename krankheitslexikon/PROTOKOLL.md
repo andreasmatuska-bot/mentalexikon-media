@@ -9,18 +9,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Aufrufe laut Instagram am 09.10.: 05 Schlaf rund 224.000, 06 Verhalten rund 78.000, 09 Krankheit sagen will rund 58.000, 01 Finger rund 30.000, 02 Stress rund 18.500, 07 Haut rund 17.000, 08 Füße rund 16.000, 04 Nie Nein rund 9.000, 03 Rücken rund 7.000. Der alte Stil läuft klar besser, am besten der Aufbau B „Zwei Spalten“.
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
-
-## Lauf 04.11.2026 abends (für 05.11.2026)
-* Bestand in Publer: heute (04.11.) alle drei Reels veröffentlicht (67, 66, 68). Für morgen alle drei Plätze frei. Vorrat leer, deshalb drei neu gebaut, alle B nach der Wochenauswertung: 69 Kleidung, 70 Handschrift (Spiel nach populärer Graphologie), 71 Warten. ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 300 KB.
-* Qualitätsmanager Prüfung 1, drei Runden, Technik, Stil und Beschreibung immer bestanden, abgelehnt nur wegen Doppelungen (g) und einmal Leitzeichen (f):
-  * Runde 1 (je 14 Begriffe): alle drei abgelehnt. 69 fünf Doppelungen (Treue, Schutz, Abstand, bunte Hingucker, eingeengt), 70 acht Doppelungen (Grunddeutungen der Graphologie durch 24, 28, 33, 49, 60 verbraucht), 71 sechs Doppelungen (Tatendrang, Bewegung, Rückzugsort, Begegnung, lieben Menschen Zeit schenken).
-  * Runde 2 (je 12): 69 nur noch „Jeden Tag dasselbe“ wie 51; 70 „Schrift wird am Zeilenende kleiner“ = Mikrographie (Parkinson Leitzeichen) plus drei Doppelungen; 71 inneres Kind (31) und Ungeduld (27).
-  * Runde 3 (je 11): 69 und 71 freigegeben. 70 abgelehnt (großes Ich = Selbstbewusstsein 28, 33; Girlande = Anpassung 22, 33; enge Schrift = kühler Kopf 60).
-* Eingeplant: 69 um 12:00, 71 um 19:00 Uhr (+02:00). 15:30 Uhr am 05.11. bleibt FREI. 70 nicht eingecheckt.
-* Prüfung 2: genau zwei Reels dieses Kontos am 05.11. um 12:00 und 19:00 Uhr, mit Filter „reel“ gelistet, richtige Videos, Beschreibung steht beim Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
-* Videoordner 2026-10-20 gelöscht.
-* Offen: Vorrat leer. 70 Handschrift braucht drei neue Merkmale (acht ohne Einwand, siehe THEMEN.md). Nächste Brücke um den 08.11. Der Deutungsvorrat ist so erschöpft, dass inzwischen nur 11 Begriffe je Video durchgehen; neue Themen am besten aus noch freien Feldern wählen und vor dem Bau jede Deutung per grep prüfen.
-
 ## Lauf 05.11.2026 abends (für 06.11.2026)
 * Bestand in Publer: heute (05.11.) alle Plätze beim Lauf vorbei (20:00 Uhr Zypernzeit), für morgen kein Reel dieses Kontos geplant. Vorrat leer, deshalb drei neu gebaut: 70 Handschrift (B, Spiel), 72 Was dir deine Krankheit sagen will, Teil 7 (A), 73 Redewendungen Teil 6 (B). Keine Brücke (nächste am 07. oder 08.11.). ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 1 MB.
 * Qualitätsmanager Prüfung 1, drei Runden, Technik, Stil und Beschreibung immer bestanden:
@@ -61,7 +49,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Qualitätsmanager Prüfung 1, drei Runden: Runde 1: 79 und 80 FREIGEGEBEN, 81 abgelehnt („Ich stehe Kopf“ groß, fehlende Kommas, Doppelungen: nicht riechen 17, ganz Ohr wie 62, davonlaufen, Gesicht verlieren). Runde 2: 81 abgelehnt (Dickkopf wie 29, 44; „läuft nichts“ wie 37). Runde 3: 81 FREIGEGEBEN.
 * Im Vorrat: 79 (für 12:00), 80 (für 15:30), 81 (für 19:00). Prüfung 2 entfällt, weil nichts eingeplant wurde. Kein Videoordner älter als 14 Tage.
 * Offen: Publer Verbindung prüfen. Für den 10.11. ist noch nichts eingeplant, sofern kein anderer Lauf geplant hat. Der nächste Lauf plant zuerst die drei Vorratsvideos ein und holt die Wochenauswertung nach. Nächste Brücke um den 14.11.
-
 
 ## Lauf 10.11.2026 abends (für 11.11.2026)
 * Publer war wieder nicht verfügbar: Die Verbindung ist im Konto verbunden, ihre Werkzeuge waren in dieser Sitzung aber nicht geladen. Deshalb kein Bestand geprüft, nichts eingeplant, keine Prüfung 2 und keine Wochenauswertung.
@@ -134,3 +121,11 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Prüfung 2: genau drei Reels dieses Kontos am 19.11. um 12:00, 15:30 und 19:00 Uhr (Filter „reel“), richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
 * Kein Videoordner älter als 14 Tage.
 * Vorrat leer. Am 20.11. weniger Studienvideos, eher ein Spiel zur Selbstbetrachtung in B. Nächste Brücke um den 24.11.
+
+## Lauf 19.11.2026 abends (für 20.11.2026)
+* Publer verfügbar (Workspace stand zuerst auf „Kampe&Hahn“, auf „AMATUSKA Pages“ umgestellt). Heute (19.11.) alle drei Reels veröffentlicht (82, 89, 90). Für morgen alle drei Plätze frei. Vorrat leer, deshalb drei neu gebaut: 91 Körper an einem Tag (B, Sachinfo), 92 Verliebt (A, Studien), 93 Körpertest (B, Spiel). ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1, zwei Runden: Runde 1: 91 und 92 FREIGEGEBEN, 93 abgelehnt nur wegen des Arzthinweises („Bewegungen plötzlich schwerfallen“ ist ein Schlaganfall Warnzeichen). Runde 2: Hinweis geändert, 93 FREIGEGEBEN.
+* Eingeplant: 91 um 12:00, 92 um 15:30, 93 um 19:00 Uhr (+02:00). Raw Adressen mit Status 200.
+* Prüfung 2: genau drei Reels dieses Kontos am 20.11. um 12:00, 15:30 und 19:00 Uhr (Filter „reel“), richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Videoordner 2026-11-04 gelöscht.
+* Vorrat leer. Nächste Brücke um den 24.11. Montag 23.11. Wochenauswertung.
