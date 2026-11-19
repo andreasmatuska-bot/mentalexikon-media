@@ -1,0 +1,50 @@
+{
+ "name": "Krankheitslexikon_93_Koerpertest",
+ "aufbau": "spalten",
+ "abstand": 16,
+ "schrift": 28,
+ "titel": "Kleiner Körpertest: Was kannst du?",
+ "unter": "(Und was dahintersteckt…)",
+ "punkte": [
+  [
+   "Zunge rollen",
+   "Lange hieß es, das sei angeboren. Doch selbst eineiige Zwillinge können es nicht immer beide."
+  ],
+  [
+   "Mit den Ohren wackeln",
+   "Die Muskeln dafür sind ein Überbleibsel. Bei Geräuschen zucken sie bei vielen noch unbemerkt."
+  ],
+  [
+   "Ringfinger heben",
+   "Hand flach, Mittelfinger darunter geklappt: Der Ringfinger bleibt liegen, weil seine Sehne mit der des Mittelfingers verbunden ist."
+  ],
+  [
+   "Hände falten",
+   "Liegt dein linker oder dein rechter Daumen oben? Andersherum fühlt es sich ungewohnt an."
+  ],
+  [
+   "Führendes Auge",
+   "Schau durch ein Fenster aus deinen Händen und schließ abwechselnd ein Auge. Bei rund zwei Dritteln führt das rechte."
+  ],
+  [
+   "Zwinkern",
+   "Mit einem Auge klappt es bei vielen viel leichter als mit dem anderen."
+  ],
+  [
+   "Dich selbst kitzeln",
+   "Das klappt kaum, weil dein Gehirn deine eigene Bewegung vorhersieht."
+  ],
+  [
+   "Fuß und die 6",
+   "Dreh im Sitzen den rechten Fuß im Uhrzeigersinn und schreib mit der rechten Hand eine 6 in die Luft. Der Fuß dreht meist mit."
+  ],
+  [
+   "Ellenbogen lecken",
+   "Fast niemand schafft es, Arm und Hals sind dafür nicht beweglich genug."
+  ],
+  [
+   "Zunge an die Nase",
+   "Nur wenige erreichen mit der Zungenspitze die eigene Nasenspitze."
+  ]
+ ]
+}

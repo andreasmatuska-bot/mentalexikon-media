@@ -1,0 +1,21 @@
+{
+ "name": "Krankheitslexikon_91_Koerper_ein_Tag",
+ "aufbau": "spalten",
+ "abstand": 18,
+ "schrift": 29,
+ "titel": "Das leistet dein Körper an einem einzigen Tag",
+ "punkte": [
+  ["Herzschläge", "Dein Herz schlägt rund 100.000 Mal, ohne dass du daran denken musst."],
+  ["Blut", "Dabei pumpt es rund 7.000 Liter Blut durch deinen Körper."],
+  ["Atemzüge", "Du atmest rund 20.000 Mal ein und aus."],
+  ["Luft", "So strömen rund 10.000 Liter Luft durch deine Lunge."],
+  ["Nieren", "Sie filtern rund 180 Liter Flüssigkeit aus deinem Blut. Nur etwa 1,5 Liter davon werden zu Urin."],
+  ["Leber", "Rund 2.000 Liter Blut fließen durch sie hindurch."],
+  ["Speichel", "Dein Mund bildet einen halben bis anderthalb Liter Speichel."],
+  ["Verdauungssäfte", "Mit Magensaft, Galle und Darmsaft sind es zusammen rund 7 Liter."],
+  ["Schlucken", "Du schluckst mehrere hundert Mal, meist ganz unbemerkt."],
+  ["Schwitzen", "Auch ohne Sport gibst du über die Haut rund einen halben Liter Wasser ab."],
+  ["Gehirn", "Es wiegt nur etwa 2 Prozent deines Körpers, verbraucht aber rund 20 Prozent deiner Energie."],
+  ["Wärme", "In Ruhe gibst du etwa so viel Wärme ab wie eine 100 Watt Glühbirne."]
+ ]
+}
