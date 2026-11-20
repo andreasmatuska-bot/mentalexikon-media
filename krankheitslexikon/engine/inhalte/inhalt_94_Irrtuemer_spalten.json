@@ -1,0 +1,54 @@
+{
+ "name": "Krankheitslexikon_94_Irrtuemer",
+ "aufbau": "spalten",
+ "abstand": 14,
+ "schrift": 27,
+ "titel": "Diese Irrtümer über deinen Körper glauben fast alle",
+ "unter": "(Und was wirklich stimmt…)",
+ "punkte": [
+  [
+   "Nur 10 Prozent vom Gehirn",
+   "Falsch. Über den Tag sind praktisch alle Bereiche deines Gehirns aktiv."
+  ],
+  [
+   "Nach dem Rasieren dickere Haare",
+   "Falsch. Die Stoppeln fühlen sich nur rauer an, weil die Spitze gerade abgeschnitten ist."
+  ],
+  [
+   "Zonen auf der Zunge",
+   "Falsch. Süß, sauer, salzig, bitter und umami schmeckst du auf der ganzen Zunge."
+  ],
+  [
+   "Nur fünf Sinne",
+   "Falsch. Du spürst auch Gleichgewicht, Temperatur, Schmerz und die Lage deiner Glieder."
+  ],
+  [
+   "Blaues Blut in den Venen",
+   "Falsch. Blut ist immer rot. Venen wirken nur durch die Haut bläulich."
+  ],
+  [
+   "Kaugummi bleibt sieben Jahre im Magen",
+   "Falsch. Er wird nicht verdaut, verlässt den Körper aber nach ein paar Tagen."
+  ],
+  [
+   "Die meiste Wärme geht über den Kopf",
+   "Falsch. Der Kopf verliert nicht mehr Wärme als andere unbedeckte Stellen."
+  ],
+  [
+   "Zucker macht Kinder hyperaktiv",
+   "In Studien verhielten sich Kinder nach Zucker nicht anders als nach einem Ersatzstoff."
+  ],
+  [
+   "Acht Gläser Wasser am Tag",
+   "Eine feste Regel dafür ist nicht belegt. Auch Essen, Tee und Kaffee liefern Flüssigkeit."
+  ],
+  [
+   "Lesen bei wenig Licht",
+   "Es strengt die Augen an, schadet ihnen nach heutigem Wissen aber nicht dauerhaft."
+  ],
+  [
+   "Linker oder rechter Gehirntyp",
+   "Falsch. Eine Studie mit über 1.000 Menschen fand keine Belege, dass jemand insgesamt mit einer Gehirnhälfte stärker denkt."
+  ]
+ ]
+}

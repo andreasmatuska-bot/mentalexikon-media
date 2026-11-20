@@ -1,0 +1,50 @@
+{
+ "name": "Krankheitslexikon_96_Einzigartig",
+ "aufbau": "spalten",
+ "abstand": 18,
+ "schrift": 29,
+ "titel": "Diese Merkmale hat nur dein Körper genau so",
+ "unter": "(Und was die wenigsten wissen…)",
+ "punkte": [
+  [
+   "Fingerabdruck",
+   "Schon im Mutterleib entsteht dein ganz eigenes Linienmuster, das sich ein Leben lang nicht ändert."
+  ],
+  [
+   "Regenbogenhaut",
+   "Das Muster deiner Iris ist so eigen, dass Geräte dich daran erkennen. Sogar dein linkes und rechtes Auge unterscheiden sich."
+  ],
+  [
+   "Adern in der Hand",
+   "Das Muster deiner Handvenen ist so typisch, dass manche Geldautomaten in Japan damit arbeiten."
+  ],
+  [
+   "Ohrmuschel",
+   "Die Form deiner Ohren ist so eigen, dass sie zur Erkennung von Menschen erforscht wird."
+  ],
+  [
+   "Stimme",
+   "Dein Stimmklang ist so persönlich, dass dich Menschen und Geräte daran erkennen."
+  ],
+  [
+   "Gang",
+   "Deine Art zu gehen ist so typisch, dass Programme Menschen daran wiedererkennen können."
+  ],
+  [
+   "Herzschlag",
+   "Sogar die Kurve deines Herzschlags im EKG ist so eigen, dass sie zur Erkennung erforscht wird."
+  ],
+  [
+   "Lippen",
+   "Auch die feinen Linien auf deinen Lippen bilden ein eigenes Muster."
+  ],
+  [
+   "Körpergeruch",
+   "Spürhunde können Menschen an ihrem ganz eigenen Geruch unterscheiden."
+  ],
+  [
+   "Darmbakterien",
+   "Die Mischung der Bakterien in deinem Darm ist so eigen, dass Forscher Menschen daran wiedererkannt haben."
+  ]
+ ]
+}
