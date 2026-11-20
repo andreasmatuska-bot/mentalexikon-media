@@ -9,17 +9,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Aufrufe laut Instagram am 09.10.: 05 Schlaf rund 224.000, 06 Verhalten rund 78.000, 09 Krankheit sagen will rund 58.000, 01 Finger rund 30.000, 02 Stress rund 18.500, 07 Haut rund 17.000, 08 Füße rund 16.000, 04 Nie Nein rund 9.000, 03 Rücken rund 7.000. Der alte Stil läuft klar besser, am besten der Aufbau B „Zwei Spalten“.
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
-## Lauf 05.11.2026 abends (für 06.11.2026)
-* Bestand in Publer: heute (05.11.) alle Plätze beim Lauf vorbei (20:00 Uhr Zypernzeit), für morgen kein Reel dieses Kontos geplant. Vorrat leer, deshalb drei neu gebaut: 70 Handschrift (B, Spiel), 72 Was dir deine Krankheit sagen will, Teil 7 (A), 73 Redewendungen Teil 6 (B). Keine Brücke (nächste am 07. oder 08.11.). ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 1 MB.
-* Qualitätsmanager Prüfung 1, drei Runden, Technik, Stil und Beschreibung immer bestanden:
-  * Runde 1: alle drei abgelehnt. 70: Druckbuchstaben widerspricht „einzeln gesetzt“ und doppelt 25, Schnörkel mit „alte Bräuche“ ohne Fundstelle. 72: „Spannende Haut im Gesicht“ als Sklerodermie Leitzeichen, Nachbar, Partnerfamilie, Serie und Café doppelt, nur Hautzeichen. 73: sieben Wendungen sinngleich oder nah (Lehre, Ahnen, Einklang, Gelassenheit).
-  * Runde 2: 70 „Punkt hinter der Unterschrift“ wie 71 Unerledigtes; 72 „Schweiß auf der Stirn“ als Herzinfarkt Notfallzeichen, drei Deutungen doppelt; 73 nur „Mir bricht das Herz“ (Kummer wie 65, 11).
-  * Runde 3: alle drei FREIGEGEBEN. 72 nutzt drei am 01.11. bestätigte Deutungen.
-* Eingeplant: 70 um 12:00, 72 um 15:30, 73 um 19:00 Uhr (+02:00).
-* Prüfung 2: genau drei Reels dieses Kontos am 06.11. um 12:00, 15:30 und 19:00 Uhr, mit Filter „reel“ gelistet, richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
-* Videoordner 2026-10-21 gelöscht.
-* Offen: Vorrat leer. Brücke fällig. Bewährt: Redewendungen (Wörterbuchbedeutung) und bereits bestätigte Deutungen wiederverwenden; jede neue Deutung vorher gegen alle Inhalte in engine/inhalte greppen.
-
 ## Lauf 06.11.2026 abends (für 07.11.2026)
 * Bestand in Publer: heute (06.11.) alle Plätze beim Lauf vorbei (20:00 Uhr Zypernzeit), für morgen kein Reel dieses Kontos geplant. Vorrat leer, deshalb drei neu gebaut: 74 Sprichwörter (B, neue Reihe), 75 Nase (A), 76 Woran du merkst, dass jemand deine Grenzen nicht achtet (B, Brücke, Aufruf „Grenze“). ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 1 MB.
 * Qualitätsmanager Prüfung 1, drei Runden, Technik und Stil immer bestanden:
@@ -129,3 +118,13 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Prüfung 2: genau drei Reels dieses Kontos am 20.11. um 12:00, 15:30 und 19:00 Uhr (Filter „reel“), richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
 * Videoordner 2026-11-04 gelöscht.
 * Vorrat leer. Nächste Brücke um den 24.11. Montag 23.11. Wochenauswertung.
+
+## Lauf 20.11.2026 abends (für 21.11.2026)
+* Publer verfügbar (Workspace „AMATUSKA Pages“). Heute (20.11.) alle Plätze beim Lauf vorbei (20:00 Uhr Zypernzeit). Für morgen alle drei Plätze frei. Vorrat leer, deshalb drei neu gebaut: 94 Irrtümer (B, Sachinfo), 95 Zur Ruhe (A, Tipps), 96 Einzigartig (B, Sachinfo). ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1, zwei Runden, Technik und Stil immer bestanden:
+  * Runde 1: 95 FREIGEGEBEN. 94 abgelehnt (Nielsen 2013 zugespitzt wiedergegeben). 96 abgelehnt (Titel „nur ein einziges Mal“ widerspricht dem Inhalt, Zwillingsaussage wie 93 vom Vortag).
+  * Runde 2: 94 und 96 FREIGEGEBEN.
+* Eingeplant: 94 um 12:00, 95 um 15:30, 96 um 19:00 Uhr (+02:00). Raw Adressen mit Status 200.
+* Prüfung 2: genau drei Reels dieses Kontos am 21.11. um 12:00, 15:30 und 19:00 Uhr (Filter „reel“), richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Videoordner 2026-11-05 gelöscht.
+* Vorrat leer. Am 22.11. wieder ein Video im Kernformat. Nächste Brücke um den 24.11. Montag 23.11. Wochenauswertung.
