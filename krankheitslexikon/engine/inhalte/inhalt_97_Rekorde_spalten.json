@@ -1,0 +1,22 @@
+{
+ "name": "Krankheitslexikon_97_Rekorde",
+ "aufbau": "spalten",
+ "abstand": 16,
+ "schrift": 28,
+ "titel": "Die Rekorde deines Körpers",
+ "unter": "(Und was die wenigsten wissen…)",
+ "punkte": [
+  ["Kaumuskel", "Im Verhältnis zu seiner Größe gilt er als dein stärkster Muskel."],
+  ["Gesäßmuskel", "Der große Gesäßmuskel ist dein größter Muskel. Er hält dich beim Gehen und Aufstehen aufrecht."],
+  ["Steigbügel", "Dein kleinster Knochen sitzt im Ohr und ist nur rund 3 Millimeter lang."],
+  ["Oberschenkelknochen", "Dein längster Knochen macht etwa ein Viertel deiner Körpergröße aus."],
+  ["Haut", "Dein größtes Organ. Ausgebreitet wäre sie bei Erwachsenen rund 1,5 bis 2 Quadratmeter groß."],
+  ["Zahnschmelz", "Er ist der härteste Stoff, den dein Körper bildet."],
+  ["Ischiasnerv", "Dein längster Nerv zieht vom unteren Rücken bis in den Fuß."],
+  ["Lidschlag", "Ein Blinzeln dauert nur rund ein bis drei Zehntel Sekunden."],
+  ["Mundschleimhaut", "Wunden im Mund heilen schneller als Wunden auf der Haut."],
+  ["Hornhaut im Auge", "Sie hat keine Blutgefäße und holt sich Sauerstoff zum großen Teil direkt aus der Luft."],
+  ["Zungenbein", "Der einzige Knochen, der mit keinem anderen Knochen ein Gelenk bildet."],
+  ["Knochen bei Geburt", "Babys haben rund 300 Knochen. Viele wachsen zusammen, Erwachsene haben 206."]
+ ]
+}

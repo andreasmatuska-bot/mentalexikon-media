@@ -1,0 +1,42 @@
+{
+ "name": "Krankheitslexikon_99_Koerpertest_2",
+ "aufbau": "spalten",
+ "abstand": 16,
+ "schrift": 28,
+ "titel": "Kleiner Körpertest Teil 2: Was kannst du?",
+ "unter": "(Und was dahintersteckt…)",
+ "punkte": [
+  [
+   "Zunge falten",
+   "Manche können ihre Zunge wie ein Kleeblatt falten. Das schaffen nur sehr wenige."
+  ],
+  [
+   "Sehne am Handgelenk",
+   "Drück Daumen und kleinen Finger zusammen und beug die Hand leicht. Manchen fehlt die Sehne in der Mitte, ohne dass es stört."
+  ],
+  [
+   "Ohrläppchen",
+   "Frei hängend oder angewachsen? Dafür sorgen viele Gene zusammen, nicht nur eines."
+  ],
+  [
+   "Höckerchen am Ohr",
+   "Fühl am oberen Rand deiner Ohrmuschel. Manche haben dort ein kleines Höckerchen."
+  ],
+  [
+   "Eine Augenbraue heben",
+   "Manche können nur eine Seite hochziehen, manche gar keine allein."
+  ],
+  [
+   "Lauwarmes Wasser",
+   "Leg eine Hand in kaltes, die andere in warmes Wasser. Danach beide in lauwarmes: Für die eine Hand ist es warm, für die andere kalt."
+  ],
+  [
+   "Blinder Fleck",
+   "Mal ein Kreuz und rechts daneben einen Punkt auf Papier. Schließ das linke Auge, schau mit dem rechten aufs Kreuz und geh langsam näher. Der Punkt verschwindet."
+  ],
+  [
+   "Zwei Nasen",
+   "Kreuz Zeige und Mittelfinger und streich mit beiden Fingerspitzen über deine Nasenspitze. Es fühlt sich an wie zwei Nasen."
+  ]
+ ]
+}
