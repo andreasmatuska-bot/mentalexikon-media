@@ -9,18 +9,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Aufrufe laut Instagram am 09.10.: 05 Schlaf rund 224.000, 06 Verhalten rund 78.000, 09 Krankheit sagen will rund 58.000, 01 Finger rund 30.000, 02 Stress rund 18.500, 07 Haut rund 17.000, 08 Füße rund 16.000, 04 Nie Nein rund 9.000, 03 Rücken rund 7.000. Der alte Stil läuft klar besser, am besten der Aufbau B „Zwei Spalten“.
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
-## Lauf 08.11.2026 abends (für 09.11.2026)
-* Bestand in Publer: für morgen kein Reel dieses Kontos geplant. Heute (08.11.) war kein Beitrag dieses Kontos eingeplant (am 07.11. lief kein Lauf), alle Plätze waren beim Lauf vorbei (20:00 Uhr Zypernzeit). Vorrat leer, deshalb neu gebaut: 77 Redewendungen Teil 7 (B), 78 Lippen (A), dazu für 19:00 erst Nachrichten (B), dann Sprichwörter Teil 2 (B). ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 1 MB.
-* Qualitätsmanager Prüfung 1, drei Runden, Technik und Stil immer bestanden, abgelehnt nur wegen g (und einmal e):
-  * Runde 1: alle drei abgelehnt. 77 drei Deutungen belegt (Ellenbogen 38, Fersen als Spiegel 62, Mund verbrannt 66), 78 fünf Deutungen belegt, 79 Nachrichten fast komplett belegt.
-  * Runde 2: 77 nur „Auf Augenhöhe“ (76, 53). 78 Enttäuschung, Vorausplanen und doppeltes Lernen. 79 Sprichwörter Teil 2 abgelehnt (kaum Körperbezug, zweite Sprachreihe am selben Tag, vier Doppelungen).
-  * Runde 3: 77 (11 Wendungen) und 78 FREIGEGEBEN. 79 nicht mehr eingereicht.
-* Eingeplant: 77 um 12:00, 78 um 15:30 Uhr (+02:00), raw Adressen mit Status 200. 19:00 Uhr am 09.11. bleibt FREI.
-* Prüfung 2: genau zwei Reels dieses Kontos am 09.11. um 12:00 und 15:30 Uhr, mit Filter „reel“ gelistet, richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
-* Videoordner 2026-10-23 und 2026-10-24 gelöscht.
-* Zahlen der letzten 14 Tage (Vorgriff auf die Montagsauswertung): am meisten Reichweite hatten B Themen zum Alltag und zum Körper (69 Kleidung rund 74.000, 55 Krankheit Teil 5 rund 58.000, 60 Gesicht rund 51.000). Die Brücke 53 hatte die höchste Interaktion (304 Speicherungen).
-* Offen: Vorrat leer. Deutungsvorrat fast erschöpft; für 19:00 Uhr fand sich kein Thema, das in drei Runden besteht. Nächster Lauf: früh ein B Thema mit Körperbezug aus neuem Feld wählen, nicht Redewendungen am 10.11. um 12:00.
-
 ## Lauf 09.11.2026 abends (für 10.11.2026)
 * Publer war in diesem Lauf nicht verfügbar (die Publer Verbindung war in der Sitzung nicht geladen, keine Publer Werkzeuge). Deshalb kein Bestand geprüft, nichts eingeplant und keine Montagsauswertung möglich. Nach Auftrag die freigegebenen Videos nach vorrat/ gelegt, damit der nächste Lauf sie einplant.
 * Vorrat vorher leer, deshalb drei neu gebaut, nach dem Hinweis vom 08.11. aus neuen Feldern mit Quelle: 79 Wo du deine Gefühle im Körper spürst (B, Studie Nummenmaa 2014), 80 Was dein Körper nachts für dich tut (A), 81 Redewendungen Teil 8 (B). Keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 1 MB.
@@ -127,3 +115,15 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Prüfung 2: genau drei Reels dieses Kontos am 22.11. um 12:00, 15:30 und 19:00 Uhr (Filter „reel“), richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
 * Videoordner 2026-11-06 gelöscht.
 * Vorrat leer. Am 23.11. um 12:00 keine reine Sachinfo. Nächste Brücke um den 24.11. Montag 23.11. Wochenauswertung.
+
+## Lauf 22.11.2026 abends (für 23.11.2026)
+* Publer verfügbar (Workspace „AMATUSKA Pages“). Heute (22.11.) alle drei Reels veröffentlicht (97, 98, 99). Für morgen alle drei Plätze frei. Vorrat leer, deshalb neu gebaut. ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1, drei Runden, Technik und Stil immer bestanden:
+  * Runde 1: alle drei abgelehnt. Brücke „Das verändert sich, wenn du Grenzen setzt“ (B): fast alle Punkte belegt, Grenzen Thema ausgeschöpft, verworfen. 101 Lachen: „Lachen steckt an“ wie 31, „Weniger Schmerz“ wörtlich wie 92. 102 Kälte: Titel „So schützt dich …“ trug nicht alle Punkte, laufende Nase, kalte Finger, Zittern belegt, Arzthinweis mit Leitsymptom.
+  * Runde 2: statt der Brücke 100 Einschlafen (B, Tipps). 101 und 102 FREIGEGEBEN. 100 abgelehnt („Gedanken aufschreiben“ belegt durch 32, 67).
+  * Runde 3: 100 mit „Tagsüber bewegen“ FREIGEGEBEN.
+* Eingeplant: 100 Einschlafen um 12:00, 101 Lachen um 15:30, 102 Kälte um 19:00 Uhr (+02:00). Raw Adressen mit Status 200.
+* Prüfung 2: genau drei Reels dieses Kontos am 23.11. um 12:00, 15:30 und 19:00 Uhr (Filter „reel“), richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Wochenauswertung (letzte 14 Tage, Reichweite): vorn 93 Körpertest (B, rund 22.700), 82 Schlafbedarf (B, rund 22.200), 85 Erneuerung (B, rund 16.900), 84 Hochsensibel (Brücke, rund 14.000, meiste Likes) und 79 Gefühle im Körper (B, rund 13.800, meiste Speicherungen). Zwei Spalten mit Spiel oder nachprüfbarer Sachinfo läuft klar am besten, Schlaf zieht; das Kernformat mit freien Deutungen (78 Lippen rund 9.000) schwächer. Themenwahl: weiter vor allem B mit Spiel, Schlaf und Körperwissen, Brücke rund einmal pro Woche.
+* Videoordner 2026-11-07 gelöscht.
+* Vorrat leer. Brücke fällig (nicht wieder Grenzen), am 24.11. kein Schlafthema, ein Video im Kernformat.
