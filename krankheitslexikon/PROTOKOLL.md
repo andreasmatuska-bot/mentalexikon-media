@@ -9,13 +9,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Aufrufe laut Instagram am 09.10.: 05 Schlaf rund 224.000, 06 Verhalten rund 78.000, 09 Krankheit sagen will rund 58.000, 01 Finger rund 30.000, 02 Stress rund 18.500, 07 Haut rund 17.000, 08 Füße rund 16.000, 04 Nie Nein rund 9.000, 03 Rücken rund 7.000. Der alte Stil läuft klar besser, am besten der Aufbau B „Zwei Spalten“.
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
-## Lauf 09.11.2026 abends (für 10.11.2026)
-* Publer war in diesem Lauf nicht verfügbar (die Publer Verbindung war in der Sitzung nicht geladen, keine Publer Werkzeuge). Deshalb kein Bestand geprüft, nichts eingeplant und keine Montagsauswertung möglich. Nach Auftrag die freigegebenen Videos nach vorrat/ gelegt, damit der nächste Lauf sie einplant.
-* Vorrat vorher leer, deshalb drei neu gebaut, nach dem Hinweis vom 08.11. aus neuen Feldern mit Quelle: 79 Wo du deine Gefühle im Körper spürst (B, Studie Nummenmaa 2014), 80 Was dein Körper nachts für dich tut (A), 81 Redewendungen Teil 8 (B). Keine Brücke. ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 1 MB.
-* Qualitätsmanager Prüfung 1, drei Runden: Runde 1: 79 und 80 FREIGEGEBEN, 81 abgelehnt („Ich stehe Kopf“ groß, fehlende Kommas, Doppelungen: nicht riechen 17, ganz Ohr wie 62, davonlaufen, Gesicht verlieren). Runde 2: 81 abgelehnt (Dickkopf wie 29, 44; „läuft nichts“ wie 37). Runde 3: 81 FREIGEGEBEN.
-* Im Vorrat: 79 (für 12:00), 80 (für 15:30), 81 (für 19:00). Prüfung 2 entfällt, weil nichts eingeplant wurde. Kein Videoordner älter als 14 Tage.
-* Offen: Publer Verbindung prüfen. Für den 10.11. ist noch nichts eingeplant, sofern kein anderer Lauf geplant hat. Der nächste Lauf plant zuerst die drei Vorratsvideos ein und holt die Wochenauswertung nach. Nächste Brücke um den 14.11.
-
 ## Lauf 10.11.2026 abends (für 11.11.2026)
 * Publer war wieder nicht verfügbar: Die Verbindung ist im Konto verbunden, ihre Werkzeuge waren in dieser Sitzung aber nicht geladen. Deshalb kein Bestand geprüft, nichts eingeplant, keine Prüfung 2 und keine Wochenauswertung.
 * Nichts neu gebaut: Im Vorrat liegen schon die drei freigegebenen Videos 79 Gefühle im Körper (12:00), 80 Nachts (15:30) und 81 Redewendungen Teil 8 (19:00), genug für den nächsten Tag mit Verbindung. Ein zweiter Satz hätte bei dem fast erschöpften Deutungsvorrat Themen verbraucht, ohne dass ein Platz gefüllt wird.
@@ -127,3 +120,15 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Wochenauswertung (letzte 14 Tage, Reichweite): vorn 93 Körpertest (B, rund 22.700), 82 Schlafbedarf (B, rund 22.200), 85 Erneuerung (B, rund 16.900), 84 Hochsensibel (Brücke, rund 14.000, meiste Likes) und 79 Gefühle im Körper (B, rund 13.800, meiste Speicherungen). Zwei Spalten mit Spiel oder nachprüfbarer Sachinfo läuft klar am besten, Schlaf zieht; das Kernformat mit freien Deutungen (78 Lippen rund 9.000) schwächer. Themenwahl: weiter vor allem B mit Spiel, Schlaf und Körperwissen, Brücke rund einmal pro Woche.
 * Videoordner 2026-11-07 gelöscht.
 * Vorrat leer. Brücke fällig (nicht wieder Grenzen), am 24.11. kein Schlafthema, ein Video im Kernformat.
+
+## Lauf 23.11.2026 abends (für 24.11.2026)
+* Publer verfügbar (Workspace „AMATUSKA Pages“). Heute (23.11.) alle drei Reels veröffentlicht (100, 101, 102). Für morgen alle drei Plätze frei. Vorrat leer, deshalb neu gebaut. ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,3 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1, drei Runden, Technik und Stil immer bestanden:
+  * Runde 1: alle drei abgelehnt. Brücke „zu streng mit dir“: Titel trug nur 4 von 10 Punkten, mehrere Deutungen belegt (14, 23, 27, 54, 58), Arzthinweis mit Leitsymptom, Einstieg drei Sätze. Bauch fühlt mit: kein Kernformat, Studienvideo um 15:30 wie am Vortag, Bechara misst Haut. Reflexe: Babyreflexe widersprachen dem Titel.
+  * Runde 2: 103 (Titel „Mitgefühl mit dir selbst fehlt“, acht Punkte) und 105 (Niesen, Schlucken, Abfangen statt Babyreflexe) FREIGEGEBEN. Neues 104 Entspannungszeichen abgelehnt (Grundaussage belegt).
+  * Runde 3: 104 Chakren abgelehnt (Deutungen belegt, Aufbau wie 98 zwei Tage vorher, Quelle falsch benannt). 15:30 bleibt frei.
+* Eingeplant: 103 um 12:00 (Brücke, Aufruf „sanft“), 105 um 19:00 Uhr (+02:00). Raw Adressen mit Status 200.
+* Prüfung 2: genau zwei Reels dieses Kontos am 24.11. um 12:00 und 19:00 Uhr (Filter „reel“), richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung. 15:30 frei.
+* Montagsauswertung: am 22.11. erst gemacht, Richtung unverändert (vor allem B mit Spiel, Schlaf und Körperwissen, Brücke rund einmal pro Woche).
+* Kein Videoordner älter als 14 Tage (2026-11-09 genau 14 Tage).
+* Offen: 24.11. 15:30 ohne Reel. Kernformat weiter fällig, Deutungsvorrat fast erschöpft; Andreas sollte entscheiden, ob das Kernformat seltener kommen darf. Vorrat leer.
