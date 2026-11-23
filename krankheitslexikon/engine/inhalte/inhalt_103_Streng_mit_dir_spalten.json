@@ -1,0 +1,18 @@
+{
+ "name": "Krankheitslexikon_103_Streng_mit_dir",
+ "aufbau": "spalten",
+ "abstand": 18,
+ "schrift": 29,
+ "titel": "Woran du erkennst, dass dir Mitgefühl mit dir selbst fehlt",
+ "unter": "(nach der Selbstmitgefühl Skala der Psychologin Kristin Neff)",
+ "punkte": [
+  ["Eigene Schwächen", "Deine eigenen Fehler und Schwächen verurteilst du."],
+  ["Kühl zu dir", "Leidest du, kannst du ziemlich kalt zu dir selbst sein."],
+  ["Runtermachen", "Siehst du Seiten an dir, die du nicht magst, machst du dich selbst runter."],
+  ["Nicht genug", "Misslingt dir etwas Wichtiges, fühlst du dich ganz und gar unzulänglich."],
+  ["Allein damit", "Nach einem Fehler fühlst du dich damit ganz allein."],
+  ["Alle anderen", "In schweren Zeiten glaubst du, alle anderen hätten es leichter als du."],
+  ["Aufgebauscht", "Etwas Schmerzhaftes wird in deinem Kopf viel größer, als es ist."],
+  ["Mitgerissen", "Regt dich etwas auf, reißen deine Gefühle dich mit."]
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Krankheitslexikon_105_Reflexe",
+ "aufbau": "spalten",
+ "abstand": 18,
+ "schrift": 29,
+ "titel": "Diese Reflexe hat dein Körper fest eingebaut",
+ "unter": "(Und was die wenigsten wissen…)",
+ "punkte": [
+  [
+   "Heiße Herdplatte",
+   "Deine Hand zuckt zurück, bevor du den Schmerz spürst. Das Rückenmark entscheidet allein."
+  ],
+  [
+   "Kniesehne",
+   "Ein Schlag unter die Kniescheibe, und dein Bein schnellt nach vorn, ganz ohne Gehirn."
+  ],
+  [
+   "Pupillen",
+   "Bei hellem Licht werden sie in Sekundenbruchteilen eng, beide zugleich."
+  ],
+  [
+   "Lidschluss",
+   "Berührt etwas dein Auge, schließen sich beide Lider sofort."
+  ],
+  [
+   "Würgen",
+   "Kommt etwas zu weit in den Rachen, würgt dein Körper es wieder hoch."
+  ],
+  [
+   "Husten",
+   "Gerät etwas in die Luftröhre, hustet dein Körper es kräftig hinaus."
+  ],
+  [
+   "Tauchreflex",
+   "Kaltes Wasser im Gesicht lässt dein Herz langsamer schlagen."
+  ],
+  [
+   "Niesen",
+   "Reizt etwas deine Nase, schleudert ein kräftiger Nieser es wieder hinaus."
+  ],
+  [
+   "Schlucken",
+   "Berührt Essen deinen hinteren Rachen, läuft das Schlucken von allein ab und die Luftröhre wird verschlossen."
+  ],
+  [
+   "Abfangen",
+   "Kommst du ins Stolpern, reißt du die Arme nach vorn, noch bevor du daran denkst."
+  ]
+ ]
+}
