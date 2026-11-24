@@ -9,12 +9,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Aufrufe laut Instagram am 09.10.: 05 Schlaf rund 224.000, 06 Verhalten rund 78.000, 09 Krankheit sagen will rund 58.000, 01 Finger rund 30.000, 02 Stress rund 18.500, 07 Haut rund 17.000, 08 Füße rund 16.000, 04 Nie Nein rund 9.000, 03 Rücken rund 7.000. Der alte Stil läuft klar besser, am besten der Aufbau B „Zwei Spalten“.
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
-## Lauf 10.11.2026 abends (für 11.11.2026)
-* Publer war wieder nicht verfügbar: Die Verbindung ist im Konto verbunden, ihre Werkzeuge waren in dieser Sitzung aber nicht geladen. Deshalb kein Bestand geprüft, nichts eingeplant, keine Prüfung 2 und keine Wochenauswertung.
-* Nichts neu gebaut: Im Vorrat liegen schon die drei freigegebenen Videos 79 Gefühle im Körper (12:00), 80 Nachts (15:30) und 81 Redewendungen Teil 8 (19:00), genug für den nächsten Tag mit Verbindung. Ein zweiter Satz hätte bei dem fast erschöpften Deutungsvorrat Themen verbraucht, ohne dass ein Platz gefüllt wird.
-* Kein Videoordner älter als 14 Tage.
-* Offen: Publer Verbindung in den Einstellungen prüfen. 10.11. und 11.11. ohne Reel dieses Kontos, sofern nicht von Hand geplant. Der nächste Lauf plant zuerst die drei Vorratsvideos ein und holt die Wochenauswertung nach.
-
 ## Lauf 11.11.2026 abends (für 12.11.2026)
 * Publer wieder nicht verfügbar: im Konto verbunden, die Werkzeuge waren in dieser Sitzung aber nicht geladen. Kein Bestand geprüft, nichts eingeplant, keine Prüfung 2, keine Wochenauswertung.
 * Nichts neu gebaut, aus demselben Grund wie am 10.11.: Im Vorrat liegen weiter die drei freigegebenen Videos 79 Gefühle im Körper (12:00), 80 Nachts (15:30) und 81 Redewendungen Teil 8 (19:00).
@@ -132,3 +126,13 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Montagsauswertung: am 22.11. erst gemacht, Richtung unverändert (vor allem B mit Spiel, Schlaf und Körperwissen, Brücke rund einmal pro Woche).
 * Kein Videoordner älter als 14 Tage (2026-11-09 genau 14 Tage).
 * Offen: 24.11. 15:30 ohne Reel. Kernformat weiter fällig, Deutungsvorrat fast erschöpft; Andreas sollte entscheiden, ob das Kernformat seltener kommen darf. Vorrat leer.
+
+## Lauf 24.11.2026 abends (für 25.11.2026)
+* Publer verfügbar (Workspace „AMATUSKA Pages“). Heute (24.11.) 103 und 105 veröffentlicht, 15:30 blieb frei, alle Plätze beim Lauf vorbei. Für morgen alle drei Plätze frei. Vorrat leer, deshalb neu gebaut. ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1, zwei Runden, Technik und Stil immer bestanden:
+  * Runde 1: 106 Schlafphasen und 108 Maße FREIGEGEBEN. 107 Augen abgelehnt (Titel „eine Pause“ trug nicht alle Punkte, „keine Lampe und kein Fenster spiegeln“ steht so nicht bei der AAO, Kernformat noch fällig).
+  * Runde 2: 109 Blase (A, Kernformat) abgelehnt (vier Leitzeichen der Dranginkontinenz, vier Deutungen belegt). 107 korrigiert („So schonst du deine Augen am Bildschirm:“, „Matte Schutzfolie“) FREIGEGEBEN, Kernformat Fälligkeit vom Prüfer ausgesetzt.
+* Eingeplant: 106 um 12:00, 107 um 15:30, 108 um 19:00 Uhr (+02:00). Raw Adressen mit Status 200.
+* Prüfung 2: genau drei Reels dieses Kontos am 25.11. um 12:00, 15:30 und 19:00 Uhr (Filter „reel“), richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Videoordner 2026-11-09 gelöscht.
+* Offen: Vorrat leer. Andreas sollte entscheiden, ob das Kernformat (Körperteil mit seelischer Deutung) seltener kommen darf, der Deutungsvorrat ist erschöpft.
