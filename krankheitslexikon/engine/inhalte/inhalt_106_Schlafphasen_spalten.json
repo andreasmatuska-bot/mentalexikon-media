@@ -1,0 +1,50 @@
+{
+ "name": "Krankheitslexikon_106_Schlafphasen",
+ "aufbau": "spalten",
+ "abstand": 18,
+ "schrift": 29,
+ "titel": "So läuft eine Nacht Schlaf in deinem Körper ab",
+ "unter": "(Und was die wenigsten wissen…)",
+ "punkte": [
+  [
+   "Einschlafen",
+   "Die ersten Minuten sind ganz leichter Schlaf. Ein leises Geräusch reicht, und du bist wieder wach."
+  ],
+  [
+   "Leichter Schlaf",
+   "Puls und Atmung werden langsamer, deine Körpertemperatur sinkt. Hier verbringst du den größten Teil der Nacht."
+  ],
+  [
+   "Tiefschlaf",
+   "Herzschlag und Atmung sind am langsamsten. Jetzt bist du am schwersten zu wecken."
+  ],
+  [
+   "Tiefschlaf zuerst",
+   "Den meisten Tiefschlaf bekommst du in der ersten Hälfte der Nacht."
+  ],
+  [
+   "Traumschlaf",
+   "Deine Augen bewegen sich hinter den geschlossenen Lidern schnell hin und her."
+  ],
+  [
+   "Ruhige Muskeln",
+   "Arme und Beine sind im Traumschlaf kurz wie gelähmt. So spielst du deine Träume nicht nach."
+  ],
+  [
+   "Fast wie wach",
+   "Im Traumschlaf werden Atmung und Herzschlag schneller und unregelmäßiger, fast wie im Wachsein."
+  ],
+  [
+   "Rund 90 Minuten",
+   "Der erste Traumschlaf beginnt etwa 90 Minuten nach dem Einschlafen."
+  ],
+  [
+   "Mehrere Runden",
+   "Diese Abfolge wiederholt sich in jeder Nacht meist vier bis sechs Mal."
+  ],
+  [
+   "Längere Träume",
+   "Gegen Morgen werden die Traumphasen immer länger."
+  ]
+ ]
+}
