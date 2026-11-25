@@ -1,0 +1,42 @@
+{
+ "name": "Krankheitslexikon_110_Bauch_Kopf",
+ "aufbau": "spalten",
+ "abstand": 20,
+ "schrift": 29,
+ "titel": "So eng ist dein Bauch mit deinem Kopf verbunden",
+ "unter": "(Und was die wenigsten wissen…)",
+ "punkte": [
+  [
+   "Eigenes Nervennetz",
+   "In deiner Darmwand stecken über 100 Millionen Nervenzellen. Man nennt dieses Netz auch das Bauchhirn."
+  ],
+  [
+   "Arbeitet auch allein",
+   "Die Verdauung steuert dein Darm zum großen Teil selbst, ohne Befehle vom Gehirn."
+  ],
+  [
+   "Direkte Leitung",
+   "Der Vagusnerv verbindet deinen Bauch mit deinem Gehirn."
+  ],
+  [
+   "Meist von unten nach oben",
+   "Rund 80 Prozent seiner Fasern melden etwas aus dem Körper an das Gehirn. Nur ein kleiner Teil schickt Befehle zurück."
+  ],
+  [
+   "Serotonin",
+   "Rund 90 Prozent dieses Botenstoffs entstehen in deinem Darm. Ins Gehirn gelangt dieses Serotonin aber nicht direkt."
+  ],
+  [
+   "Mitbewohner",
+   "In dir leben ungefähr so viele Bakterien, wie du Körperzellen hast, die meisten im Darm (Weizmann Institut, 2016)."
+  ],
+  [
+   "Joghurt und Gefühle",
+   "Frauen, die vier Wochen lang zweimal am Tag einen Joghurt mit bestimmten Bakterien aßen, zeigten eine veränderte Hirnaktivität beim Anschauen von Gesichtern (UCLA, 2013)."
+  ],
+  [
+   "Stress bei Mäusen",
+   "Mäuse, die ganz ohne Darmbakterien aufwuchsen, reagierten stärker auf Stress (Universität Kyushu, 2004)."
+  ]
+ ]
+}

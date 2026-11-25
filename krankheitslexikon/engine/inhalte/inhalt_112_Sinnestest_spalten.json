@@ -1,0 +1,46 @@
+{
+ "name": "Krankheitslexikon_112_Sinnestest",
+ "aufbau": "spalten",
+ "abstand": 14,
+ "schrift": 27,
+ "titel": "Kleiner Sinnestest zum Mitmachen",
+ "unter": "(Und was die wenigsten wissen…)",
+ "punkte": [
+  [
+   "Zugehaltene Nase",
+   "Nase zuhalten, Gummibärchen essen: Du schmeckst nur süß. Lässt du los, kommt das Aroma."
+  ],
+  [
+   "Trockene Zunge",
+   "Tupf die Zunge trocken und streu Zucker darauf. Du schmeckst ihn kaum, bis Speichel kommt."
+  ],
+  [
+   "Zwei Spitzen",
+   "Zwei Stiftspitzen dicht nebeneinander: Am Finger spürst du zwei, am Unterarm oft nur eine."
+  ],
+  [
+   "Lineal fangen",
+   "Jemand lässt ein Lineal ohne Vorwarnung fallen. Bis du zugreifst, vergeht rund eine Fünftelsekunde."
+  ],
+  [
+   "Farben am Rand",
+   "Schau geradeaus, jemand führt einen bunten Stift von hinten neben deinen Kopf. Die Bewegung siehst du vor der Farbe."
+  ],
+  [
+   "Kalte Münze",
+   "Im Liegen eine kalte, dann eine handwarme gleiche Münze auf die Stirn: Die kalte wirkt schwerer."
+  ],
+  [
+   "Geräusch orten",
+   "Augen zu: Ob ein Schnippen genau vor oder hinter dir war, verwechselst du leicht. Von der Seite erkennst du es sofort."
+  ],
+  [
+   "Duft verschwindet",
+   "Sprüh Parfum aufs Handgelenk und riech immer wieder daran: Nach ein paar Minuten riechst du es kaum noch."
+  ],
+  [
+   "Nachbild",
+   "Starr 30 Sekunden auf einen roten Punkt, dann auf weißes Papier: Du siehst einen grünblauen Fleck."
+  ]
+ ]
+}
