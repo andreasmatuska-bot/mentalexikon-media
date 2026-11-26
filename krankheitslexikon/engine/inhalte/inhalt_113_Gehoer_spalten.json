@@ -1,0 +1,19 @@
+{
+ "name": "Krankheitslexikon_113_Gehoer",
+ "aufbau": "spalten",
+ "abstand": 16,
+ "schrift": 28,
+ "titel": "So schützt du dein Gehör im Alltag",
+ "unter": "(Tipps nach der Weltgesundheitsorganisation)",
+ "punkte": [
+  ["Leiser stellen", "Dreh die Lautstärke an Handy und Kopfhörern herunter. Die WHO rät zu höchstens 60 Prozent der Höchstlautstärke."],
+  ["Kürzer hören", "Je lauter du hörst, desto kürzer sollte es sein. Begrenze die Zeit mit Kopfhörern."],
+  ["Kleine Pausen", "Gönn deinen Ohren immer wieder ein paar ruhige Minuten ohne Musik oder Lärm."],
+  ["Gut sitzende Kopfhörer", "Kopfhörer, die gut sitzen und Umgebungslärm dämpfen, musst du nicht so laut aufdrehen."],
+  ["Ohrstöpsel", "Trag bei Konzerten, in Clubs oder bei lauter Arbeit Ohrstöpsel."],
+  ["Abstand halten", "Bleib nicht direkt neben großen Lautsprechern stehen."],
+  ["Lautstärke messen", "Eine App auf dem Handy zeigt dir, wie laut es um dich herum wirklich ist."],
+  ["Die Grenze kennen", "Für Erwachsene gelten höchstens rund 40 Stunden pro Woche bei 80 Dezibel als sicher."],
+  ["Gehör prüfen lassen", "Lass dein Gehör von Zeit zu Zeit testen, auch wenn du nichts bemerkst."]
+ ]
+}

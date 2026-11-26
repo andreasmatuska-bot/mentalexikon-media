@@ -1,0 +1,19 @@
+{
+ "name": "Krankheitslexikon_115_Warum_Koerper",
+ "aufbau": "spalten",
+ "abstand": 16,
+ "schrift": 28,
+ "titel": "Warum macht dein Körper das?",
+ "unter": "(Und was dahintersteckt…)",
+ "punkte": [
+  ["Fremde Stimme", "Sonst hörst du dich auch über die Knochen im Kopf, das klingt tiefer. Die Aufnahme fängt nur den Schall aus der Luft ein."],
+  ["Tränen bei Zwiebeln", "Beim Schneiden entsteht ein Gas, das die Augen reizt. Die Tränen spülen es weg."],
+  ["Gähnen steckt an", "Siehst du jemanden gähnen, gähnst du oft mit, am ehesten bei Menschen, die dir nah sind."],
+  ["Sehen im Dunkeln", "Deine Augen stellen sich langsam um. Bis du im Dunkeln richtig gut siehst, dauert es bis zu 30 Minuten."],
+  ["Lichter beim Augenreiben", "Der Druck reizt die Sinneszellen im Auge. Dein Gehirn deutet das als Licht."],
+  ["Musikantenknochen", "Am Ellenbogen liegt ein Nerv dicht unter der Haut. Ein Stoß kribbelt bis in den kleinen Finger."],
+  ["Juckende Wunden", "Beim Heilen werden Botenstoffe frei und feine Nerven wachsen nach. Das juckt."],
+  ["Augen im Spiegel", "Du siehst deine Augen nie wandern. Bei schnellen Blicken blendet dein Gehirn das Bild kurz aus."],
+  ["Bitterer Saft", "Nach dem Zähneputzen schmeckt Orangensaft bitter. Ein Stoff in der Zahnpasta dämpft kurz das Süße."]
+ ]
+}
