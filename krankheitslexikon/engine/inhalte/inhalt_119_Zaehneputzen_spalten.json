@@ -1,0 +1,20 @@
+{
+ "name": "Krankheitslexikon_119_Zaehneputzen",
+ "aufbau": "spalten",
+ "abstand": 18,
+ "schrift": 28,
+ "titel": "Darauf kommt es beim Zähneputzen an",
+ "unter": "(Empfehlungen des britischen Gesundheitsdienstes NHS)",
+ "punkte": [
+  ["Zweimal am Tag", "Putze abends als Letztes vor dem Schlafengehen und einmal zu einer anderen Zeit."],
+  ["Rund 2 Minuten", "So lange sollte jedes Putzen ungefähr dauern."],
+  ["Mit Fluorid", "Erwachsene nehmen eine Zahnpasta mit mindestens 1.350 ppm Fluorid."],
+  ["Ausspucken statt ausspülen", "Spucke den Rest der Zahnpasta nur aus. Mit Wasser nachspülen wäscht das Fluorid weg."],
+  ["Mundspülung zu anderer Zeit", "Nicht direkt nach dem Putzen, lieber zum Beispiel nach dem Mittagessen."],
+  ["Danach kurz warten", "Nach einer Mundspülung mit Fluorid 30 Minuten nichts essen und nichts trinken."],
+  ["Zahnseide zuerst", "Am besten benutzt du Zahnseide vor dem Zähneputzen."],
+  ["Bürstchen für Lücken", "Zwischenraumbürstchen gehen statt Zahnseide, vor allem bei Lücken zwischen den Zähnen."],
+  ["Kleiner Kopf", "Für die meisten passt eine Bürste mit kleinem Kopf und weichen oder mittleren Borsten."],
+  ["Elektrisch oder von Hand", "Beides ist gleich gut, wenn du alle Flächen mit Fluoridzahnpasta putzt."]
+ ]
+}
