@@ -9,12 +9,6 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Aufrufe laut Instagram am 09.10.: 05 Schlaf rund 224.000, 06 Verhalten rund 78.000, 09 Krankheit sagen will rund 58.000, 01 Finger rund 30.000, 02 Stress rund 18.500, 07 Haut rund 17.000, 08 Füße rund 16.000, 04 Nie Nein rund 9.000, 03 Rücken rund 7.000. Der alte Stil läuft klar besser, am besten der Aufbau B „Zwei Spalten“.
 * 09.10.: Lauf auf Wunsch von Andreas ganz in die Cloud verlegt. Engine, Musik, Vorlagen und die fünf freigegebenen Videos 10 bis 14 liegen jetzt in diesem Repository. Upload läuft über GitHub, Chrome und der Mac werden nicht mehr gebraucht.
 
-## Lauf 14.11.2026 abends (für 15.11.2026)
-* Publer wieder nicht verfügbar: im Konto verbunden, die Werkzeuge waren in dieser Sitzung aber nicht geladen (auch nach Neuladen der Verbindungen nicht). Kein Bestand geprüft, nichts eingeplant, keine Prüfung 2, keine Wochenauswertung.
-* Nichts neu gebaut, aus demselben Grund wie seit dem 10.11.: Im Vorrat liegen weiter die drei freigegebenen Videos 79 Gefühle im Körper (12:00), 80 Nachts (15:30) und 81 Redewendungen Teil 8 (19:00).
-* Kein Videoordner älter als 14 Tage.
-* Offen: Publer Verbindung für den geplanten Lauf freischalten. 10.11. bis 15.11. ohne Reel dieses Kontos, sofern nicht von Hand geplant. Der nächste Lauf mit Verbindung plant zuerst die drei Vorratsvideos ein und holt die Wochenauswertung nach. Brücke fällig.
-
 ## Lauf 15.11.2026 abends (für 16.11.2026)
 * Publer wieder verfügbar (Workspace stand zuerst auf „Kampe&Hahn“, auf „AMATUSKA Pages“ umgestellt). Bestand: heute (15.11.) kein Reel dieses Kontos, alle Plätze beim Lauf schon vorbei (20:00 Uhr Zypernzeit). Für morgen alle drei Plätze frei.
 * Aus dem Vorrat: 79 Gefühle im Körper (B), 80 Nachts (A), 81 Redewendungen Teil 8 (B), nach videos/2026-11-16 verschoben. Titelbilder und Beschreibungen kurz angesehen, in Ordnung. Nichts neu gebaut, deshalb keine Prüfung 1.
@@ -148,3 +142,13 @@ Je Lauf ein kurzer Eintrag (Datum, was gebaut, Ergebnis des Qualitätsmanagers m
 * Prüfung 2: genau drei Reels dieses Kontos am 28.11. um 12:00, 15:30 und 19:00 Uhr (Filter „reel“), richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
 * Kein Videoordner älter als 14 Tage. Protokoll auf die letzten 14 Läufe gekürzt.
 * Offen: Vorrat leer. Am 29.11. um 19:00 keine reine Sachinfo, Titelform „So …“ ruhen lassen. Nächste Brücke um den 01.12. (Montag 30.11. Wochenauswertung). Entscheidung von Andreas zum Kernformat steht weiter aus.
+
+## Lauf 28.11.2026 abends (für 29.11.2026)
+* Publer verfügbar (Workspace „AMATUSKA Pages“). Heute (28.11.) alle drei Reels veröffentlicht (116, 117, 118). Für morgen alle drei Plätze frei. Vorrat leer, deshalb drei neu gebaut: 119 Zähneputzen (B, Tipps nach dem NHS), 120 Dankbarkeit (A, Studien), 121 Chakren (B, westliche Chakrenlehre nach Anodea Judith). ffprobe je 6,0 s, 1080x1920, 30 Bilder (180), Tonspur, minus 16,2 LUFS, unter 1 MB.
+* Qualitätsmanager Prüfung 1, zwei Runden, Technik und Stil immer bestanden:
+  * Runde 1: 119 FREIGEGEBEN. 120 abgelehnt (Titel „Was Dankbarkeit in dir bewirkt“ trägt Kumar und Epley 2018 nicht). 121 abgelehnt („Raum einzunehmen“ und „den Wunsch, gehört zu werden“ nicht wörtlich nach Judith; „Genuss“ und „Halt“ schon belegt).
+  * Runde 2: 120 („Was Dankbarkeit bewirkt:“) und 121 (Erdung, Fluss und Veränderung, die Wahrheit sagen und hören) FREIGEGEBEN.
+* Eingeplant: 119 um 12:00, 120 um 15:30, 121 um 19:00 Uhr (+02:00). Raw Adressen mit Status 200.
+* Prüfung 2: genau drei Reels dieses Kontos am 29.11. um 12:00, 15:30 und 19:00 Uhr (Filter „reel“), richtige Videos, Beschreibung steht bei jedem Post und stimmt Wort für Wort mit der Datei überein. Keine Abweichung.
+* Kein Videoordner älter als 14 Tage.
+* Offen: Vorrat leer. Am 30.11. um 15:30 kein Studienvideo, um 12:00 kein NHS oder WHO Tippvideo. Montag 30.11. Wochenauswertung. Nächste Brücke um den 01.12. Entscheidung von Andreas zum Kernformat steht weiter aus.
